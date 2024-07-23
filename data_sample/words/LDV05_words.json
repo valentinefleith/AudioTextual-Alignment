@@ -1,0 +1,930 @@
+{
+    "high": [
+        {
+            "word": "chanson",
+            "index": 19
+        },
+        {
+            "word": "thèse",
+            "index": 29
+        },
+        {
+            "word": "entière",
+            "index": 36
+        },
+        {
+            "word": "serait",
+            "index": 37
+        },
+        {
+            "word": "obnubilée",
+            "index": 39
+        },
+        {
+            "word": "ce",
+            "index": 41
+        },
+        {
+            "word": "qui",
+            "index": 42
+        },
+        {
+            "word": "et",
+            "index": 52
+        },
+        {
+            "word": "même",
+            "index": 55
+        },
+        {
+            "word": "conflits",
+            "index": 58
+        },
+        {
+            "word": "figurez",
+            "index": 62
+        },
+        {
+            "word": "dans",
+            "index": 72
+        },
+        {
+            "word": "de",
+            "index": 75
+        },
+        {
+            "word": "filles",
+            "index": 87
+        },
+        {
+            "word": "réalité",
+            "index": 96
+        },
+        {
+            "word": "le",
+            "index": 101
+        },
+        {
+            "word": "la",
+            "index": 111
+        },
+        {
+            "word": "vous",
+            "index": 120
+        },
+        {
+            "word": "sont",
+            "index": 124
+        },
+        {
+            "word": "ces",
+            "index": 125
+        },
+        {
+            "word": "rapports",
+            "index": 126
+        },
+        {
+            "word": "premier",
+            "index": 128
+        },
+        {
+            "word": "cas",
+            "index": 132
+        },
+        {
+            "word": "corps",
+            "index": 134
+        },
+        {
+            "word": "sujet",
+            "index": 137
+        },
+        {
+            "word": "ou",
+            "index": 148
+        },
+        {
+            "word": "illégitimes",
+            "index": 156
+        },
+        {
+            "word": "voire",
+            "index": 158
+        },
+        {
+            "word": "plus",
+            "index": 159
+        },
+        {
+            "word": "deuxième",
+            "index": 163
+        },
+        {
+            "word": "complexe",
+            "index": 169
+        },
+        {
+            "word": "là",
+            "index": 179
+        },
+        {
+            "word": "pierrette",
+            "index": 182
+        },
+        {
+            "word": "plusieurs",
+            "index": 188
+        },
+        {
+            "word": "serviteurs",
+            "index": 189
+        },
+        {
+            "word": "son",
+            "index": 208
+        },
+        {
+            "word": "à",
+            "index": 217
+        },
+        {
+            "word": "fois",
+            "index": 219
+        },
+        {
+            "word": "l'objet",
+            "index": 221
+        },
+        {
+            "word": "grivoise",
+            "index": 230
+        },
+        {
+            "word": "aussi",
+            "index": 241
+        },
+        {
+            "word": "mobile",
+            "index": 243
+        },
+        {
+            "word": "quel",
+            "index": 250
+        },
+        {
+            "word": "est",
+            "index": 251
+        },
+        {
+            "word": "ni",
+            "index": 261
+        },
+        {
+            "word": "l'homicide",
+            "index": 267
+        },
+        {
+            "word": "voyez",
+            "index": 284
+        },
+        {
+            "word": "j'essaie",
+            "index": 285
+        },
+        {
+            "word": "comprendre",
+            "index": 287
+        },
+        {
+            "word": "tous",
+            "index": 289
+        },
+        {
+            "word": "croyez",
+            "index": 301
+        },
+        {
+            "word": "archives",
+            "index": 319
+        },
+        {
+            "word": "d'affaires",
+            "index": 327
+        },
+        {
+            "word": "judiciaires",
+            "index": 328
+        },
+        {
+            "word": "transcrites",
+            "index": 333
+        },
+        {
+            "word": "enregistrées",
+            "index": 339
+        },
+        {
+            "word": "calculs",
+            "index": 355
+        },
+        {
+            "word": "je",
+            "index": 378
+        },
+        {
+            "word": "femmes",
+            "index": 384
+        },
+        {
+            "word": "dépend",
+            "index": 385
+        },
+        {
+            "word": "se",
+            "index": 391
+        },
+        {
+            "word": "côté",
+            "index": 405
+        },
+        {
+            "word": "communes",
+            "index": 436
+        },
+        {
+            "word": "surveillées",
+            "index": 441
+        },
+        {
+            "word": "notamment",
+            "index": 443
+        },
+        {
+            "word": "tout",
+            "index": 452
+        },
+        {
+            "word": "ci",
+            "index": 465
+        },
+        {
+            "word": "l'heure",
+            "index": 475
+        },
+        {
+            "word": "putain",
+            "index": 492
+        },
+        {
+            "word": "prêtresse",
+            "index": 493
+        },
+        {
+            "word": "autrement",
+            "index": 495
+        },
+        {
+            "word": "l'accuse",
+            "index": 498
+        },
+        {
+            "word": "seulement",
+            "index": 509
+        },
+        {
+            "word": "très",
+            "index": 531
+        },
+        {
+            "word": "retenir",
+            "index": 538
+        },
+        {
+            "word": "pas",
+            "index": 566
+        },
+        {
+            "word": "des",
+            "index": 572
+        },
+        {
+            "word": "soulever",
+            "index": 578
+        },
+        {
+            "word": "conception",
+            "index": 583
+        },
+        {
+            "word": "rapport",
+            "index": 589
+        },
+        {
+            "word": "beaucoup",
+            "index": 606
+        },
+        {
+            "word": "d'amis",
+            "index": 607
+        },
+        {
+            "word": "ton",
+            "index": 637
+        },
+        {
+            "word": "porc",
+            "index": 638
+        },
+        {
+            "word": "moi",
+            "index": 658
+        }
+    ],
+    "low": [
+        {
+            "word": "voir",
+            "index": 7
+        },
+        {
+            "word": "jupes",
+            "index": 10
+        },
+        {
+            "word": "elle",
+            "index": 23
+        },
+        {
+            "word": "me",
+            "index": 24
+        },
+        {
+            "word": "rappelle",
+            "index": 25
+        },
+        {
+            "word": "mon",
+            "index": 26
+        },
+        {
+            "word": "chanson",
+            "index": 33
+        },
+        {
+            "word": "l'humanité",
+            "index": 34
+        },
+        {
+            "word": "entière",
+            "index": 36
+        },
+        {
+            "word": "obnubilée",
+            "index": 39
+        },
+        {
+            "word": "par",
+            "index": 40
+        },
+        {
+            "word": "se",
+            "index": 43
+        },
+        {
+            "word": "passe",
+            "index": 44
+        },
+        {
+            "word": "les",
+            "index": 47
+        },
+        {
+            "word": "des",
+            "index": 49
+        },
+        {
+            "word": "cela",
+            "index": 53
+        },
+        {
+            "word": "conduirait",
+            "index": 54
+        },
+        {
+            "word": "à",
+            "index": 56
+        },
+        {
+            "word": "et",
+            "index": 60
+        },
+        {
+            "word": "figurez",
+            "index": 62
+        },
+        {
+            "word": "vous",
+            "index": 63
+        },
+        {
+            "word": "y",
+            "index": 66
+        },
+        {
+            "word": "a",
+            "index": 67
+        },
+        {
+            "word": "environ",
+            "index": 68
+        },
+        {
+            "word": "royaume",
+            "index": 74
+        },
+        {
+            "word": "en",
+            "index": 95
+        },
+        {
+            "word": "réalité",
+            "index": 96
+        },
+        {
+            "word": "j'étudie",
+            "index": 97
+        },
+        {
+            "word": "rapports",
+            "index": 99
+        },
+        {
+            "word": "corps",
+            "index": 102
+        },
+        {
+            "word": "féminin",
+            "index": 103
+        },
+        {
+            "word": "crime",
+            "index": 108
+        },
+        {
+            "word": "vais",
+            "index": 119
+        },
+        {
+            "word": "montrer",
+            "index": 121
+        },
+        {
+            "word": "quels",
+            "index": 123
+        },
+        {
+            "word": "premier",
+            "index": 128
+        },
+        {
+            "word": "exemple",
+            "index": 129
+        },
+        {
+            "word": "le",
+            "index": 131
+        },
+        {
+            "word": "du",
+            "index": 133
+        },
+        {
+            "word": "sujet",
+            "index": 137
+        },
+        {
+            "word": "engendrer",
+            "index": 152
+        },
+        {
+            "word": "enfants",
+            "index": 154
+        },
+        {
+            "word": "illégitimes",
+            "index": 156
+        },
+        {
+            "word": "deuxième",
+            "index": 163
+        },
+        {
+            "word": "plus",
+            "index": 168
+        },
+        {
+            "word": "complexe",
+            "index": 169
+        },
+        {
+            "word": "nous",
+            "index": 171
+        },
+        {
+            "word": "chartres",
+            "index": 174
+        },
+        {
+            "word": "vit",
+            "index": 181
+        },
+        {
+            "word": "pierrette",
+            "index": 182
+        },
+        {
+            "word": "mariée",
+            "index": 185
+        },
+        {
+            "word": "emploie",
+            "index": 187
+        },
+        {
+            "word": "plusieurs",
+            "index": 188
+        },
+        {
+            "word": "serviteurs",
+            "index": 189
+        },
+        {
+            "word": "de",
+            "index": 196
+        },
+        {
+            "word": "faire",
+            "index": 201
+        },
+        {
+            "word": "grivoise",
+            "index": 205
+        },
+        {
+            "word": "la",
+            "index": 218
+        },
+        {
+            "word": "l'objet",
+            "index": 226
+        },
+        {
+            "word": "mais",
+            "index": 235
+        },
+        {
+            "word": "ce",
+            "index": 253
+        },
+        {
+            "word": "second",
+            "index": 254
+        },
+        {
+            "word": "n'est",
+            "index": 260
+        },
+        {
+            "word": "ni",
+            "index": 263
+        },
+        {
+            "word": "que",
+            "index": 266
+        },
+        {
+            "word": "l'homicide",
+            "index": 267
+        },
+        {
+            "word": "valais",
+            "index": 269
+        },
+        {
+            "word": "même",
+            "index": 275
+        },
+        {
+            "word": "voyez",
+            "index": 284
+        },
+        {
+            "word": "j'essaie",
+            "index": 285
+        },
+        {
+            "word": "comprendre",
+            "index": 287
+        },
+        {
+            "word": "comment",
+            "index": 288
+        },
+        {
+            "word": "ces",
+            "index": 291
+        },
+        {
+            "word": "gravitent",
+            "index": 294
+        },
+        {
+            "word": "autour",
+            "index": 295
+        },
+        {
+            "word": "moi",
+            "index": 302
+        },
+        {
+            "word": "alors",
+            "index": 311
+        },
+        {
+            "word": "je",
+            "index": 315
+        },
+        {
+            "word": "aux",
+            "index": 318
+        },
+        {
+            "word": "archives",
+            "index": 319
+        },
+        {
+            "word": "nationales",
+            "index": 320
+        },
+        {
+            "word": "j'y",
+            "index": 322
+        },
+        {
+            "word": "ai",
+            "index": 323
+        },
+        {
+            "word": "photographié",
+            "index": 324
+        },
+        {
+            "word": "judiciaires",
+            "index": 328
+        },
+        {
+            "word": "ma",
+            "index": 341
+        },
+        {
+            "word": "qu'en",
+            "index": 364
+        },
+        {
+            "word": "histoire",
+            "index": 365
+        },
+        {
+            "word": "final",
+            "index": 376
+        },
+        {
+            "word": "constate",
+            "index": 379
+        },
+        {
+            "word": "l'identité",
+            "index": 382
+        },
+        {
+            "word": "dépend",
+            "index": 385
+        },
+        {
+            "word": "souvent",
+            "index": 386
+        },
+        {
+            "word": "avons",
+            "index": 407
+        },
+        {
+            "word": "gouvernées",
+            "index": 413
+        },
+        {
+            "word": "leur",
+            "index": 431
+        },
+        {
+            "word": "femmes",
+            "index": 435
+        },
+        {
+            "word": "celles",
+            "index": 438
+        },
+        {
+            "word": "sont",
+            "index": 440
+        },
+        {
+            "word": "notamment",
+            "index": 443
+        },
+        {
+            "word": "hommes",
+            "index": 446
+        },
+        {
+            "word": "pas",
+            "index": 454
+        },
+        {
+            "word": "tranché",
+            "index": 456
+        },
+        {
+            "word": "dernier",
+            "index": 460
+        },
+        {
+            "word": "cette",
+            "index": 463
+        },
+        {
+            "word": "fois",
+            "index": 464
+        },
+        {
+            "word": "sommes",
+            "index": 467
+        },
+        {
+            "word": "c'est",
+            "index": 474
+        },
+        {
+            "word": "l'église",
+            "index": 483
+        },
+        {
+            "word": "autrement",
+            "index": 495
+        },
+        {
+            "word": "l'accuse",
+            "index": 498
+        },
+        {
+            "word": "donc",
+            "index": 505
+        },
+        {
+            "word": "malades",
+            "index": 532
+        },
+        {
+            "word": "retenir",
+            "index": 538
+        },
+        {
+            "word": "joue",
+            "index": 544
+        },
+        {
+            "word": "rôle",
+            "index": 546
+        },
+        {
+            "word": "important",
+            "index": 548
+        },
+        {
+            "word": "médiévales",
+            "index": 561
+        },
+        {
+            "word": "s'agit",
+            "index": 564
+        },
+        {
+            "word": "non",
+            "index": 565
+        },
+        {
+            "word": "soulever",
+            "index": 569
+        },
+        {
+            "word": "j'ai",
+            "index": 605
+        },
+        {
+            "word": "d'amis",
+            "index": 607
+        },
+        {
+            "word": "quand",
+            "index": 618
+        },
+        {
+            "word": "âge",
+            "index": 622
+        },
+        {
+            "word": "période",
+            "index": 624
+        },
+        {
+            "word": "harvey",
+            "index": 634
+        },
+        {
+            "word": "balance",
+            "index": 636
+        },
+        {
+            "word": "on",
+            "index": 640
+        },
+        {
+            "word": "ça",
+            "index": 643
+        },
+        {
+            "word": "finalement",
+            "index": 653
+        },
+        {
+            "word": "serez",
+            "index": 655
+        },
+        {
+            "word": "d'accord",
+            "index": 656
+        },
+        {
+            "word": "avec",
+            "index": 657
+        },
+        {
+            "word": "moyen",
+            "index": 664
+        },
+        {
+            "word": "propre",
+            "index": 668
+        }
+    ],
+    "highrise": [
+        {
+            "word": "exemple",
+            "index": 129
+        },
+        {
+            "word": "centaines",
+            "index": 326
+        },
+        {
+            "word": "tranché",
+            "index": 456
+        },
+        {
+            "word": "ou",
+            "index": 597
+        },
+        {
+            "word": "thèse",
+            "index": 651
+        }
+    ],
+    "highfall": [
+        {
+            "word": "transcrites",
+            "index": 333
+        },
+        {
+            "word": "mal",
+            "index": 427
+        },
+        {
+            "word": "prêtresse",
+            "index": 493
+        },
+        {
+            "word": "quelle",
+            "index": 623
+        }
+    ]
+}

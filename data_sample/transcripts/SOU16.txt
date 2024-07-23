@@ -1,0 +1,67 @@
+ Dans les 180 prochaines secondes,
+ 30 millions de litres de pétrole vont être consommés.
+ Ce qui nous amène à 2 problèmes.
+ 1, l'épuisement des ressources fossiles et de leurs dérivés,
+ les carburants au sens large,
+ éthanol, butane de votre camping-gaz, méthane, essence.
+ Et 2, l'accumulation du CO2 atmosphérique
+ due à leur combustion.
+ En effet, d'un point de vue chimique,
+ un carburant, ce n'est autre qu'une longue chaîne de carbone,
+ imaginez un collier de perles comme celui dessiné à gauche,
+ dans son énergie.
+ Cette énergie est contenue dans les liaisons, le fil,
+ entre les carbones, les perles,
+ si bien que lorsque vous brûlez du carburant
+ dans votre moteur de voiture,
+ vous cassez ces liaisons en libérant de l'énergie et des déchets
+ les CO2, c'est-à-dire les perles à quelques oxygènes près.
+ Donc s'il est possible de dégrader ces carburants
+ pour en extraire de l'énergie,
+ pourquoi ne pas les régénérer ensuite à partir de CO2
+ et, révois un peu, d'énergie renouvelable ?
+ Ce faisant, on n'aurait plus besoin d'extraire de pétrole
+ puisqu'on aurait déjà un cycle énergétique durable.
+ Alors bien sûr, cette réaction,
+ elle représente un véritable défi scientifique
+ parce qu'il faut confiner les CO2,
+ puis leur fournir sans perte l'énergie minimale
+ nécessaire à les recombiner.
+ Pour cela, il nous faut designer des supports
+ facilitant cette réaction.
+ C'est ce que je fais en développant des électrodes
+ contenues dans cette boîte au centre
+ et qui sont des plaques métalliques bien spéciales,
+ c'est simple, à la surface desquelles la réaction
+ va pouvoir se produire.
+ La nature chimique et la structure de ces électrodes
+ sont les deux paramètres sur lesquels je joue
+ pour déterminer, un, le type de carburant produit
+ et, deux, l'efficacité, c'est-à-dire la vitesse
+ à laquelle ma réaction va se produire.
+ Et cette vitesse, elle est cruciale
+ en vue d'un déploiement industriel
+ parce que, je le redis, ici, notre point de comparaison,
+ ce ne sont pas moins de 30 millions de litres de pétrole
+ en 180 secondes.
+ Donc, ce sont des capacités de production
+ absolument démentielles.
+ Alors, durant ma première année de thèse,
+ j'ai développé des électrodes à base d'alliages zinc-cuivre,
+ en haut à gauche,
+ présentant une porosité extrêmement fine.
+ Cette porosité extrêmement fine,
+ unique et inattendue, que l'on a brevetée, d'ailleurs,
+ elle leur confère une très grande surface de réaction
+ et donc une capacité à conduire très vite
+ ce recyclage de CO2 en carburant.
+ Alors, maintenant, qu'en faire de ces électrodes ?
+ Eh bien, l'étape suivante va consister à les coupler
+ à des panneaux solaires,
+ de sorte à aboutir à une preuve de concept
+ d'un système de production complet de carburant renouvelable.
+ Renouvelable, pourquoi ?
+ Parce qu'ils n'auront besoin que de deux matières premières
+ pour être produits,
+ du CO2, de l'air, et du soleil.
+ Alors, au travail. Merci.

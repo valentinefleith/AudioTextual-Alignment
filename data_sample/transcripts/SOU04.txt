@@ -1,0 +1,51 @@
+ Imaginez-vous la nuit au volant de votre voiture.
+ En général, vous n'êtes pas très rassuré et vous avez bien raison.
+ En effet, à cause de la mauvaise visibilité, un accident est vite arrivé.
+ Pour nous aider, il faudrait qu'on ait dans nos voitures des caméras qui voient la nuit.
+ Mais comment ça marcherait ?
+ Est-ce que vous avez déjà remarqué que quand on chauffe très fort un métal,
+ ce dernier émet de la lumière rouge ?
+ Et quand on le chauffe encore plus fort, il émet de la lumière blanche.
+ Mais quand on ne le chauffe pas alors, il émet toujours de la lumière,
+ sauf qu'on ne peut pas la voir avec nos yeux.
+ C'est de la lumière infrarouge.
+ Et il n'y a pas que les métaux, tous les objets, les animaux et les êtres humains en émettent.
+ Et les caméras infrarouges sont capables de la détecter de jour comme de nuit.
+ Alors, les caméras infrarouges, ça existe déjà.
+ Et pourtant, on n'en trouve pas dans nos voitures.
+ Pourquoi ? Parce qu'elles sont trop chères.
+ Et le but de ma thèse, c'est de développer une nouvelle technologie pour pouvoir baisser le prix.
+ Pour cela, j'ai besoin d'un matériau qui va vérifier trois critères.
+ Critère 1, être facile à fabriquer.
+ Critère 2, absorber les infrarouges, bien sûr.
+ Et critère 3, il faudrait qu'il convertisse cette absorption des infrarouges
+ en quelque chose de facile à mesurer.
+ Un courant électrique, par exemple.
+ Parmi les rares candidats, on trouve les particules de tellure de mercure.
+ Ces particules se synthétisent facilement et en plus, elles sont photoconductrices.
+ C'est-à-dire que la lumière qu'elles absorbent peut être convertie en courant électrique,
+ comme un panneau solaire.
+ En plus, elles absorbent les infrarouges,
+ mais ça, c'est à une condition, qu'on les fabrique de la bonne taille.
+ En effet, ces particules ont des propriétés un peu particulières,
+ qu'on appelle des propriétés quantiques.
+ Le type de lumière qu'elles absorbent dépend de leur taille.
+ Et ça, c'est une propriété qu'on ne retrouve pas dans la vie de tous les jours.
+ Par exemple, vous lavez une chemise bleue et elle rétrécit au lavage.
+ Si elle avait les mêmes propriétés que mes particules quantiques,
+ en changeant de taille, elle aurait changé de couleur.
+ Pour mes particules, il faut donc que je les synthétise de la taille
+ qui absorbe les infrarouges, c'est-à-dire 10 nanomètres,
+ soit 100 000 fois plus fin qu'un cheveu.
+ Mais il me reste un dernier problème.
+ C'est comment arriver à collecter un courant électrique
+ sur un objet aussi petit ?
+ C'est impossible. Il me faut quelque chose de plus gros.
+ C'est pourquoi je dépose mes particules sous la forme d'un film
+ et je branche les extrémités à un appareil qui mesure le courant électrique.
+ Il me reste alors à m'assurer que si une lumière infrarouge
+ est absorbée au milieu du film, le courant électrique qu'elle générera
+ arrivera à sauter d'une particule à l'autre,
+ rejoindre l'extrémité du film et être détectée.
+ Si j'y parviens, on peut espérer que d'ici quelques années,
+ on trouve des caméras infrarouges dans nos voitures.

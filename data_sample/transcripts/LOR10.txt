@@ -1,0 +1,45 @@
+ Qui parmi vous n'a jamais souhaité connaître son avenir ?
+ Qui n'a jamais lu la rubrique horoscope de son journal ?
+ Pour ma part, je tente de prédire l'avenir de la forêt française.
+ Alors oui, à ce stade, soit vous demandez, mais il ne pourrait pas plutôt prédire
+ sinon s'il remontera un jour en Liguin, chose impossible,
+ soit vous vous dites, mais à quoi ça sert ? La forêt, ça pousse, non ?
+ Et vous avez parfaitement raison.
+ La quantité de bois de la forêt française augmente depuis maintenant plus de 150 ans.
+ Mais un danger guette cette croissance forestière, le changement climatique.
+ Pour savoir à quel point les forêts sont vulnérables au changement climatique,
+ il est nécessaire d'anticiper leur futur.
+ Par exemple, si le réchauffement est de 2 degrés d'ici 20 ans,
+ comment les forêts vont-elles réagir ?
+ En connaissant ce futur, nous pourrons améliorer la gestion forestière
+ afin d'aider les forêts à mieux lutter contre le changement climatique
+ en favorisant par exemple les mélanges feuillus-conifères dans nos forêts.
+ Pour connaître l'avenir de la forêt, j'utilise non pas une boule de cristal,
+ mais un simulateur de croissance.
+ Ce simulateur est capable de prédire la quantité de bois future de la forêt française.
+ Mais je le soupçonne d'être inexact.
+ Mon rôle va être de l'améliorer.
+ Pour cela, je dois comprendre s'il existe des freins à la croissance forestière.
+ Nous pensons aujourd'hui qu'il en existe deux.
+ Tout d'abord, la forêt elle-même, car plus elle pousse,
+ plus les arbres vont être en compétition les uns avec les autres pour l'accès à la lumière.
+ Par exemple, si cet été vous allez à la plage,
+ et que celle-ci est noire de monde,
+ vous allez être en compétition pour mettre votre serviette au soleil.
+ Le second frein probable serait les effets du changement climatique.
+ Ils se traduisent par une augmentation des températures
+ et par une diminution de l'eau disponible.
+ Revenons sur cette plage, vous êtes parvenu à poser votre serviette au soleil.
+ Maintenant, il fait 40 degrés et vous n'avez pas d'eau.
+ Résultat, vous cuisez. Enfin, vous vous desséchez.
+ Alors, comment savoir si ces deux phénomènes ralentissent ou non la croissance de la forêt française ?
+ Pour cela, à l'aide de méthodes mathématiques,
+ je vais intégrer les effets de la compétition et celui du changement climatique dans le simulateur.
+ En démarrant les simulations en 1980, puis en effectuant un retour vers le futur jusqu'à aujourd'hui,
+ je peux comparer la quantité de bois prédite par le simulateur
+ avec la quantité de bois réellement observée de nos jours.
+ Si les prédictions sont correctes, j'aurai identifié la compétition entre les arbres
+ et le changement climatique comme étant bien des freins à l'expansion de la forêt française.
+ Par la suite, en effectuant des prédictions sur 20, 50 et même 100 ans,
+ le simulateur permettra aux forestiers et aux politiciens d'adapter la gestion en tenant compte de ces deux freins.
+ Car il ne faut pas oublier, messieurs, dames, que ce sont nos choix présents qui construisent le monde de demain.

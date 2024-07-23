@@ -1,0 +1,62 @@
+Le week-end dernier, j'ai gardé la maison de ma meilleure amie.
+Et j'ai pas pu prendre de douche parce que le siphon était bouché.
+J'ai soulevé le filtre en métal, j'ai rien vu.
+J'ai versé une bouteille de déboucheur liquide, rien à faire.
+Dans la vie, je suis interne en chirurgie vasculaire.
+Mon quotidien, c'est de déboucher les tuyaux du corps humain, les veines.
+Quand une veine est bouchée par un caillot de sang, on dit qu'elle est thrombosée,
+on peut pas arrêter le sang de circuler.
+Il s'accumule, il crée de l'odème, des douleurs,
+parfois même des plaies qui ne cicatrisent pas et des difficultés à la marche.
+En Europe, chaque année, c'est 300 000 nouvelles personnes qui vont être atteintes de cette maladie.
+Une veine, c'est un tuyau, mais c'est un tuyau qui est vivant,
+qui va réagir quand il est bouché.
+Il va y avoir des phénomènes d'inflammation.
+Son élasticité va changer, c'est-à-dire sa capacité à se déformer sans se casser.
+Et tous ces phénomènes qu'on appelle le remodelage veineux
+sont aujourd'hui peu connus, mais surtout peu étudiés.
+Or, si on ne sait pas comment ça marche, on ne peut pas le soigner.
+C'est comme dans ma baignoire, si c'est le canard qui est tombé,
+ce n'est pas le déboucheur liquide qui va m'aider.
+Pour pouvoir étudier cette maladie, je ne peux pas travailler directement sur l'homme.
+J'ai besoin d'un modèle vivant, qui soit de taille et de mécanismes similaires.
+Mon projet de recherche est donc de créer cette thrombose veineuse
+chez le cochon pour pouvoir l'étudier.
+Je commençais par réfléchir au protocole.
+Comment créer une thrombose qui soit similaire à ce qui se passe chez l'homme?
+Comment le cochon va réagir?
+Comment observer le cahier évolué et combien de temps?
+Pour ça, j'ai énormément lu.
+J'ai contacté d'autres équipes en France, à l'étranger.
+Je travaillais avec les vétérinaires.
+J'ai testé et retesté le protocole sur des veines artificielles.
+J'ai mis au point un protocole qui est milli-invasif,
+c'est à dire qu'il soit le moins traumatisant possible.
+Sous anesthésie générale, je pique une veine au niveau du cou,
+une veine au niveau du pli de laine.
+Par ces deux accès, j'avance un ballon que je vais gonfler
+pour aller occlure la veine.
+Au milieu, j'injecte de la thrombine, un agent qui active la coagulation.
+J'attends que le sang se transforme en caillot.
+Puis, je retire tout le matériel.
+Et ça a marché.
+J'ai obtenu une veine complètement thrombosée.
+Mon cochon s'est très bien réveillé.
+Il a eu des scanners, il a eu des IRM.
+J'ai pu récupérer cette portion de veine pour l'étudier au microscope.
+Il y a eu des succès.
+Il y a eu quelques complications.
+Il y a eu quelques échecs aussi.
+Il faut continuer de retravailler encore et encore le protocole
+et d'anticiper chaque complication.
+Au final, j'ai réussi à mettre au point un modèle qui soit robuste,
+qui soit reproductible et qui permette de créer une thrombose veineuse
+aux caractéristiques similaires à celles qu'on retrouve chez l'homme.
+Les premiers résultats d'imagerie montrent que des séquences précises d'IRM
+sont capables d'identifier les composants du caillot
+qui apparaissent et qui disparaissent au cours du temps.
+C'est-à-dire que dans le futur,
+on peut imaginer que grâce à l'IRM,
+on sera capable de prédire l'efficacité de certains médicaments
+de manière spécifique pour chaque patient
+et ainsi mieux les soigner.
