@@ -1,4 +1,5 @@
 import os
+import glob
 import json
 import bert_embedding_extractor as be
 
@@ -36,16 +37,17 @@ def read_words(json_file: str):
 
 if __name__ == "__main__":
     # Define paths
-    transcripts_folder = './transcripts'
-    words_json = './words.json'
+    transcripts_folder = './data_sample/transcripts/'
+    words_json = glob.glob('./data_sample/words/*.json')
 
     # Read transcripts and words
     transcripts = read_transcripts(transcripts_folder)
-    words_to_contextualize = read_words(words_json)
+    for json_file in words_json:
+        words_to_contextualize = read_words(json_file)
 
-    for transcript in transcripts:
-        embeddings = be.get_contextualized_bert_embeddings(transcript, words_to_contextualize)
+        for transcript in transcripts:
+            embeddings = be.get_contextualized_bert_embeddings(transcript, words_to_contextualize)
 
-        # Print embeddings for each word
-        for word, embedding in embeddings:
-            print(f"Word: {word}, Embedding: {embedding[:5]}...")  # Print first 5 values for brevity
+            # Print embeddings for each word
+            for word, embedding in embeddings:
+                print(f"Word: {word}, Embedding: {embedding[:5]}...")  # Print first 5 values for brevity
