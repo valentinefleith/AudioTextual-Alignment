@@ -7,6 +7,7 @@ import textgrids as tgt
 
 PITCH_LEVELS = {"high": "H", "low": "L", "highrise": "HR", "highfall": "HF"}
 
+
 class Word:
     """
     Represents a word with its associated TextGrid index and time intervals.
@@ -36,6 +37,7 @@ class Word:
             "index": self.tgt_index,
         }
 
+
 def already_stored(word_text, word_list):
     """
     Checks if a word is already in the list of words.
@@ -51,6 +53,7 @@ def already_stored(word_text, word_list):
         if word.word == word_text:
             return True
     return False
+
 
 def find_words_in_intervals(time_intervals, words):
     """
@@ -71,6 +74,7 @@ def find_words_in_intervals(time_intervals, words):
                     word_list.append(Word(word, index))
                 break
     return word_list
+
 
 def extract_words_by_pitch_level(level, transcript_paths, pitch_paths):
     """
@@ -96,6 +100,7 @@ def extract_words_by_pitch_level(level, transcript_paths, pitch_paths):
         words_by_pitch_level.append(find_words_in_intervals(time_intervals, words))
     return words_by_pitch_level
 
+
 def save_to_json(data, filepath):
     """
     Saves the given data to a JSON file.
@@ -104,8 +109,9 @@ def save_to_json(data, filepath):
         data (dict): The data to save.
         filepath (str): The path to the JSON file.
     """
-    with open(filepath, 'w') as json_file:
+    with open(filepath, "w") as json_file:
         json.dump(data, json_file, ensure_ascii=False, indent=4)
+
 
 def main():
     """
@@ -125,15 +131,17 @@ def main():
     for transcript_path in transcript_paths:
         base_filename = os.path.splitext(os.path.basename(transcript_path))[0]
         result = {}
-        
+
         for level in PITCH_LEVELS.keys():
             words_by_level = extract_words_by_pitch_level(
-                level, [transcript_path], [pitch_paths[transcript_paths.index(transcript_path)]]
+                level,
+                [transcript_path],
+                [pitch_paths[transcript_paths.index(transcript_path)]],
             )
             result[level] = [word.to_dict() for word in words_by_level[0]]
-        
-        save_to_json(result, f"{base_filename}_words.json")
+
+        save_to_json(result, f"data_sample/words/{base_filename}_words.json")
+
 
 if __name__ == "__main__":
     main()
-

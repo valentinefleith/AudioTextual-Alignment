@@ -1,0 +1,858 @@
+{
+    "high": [
+        {
+            "word": "trouver",
+            "index": 10
+        },
+        {
+            "word": "passer",
+            "index": 15
+        },
+        {
+            "word": "avec",
+            "index": 20
+        },
+        {
+            "word": "scientifiques",
+            "index": 29
+        },
+        {
+            "word": "vous",
+            "index": 40
+        },
+        {
+            "word": "processus",
+            "index": 54
+        },
+        {
+            "word": "allez",
+            "index": 61
+        },
+        {
+            "word": "dans",
+            "index": 62
+        },
+        {
+            "word": "rechercher",
+            "index": 66
+        },
+        {
+            "word": "nouveaux",
+            "index": 68
+        },
+        {
+            "word": "client",
+            "index": 85
+        },
+        {
+            "word": "rendez",
+            "index": 101
+        },
+        {
+            "word": "enchantée",
+            "index": 109
+        },
+        {
+            "word": "mettez",
+            "index": 114
+        },
+        {
+            "word": "en",
+            "index": 115
+        },
+        {
+            "word": "avant",
+            "index": 116
+        },
+        {
+            "word": "répondez",
+            "index": 132
+        },
+        {
+            "word": "ex",
+            "index": 150
+        },
+        {
+            "word": "arrivez",
+            "index": 161
+        },
+        {
+            "word": "signer",
+            "index": 163
+        },
+        {
+            "word": "pour",
+            "index": 168
+        },
+        {
+            "word": "suite",
+            "index": 176
+        },
+        {
+            "word": "créez",
+            "index": 179
+        },
+        {
+            "word": "soir",
+            "index": 191
+        },
+        {
+            "word": "s'embêter",
+            "index": 199
+        },
+        {
+            "word": "aborder",
+            "index": 202
+        },
+        {
+            "word": "peut",
+            "index": 212
+        },
+        {
+            "word": "directement",
+            "index": 213
+        },
+        {
+            "word": "envoyer",
+            "index": 215
+        },
+        {
+            "word": "l'arrivée",
+            "index": 227
+        },
+        {
+            "word": "plus",
+            "index": 236
+        },
+        {
+            "word": "serait",
+            "index": 242
+        },
+        {
+            "word": "donc",
+            "index": 244
+        },
+        {
+            "word": "commercial",
+            "index": 255
+        },
+        {
+            "word": "mené",
+            "index": 262
+        },
+        {
+            "word": "toujours",
+            "index": 272
+        },
+        {
+            "word": "classique",
+            "index": 277
+        },
+        {
+            "word": "commencent",
+            "index": 281
+        },
+        {
+            "word": "utiliser",
+            "index": 283
+        },
+        {
+            "word": "par",
+            "index": 306
+        },
+        {
+            "word": "qui",
+            "index": 312
+        },
+        {
+            "word": "ce",
+            "index": 315
+        },
+        {
+            "word": "personnes",
+            "index": 318
+        },
+        {
+            "word": "changement",
+            "index": 321
+        },
+        {
+            "word": "traditionnelle",
+            "index": 325
+        },
+        {
+            "word": "théorie",
+            "index": 333
+        },
+        {
+            "word": "indique",
+            "index": 338
+        },
+        {
+            "word": "création",
+            "index": 349
+        },
+        {
+            "word": "ou",
+            "index": 354
+        },
+        {
+            "word": "je",
+            "index": 360
+        },
+        {
+            "word": "m'explique",
+            "index": 361
+        },
+        {
+            "word": "conseille",
+            "index": 371
+        },
+        {
+            "word": "appli",
+            "index": 375
+        },
+        {
+            "word": "ligne",
+            "index": 383
+        },
+        {
+            "word": "rencontrer",
+            "index": 394
+        },
+        {
+            "word": "idées",
+            "index": 405
+        },
+        {
+            "word": "léa",
+            "index": 407
+        },
+        {
+            "word": "entreprise",
+            "index": 410
+        },
+        {
+            "word": "reviendrait",
+            "index": 413
+        },
+        {
+            "word": "créer",
+            "index": 416
+        },
+        {
+            "word": "albert",
+            "index": 425
+        },
+        {
+            "word": "de",
+            "index": 433
+        },
+        {
+            "word": "mieux",
+            "index": 434
+        },
+        {
+            "word": "personne",
+            "index": 442
+        },
+        {
+            "word": "une",
+            "index": 460
+        },
+        {
+            "word": "très",
+            "index": 483
+        },
+        {
+            "word": "d'identifier",
+            "index": 521
+        },
+        {
+            "word": "petit",
+            "index": 535
+        },
+        {
+            "word": "faire",
+            "index": 551
+        },
+        {
+            "word": "actions",
+            "index": 560
+        },
+        {
+            "word": "déstabiliser",
+            "index": 570
+        }
+    ],
+    "low": [
+        {
+            "word": "dirait",
+            "index": 7
+        },
+        {
+            "word": "que",
+            "index": 8
+        },
+        {
+            "word": "trouver",
+            "index": 10
+        },
+        {
+            "word": "l'amour",
+            "index": 11
+        },
+        {
+            "word": "il",
+            "index": 13
+        },
+        {
+            "word": "faut",
+            "index": 14
+        },
+        {
+            "word": "passer",
+            "index": 15
+        },
+        {
+            "word": "par",
+            "index": 16
+        },
+        {
+            "word": "avec",
+            "index": 20
+        },
+        {
+            "word": "mon",
+            "index": 21
+        },
+        {
+            "word": "expérience",
+            "index": 22
+        },
+        {
+            "word": "de",
+            "index": 23
+        },
+        {
+            "word": "commercial",
+            "index": 24
+        },
+        {
+            "word": "et",
+            "index": 26
+        },
+        {
+            "word": "les",
+            "index": 27
+        },
+        {
+            "word": "articles",
+            "index": 28
+        },
+        {
+            "word": "scientifiques",
+            "index": 29
+        },
+        {
+            "word": "j'ai",
+            "index": 31
+        },
+        {
+            "word": "lus",
+            "index": 32
+        },
+        {
+            "word": "le",
+            "index": 34
+        },
+        {
+            "word": "pour",
+            "index": 43
+        },
+        {
+            "word": "exactement",
+            "index": 47
+        },
+        {
+            "word": "pareil",
+            "index": 48
+        },
+        {
+            "word": "allez",
+            "index": 61
+        },
+        {
+            "word": "secteur",
+            "index": 64
+        },
+        {
+            "word": "rechercher",
+            "index": 66
+        },
+        {
+            "word": "nouveaux",
+            "index": 68
+        },
+        {
+            "word": "clients",
+            "index": 69
+        },
+        {
+            "word": "bar",
+            "index": 75
+        },
+        {
+            "word": "intéresse",
+            "index": 88
+        },
+        {
+            "word": "celui",
+            "index": 94
+        },
+        {
+            "word": "rendez",
+            "index": 101
+        },
+        {
+            "word": "vous",
+            "index": 102
+        },
+        {
+            "word": "moi",
+            "index": 105
+        },
+        {
+            "word": "c'est",
+            "index": 106
+        },
+        {
+            "word": "lauriane",
+            "index": 107
+        },
+        {
+            "word": "enchantée",
+            "index": 109
+        },
+        {
+            "word": "avant",
+            "index": 116
+        },
+        {
+            "word": "avantages",
+            "index": 119
+        },
+        {
+            "word": "votre",
+            "index": 121
+        },
+        {
+            "word": "objections",
+            "index": 135
+        },
+        {
+            "word": "rassurer",
+            "index": 139
+        },
+        {
+            "word": "pense",
+            "index": 146
+        },
+        {
+            "word": "à",
+            "index": 148
+        },
+        {
+            "word": "êtes",
+            "index": 157
+        },
+        {
+            "word": "arrivez",
+            "index": 161
+        },
+        {
+            "word": "vente",
+            "index": 165
+        },
+        {
+            "word": "numéro",
+            "index": 170
+        },
+        {
+            "word": "la",
+            "index": 175
+        },
+        {
+            "word": "relation",
+            "index": 181
+        },
+        {
+            "word": "long",
+            "index": 183
+        },
+        {
+            "word": "terme",
+            "index": 184
+        },
+        {
+            "word": "ce",
+            "index": 190
+        },
+        {
+            "word": "au",
+            "index": 193
+        },
+        {
+            "word": "restaurant",
+            "index": 194
+        },
+        {
+            "word": "s'embêter",
+            "index": 199
+        },
+        {
+            "word": "aborder",
+            "index": 202
+        },
+        {
+            "word": "directement",
+            "index": 213
+        },
+        {
+            "word": "envoyer",
+            "index": 215
+        },
+        {
+            "word": "réseaux",
+            "index": 221
+        },
+        {
+            "word": "l'arrivée",
+            "index": 227
+        },
+        {
+            "word": "des",
+            "index": 228
+        },
+        {
+            "word": "ne",
+            "index": 233
+        },
+        {
+            "word": "passe",
+            "index": 234
+        },
+        {
+            "word": "du",
+            "index": 248
+        },
+        {
+            "word": "mené",
+            "index": 262
+        },
+        {
+            "word": "entretiens",
+            "index": 264
+        },
+        {
+            "word": "utilisent",
+            "index": 271
+        },
+        {
+            "word": "processus",
+            "index": 274
+        },
+        {
+            "word": "utiliser",
+            "index": 283
+        },
+        {
+            "word": "rester",
+            "index": 302
+        },
+        {
+            "word": "en",
+            "index": 303
+        },
+        {
+            "word": "contact",
+            "index": 304
+        },
+        {
+            "word": "publications",
+            "index": 308
+        },
+        {
+            "word": "m'intéresse",
+            "index": 313
+        },
+        {
+            "word": "sont",
+            "index": 316
+        },
+        {
+            "word": "personnes",
+            "index": 318
+        },
+        {
+            "word": "responsables",
+            "index": 319
+        },
+        {
+            "word": "changement",
+            "index": 321
+        },
+        {
+            "word": "d'une",
+            "index": 323
+        },
+        {
+            "word": "pratique",
+            "index": 324
+        },
+        {
+            "word": "une",
+            "index": 328
+        },
+        {
+            "word": "institutionnelle",
+            "index": 335
+        },
+        {
+            "word": "nous",
+            "index": 337
+        },
+        {
+            "word": "vont",
+            "index": 343
+        },
+        {
+            "word": "mener",
+            "index": 344
+        },
+        {
+            "word": "actions",
+            "index": 346
+        },
+        {
+            "word": "déstabilisation",
+            "index": 356
+        },
+        {
+            "word": "m'explique",
+            "index": 361
+        },
+        {
+            "word": "copine",
+            "index": 367
+        },
+        {
+            "word": "léa",
+            "index": 368
+        },
+        {
+            "word": "d'aller",
+            "index": 372
+        },
+        {
+            "word": "appli",
+            "index": 375
+        },
+        {
+            "word": "rencontre",
+            "index": 377
+        },
+        {
+            "word": "séduire",
+            "index": 380
+        },
+        {
+            "word": "plusieurs",
+            "index": 385
+        },
+        {
+            "word": "préférence",
+            "index": 388
+        },
+        {
+            "word": "rencontrer",
+            "index": 394
+        },
+        {
+            "word": "vrai",
+            "index": 396
+        },
+        {
+            "word": "entreprise",
+            "index": 410
+        },
+        {
+            "word": "tonton",
+            "index": 424
+        },
+        {
+            "word": "a",
+            "index": 431
+        },
+        {
+            "word": "d'aborder",
+            "index": 440
+        },
+        {
+            "word": "passé",
+            "index": 452
+        },
+        {
+            "word": "on",
+            "index": 454
+        },
+        {
+            "word": "albert",
+            "index": 464
+        },
+        {
+            "word": "prétend",
+            "index": 480
+        },
+        {
+            "word": "qu'on",
+            "index": 481
+        },
+        {
+            "word": "peut",
+            "index": 482
+        },
+        {
+            "word": "digitale",
+            "index": 490
+        },
+        {
+            "word": "hashtag",
+            "index": 492
+        },
+        {
+            "word": "bébé",
+            "index": 497
+        },
+        {
+            "word": "qui",
+            "index": 502
+        },
+        {
+            "word": "déstabilise",
+            "index": 504
+        },
+        {
+            "word": "ma",
+            "index": 515
+        },
+        {
+            "word": "tenter",
+            "index": 520
+        },
+        {
+            "word": "d'identifier",
+            "index": 521
+        },
+        {
+            "word": "vais",
+            "index": 543
+        },
+        {
+            "word": "observer",
+            "index": 545
+        },
+        {
+            "word": "leur",
+            "index": 546
+        },
+        {
+            "word": "poser",
+            "index": 547
+        },
+        {
+            "word": "questions",
+            "index": 549
+        },
+        {
+            "word": "quelles",
+            "index": 557
+        },
+        {
+            "word": "qu'ils",
+            "index": 561
+        },
+        {
+            "word": "dépendait",
+            "index": 582
+        },
+        {
+            "word": "plutôt",
+            "index": 588
+        }
+    ],
+    "highrise": [
+        {
+            "word": "bonjour",
+            "index": 104
+        },
+        {
+            "word": "clients",
+            "index": 298
+        },
+        {
+            "word": "l'amour",
+            "index": 365
+        },
+        {
+            "word": "préférence",
+            "index": 388
+        },
+        {
+            "word": "questions",
+            "index": 549
+        },
+        {
+            "word": "créer",
+            "index": 565
+        },
+        {
+            "word": "l'avenir",
+            "index": 579
+        },
+        {
+            "word": "albert",
+            "index": 590
+        }
+    ],
+    "highfall": [
+        {
+            "word": "quelqu'un",
+            "index": 203
+        },
+        {
+            "word": "ces",
+            "index": 239
+        },
+        {
+            "word": "savoir",
+            "index": 259
+        },
+        {
+            "word": "trouver",
+            "index": 364
+        },
+        {
+            "word": "en",
+            "index": 395
+        },
+        {
+            "word": "créer",
+            "index": 416
+        },
+        {
+            "word": "t'aime",
+            "index": 495
+        }
+    ]
+}

@@ -1,0 +1,826 @@
+{
+    "high": [
+        {
+            "word": "que",
+            "index": 1
+        },
+        {
+            "word": "faire",
+            "index": 4
+        },
+        {
+            "word": "importante",
+            "index": 10
+        },
+        {
+            "word": "m'aider",
+            "index": 38
+        },
+        {
+            "word": "question",
+            "index": 43
+        },
+        {
+            "word": "souvent",
+            "index": 48
+        },
+        {
+            "word": "choix",
+            "index": 71
+        },
+        {
+            "word": "semblerait",
+            "index": 81
+        },
+        {
+            "word": "pourtant",
+            "index": 82
+        },
+        {
+            "word": "conseil",
+            "index": 85
+        },
+        {
+            "word": "pas",
+            "index": 88
+        },
+        {
+            "word": "l'amour",
+            "index": 97
+        },
+        {
+            "word": "métier",
+            "index": 100
+        },
+        {
+            "word": "protégerait",
+            "index": 103
+        },
+        {
+            "word": "toutes",
+            "index": 107
+        },
+        {
+            "word": "l'exemple",
+            "index": 113
+        },
+        {
+            "word": "passionnés",
+            "index": 118
+        },
+        {
+            "word": "emplois",
+            "index": 121
+        },
+        {
+            "word": "ils",
+            "index": 123
+        },
+        {
+            "word": "sont",
+            "index": 124
+        },
+        {
+            "word": "globalement",
+            "index": 125
+        },
+        {
+            "word": "en",
+            "index": 126
+        },
+        {
+            "word": "meilleure",
+            "index": 127
+        },
+        {
+            "word": "santé",
+            "index": 128
+        },
+        {
+            "word": "également",
+            "index": 150
+        },
+        {
+            "word": "plus",
+            "index": 154
+        },
+        {
+            "word": "risque",
+            "index": 156
+        },
+        {
+            "word": "notamment",
+            "index": 161
+        },
+        {
+            "word": "cancers",
+            "index": 170
+        },
+        {
+            "word": "différentes",
+            "index": 177
+        },
+        {
+            "word": "cellules",
+            "index": 178
+        },
+        {
+            "word": "comment",
+            "index": 196
+        },
+        {
+            "word": "travailler",
+            "index": 197
+        },
+        {
+            "word": "peut",
+            "index": 199
+        },
+        {
+            "word": "il",
+            "index": 200
+        },
+        {
+            "word": "l'objet",
+            "index": 209
+        },
+        {
+            "word": "agriculteurs",
+            "index": 229
+        },
+        {
+            "word": "appelle",
+            "index": 236
+        },
+        {
+            "word": "l'épidémiologie",
+            "index": 240
+        },
+        {
+            "word": "je",
+            "index": 245
+        },
+        {
+            "word": "étape",
+            "index": 257
+        },
+        {
+            "word": "dresser",
+            "index": 259
+        },
+        {
+            "word": "attention",
+            "index": 265
+        },
+        {
+            "word": "coupable",
+            "index": 274
+        },
+        {
+            "word": "présomption",
+            "index": 279
+        },
+        {
+            "word": "ou",
+            "index": 293
+        },
+        {
+            "word": "pense",
+            "index": 306
+        },
+        {
+            "word": "cours",
+            "index": 315
+        },
+        {
+            "word": "professionnelle",
+            "index": 319
+        },
+        {
+            "word": "d'élevage",
+            "index": 326
+        },
+        {
+            "word": "herbicides",
+            "index": 370
+        },
+        {
+            "word": "insecticides",
+            "index": 373
+        },
+        {
+            "word": "fongicides",
+            "index": 376
+        },
+        {
+            "word": "l'ensemble",
+            "index": 389
+        },
+        {
+            "word": "estimer",
+            "index": 404
+        },
+        {
+            "word": "mieux",
+            "index": 408
+        },
+        {
+            "word": "chacune",
+            "index": 412
+        },
+        {
+            "word": "de",
+            "index": 413
+        },
+        {
+            "word": "savoir",
+            "index": 436
+        },
+        {
+            "word": "été",
+            "index": 444
+        },
+        {
+            "word": "exposé",
+            "index": 445
+        },
+        {
+            "word": "l'immense",
+            "index": 450
+        },
+        {
+            "word": "chance",
+            "index": 451
+        },
+        {
+            "word": "mémoire",
+            "index": 458
+        },
+        {
+            "word": "travaillé",
+            "index": 465
+        },
+        {
+            "word": "statistiques",
+            "index": 487
+        },
+        {
+            "word": "tenter",
+            "index": 491
+        },
+        {
+            "word": "comprendre",
+            "index": 493
+        },
+        {
+            "word": "relations",
+            "index": 498
+        },
+        {
+            "word": "exposition",
+            "index": 504
+        },
+        {
+            "word": "thèse",
+            "index": 517
+        }
+    ],
+    "low": [
+        {
+            "word": "voulez",
+            "index": 2
+        },
+        {
+            "word": "vous",
+            "index": 3
+        },
+        {
+            "word": "plus",
+            "index": 5
+        },
+        {
+            "word": "pourtant",
+            "index": 12
+        },
+        {
+            "word": "entendue",
+            "index": 19
+        },
+        {
+            "word": "jeune",
+            "index": 35
+        },
+        {
+            "word": "m'aider",
+            "index": 38
+        },
+        {
+            "word": "répondre",
+            "index": 40
+        },
+        {
+            "word": "cette",
+            "index": 42
+        },
+        {
+            "word": "question",
+            "index": 43
+        },
+        {
+            "word": "on",
+            "index": 45
+        },
+        {
+            "word": "me",
+            "index": 46
+        },
+        {
+            "word": "conseillait",
+            "index": 47
+        },
+        {
+            "word": "de",
+            "index": 49
+        },
+        {
+            "word": "choisir",
+            "index": 50
+        },
+        {
+            "word": "métier",
+            "index": 52
+        },
+        {
+            "word": "que",
+            "index": 53
+        },
+        {
+            "word": "j'aimerais",
+            "index": 54
+        },
+        {
+            "word": "des",
+            "index": 70
+        },
+        {
+            "word": "professionnels",
+            "index": 72
+        },
+        {
+            "word": "j'ai",
+            "index": 74
+        },
+        {
+            "word": "jusqu'à",
+            "index": 77
+        },
+        {
+            "word": "présent",
+            "index": 78
+        },
+        {
+            "word": "semblerait",
+            "index": 81
+        },
+        {
+            "word": "ce",
+            "index": 84
+        },
+        {
+            "word": "conseil",
+            "index": 85
+        },
+        {
+            "word": "ne",
+            "index": 86
+        },
+        {
+            "word": "s'applique",
+            "index": 87
+        },
+        {
+            "word": "à",
+            "index": 90
+        },
+        {
+            "word": "et",
+            "index": 95
+        },
+        {
+            "word": "son",
+            "index": 99
+        },
+        {
+            "word": "protégerait",
+            "index": 103
+        },
+        {
+            "word": "circonstances",
+            "index": 108
+        },
+        {
+            "word": "sa",
+            "index": 109
+        },
+        {
+            "word": "santé",
+            "index": 110
+        },
+        {
+            "word": "agriculteurs",
+            "index": 115
+        },
+        {
+            "word": "souvent",
+            "index": 117
+        },
+        {
+            "word": "leurs",
+            "index": 120
+        },
+        {
+            "word": "emplois",
+            "index": 121
+        },
+        {
+            "word": "le",
+            "index": 131
+        },
+        {
+            "word": "reste",
+            "index": 132
+        },
+        {
+            "word": "la",
+            "index": 134
+        },
+        {
+            "word": "population",
+            "index": 135
+        },
+        {
+            "word": "ils",
+            "index": 141
+        },
+        {
+            "word": "d'avoir",
+            "index": 157
+        },
+        {
+            "word": "pathologies",
+            "index": 159
+        },
+        {
+            "word": "notamment",
+            "index": 161
+        },
+        {
+            "word": "les",
+            "index": 163
+        },
+        {
+            "word": "assez",
+            "index": 172
+        },
+        {
+            "word": "notre",
+            "index": 180
+        },
+        {
+            "word": "sang",
+            "index": 181
+        },
+        {
+            "word": "nous",
+            "index": 185
+        },
+        {
+            "word": "défendre",
+            "index": 186
+        },
+        {
+            "word": "virus",
+            "index": 190
+        },
+        {
+            "word": "bactéries",
+            "index": 193
+        },
+        {
+            "word": "alors",
+            "index": 195
+        },
+        {
+            "word": "comment",
+            "index": 196
+        },
+        {
+            "word": "travailler",
+            "index": 197
+        },
+        {
+            "word": "influencer",
+            "index": 202
+        },
+        {
+            "word": "leur",
+            "index": 204
+        },
+        {
+            "word": "l'objet",
+            "index": 209
+        },
+        {
+            "word": "ma",
+            "index": 211
+        },
+        {
+            "word": "thèse",
+            "index": 212
+        },
+        {
+            "word": "éléments",
+            "index": 218
+        },
+        {
+            "word": "l'apparition",
+            "index": 222
+        },
+        {
+            "word": "l'on",
+            "index": 235
+        },
+        {
+            "word": "appelle",
+            "index": 236
+        },
+        {
+            "word": "l'épidémiologie",
+            "index": 240
+        },
+        {
+            "word": "première",
+            "index": 256
+        },
+        {
+            "word": "étape",
+            "index": 257
+        },
+        {
+            "word": "dresser",
+            "index": 259
+        },
+        {
+            "word": "attention",
+            "index": 265
+        },
+        {
+            "word": "autant",
+            "index": 272
+        },
+        {
+            "word": "dire",
+            "index": 273
+        },
+        {
+            "word": "pensons",
+            "index": 276
+        },
+        {
+            "word": "d'innocence",
+            "index": 280
+        },
+        {
+            "word": "l'accumulation",
+            "index": 283
+        },
+        {
+            "word": "définir",
+            "index": 291
+        },
+        {
+            "word": "culpabilité",
+            "index": 297
+        },
+        {
+            "word": "y",
+            "index": 305
+        },
+        {
+            "word": "s'avère",
+            "index": 310
+        },
+        {
+            "word": "drôlement",
+            "index": 311
+        },
+        {
+            "word": "au",
+            "index": 314
+        },
+        {
+            "word": "vie",
+            "index": 318
+        },
+        {
+            "word": "professionnelle",
+            "index": 319
+        },
+        {
+            "word": "différents",
+            "index": 324
+        },
+        {
+            "word": "types",
+            "index": 325
+        },
+        {
+            "word": "deux",
+            "index": 334
+        },
+        {
+            "word": "en",
+            "index": 335
+        },
+        {
+            "word": "même",
+            "index": 336
+        },
+        {
+            "word": "également",
+            "index": 341
+        },
+        {
+            "word": "ensemble",
+            "index": 344
+        },
+        {
+            "word": "diverses",
+            "index": 347
+        },
+        {
+            "word": "pesticides",
+            "index": 364
+        },
+        {
+            "word": "herbicides",
+            "index": 370
+        },
+        {
+            "word": "insecticides",
+            "index": 373
+        },
+        {
+            "word": "fongicides",
+            "index": 376
+        },
+        {
+            "word": "donc",
+            "index": 385
+        },
+        {
+            "word": "évaluer",
+            "index": 406
+        },
+        {
+            "word": "l'effet",
+            "index": 410
+        },
+        {
+            "word": "ces",
+            "index": 414
+        },
+        {
+            "word": "expositions",
+            "index": 415
+        },
+        {
+            "word": "machine",
+            "index": 428
+        },
+        {
+            "word": "remonter",
+            "index": 430
+        },
+        {
+            "word": "qui",
+            "index": 438
+        },
+        {
+            "word": "ou",
+            "index": 442
+        },
+        {
+            "word": "exposé",
+            "index": 445
+        },
+        {
+            "word": "disposition",
+            "index": 455
+        },
+        {
+            "word": "individus",
+            "index": 462
+        },
+        {
+            "word": "ayant",
+            "index": 464
+        },
+        {
+            "word": "travaillé",
+            "index": 465
+        },
+        {
+            "word": "près",
+            "index": 467
+        },
+        {
+            "word": "dans",
+            "index": 473
+        },
+        {
+            "word": "agricole",
+            "index": 477
+        },
+        {
+            "word": "statistiques",
+            "index": 487
+        },
+        {
+            "word": "je",
+            "index": 489
+        },
+        {
+            "word": "vais",
+            "index": 490
+        },
+        {
+            "word": "relations",
+            "index": 498
+        },
+        {
+            "word": "entre",
+            "index": 502
+        },
+        {
+            "word": "exposition",
+            "index": 504
+        },
+        {
+            "word": "apparition",
+            "index": 508
+        },
+        {
+            "word": "maladie",
+            "index": 511
+        },
+        {
+            "word": "finalité",
+            "index": 514
+        },
+        {
+            "word": "demanderez",
+            "index": 519
+        },
+        {
+            "word": "soit",
+            "index": 529
+        },
+        {
+            "word": "commis",
+            "index": 530
+        },
+        {
+            "word": "plutôt",
+            "index": 533
+        },
+        {
+            "word": "n'apparaisse",
+            "index": 539
+        }
+    ],
+    "highrise": [
+        {
+            "word": "présent",
+            "index": 78
+        },
+        {
+            "word": "éléments",
+            "index": 218
+        }
+    ],
+    "highfall": [
+        {
+            "word": "entendue",
+            "index": 19
+        },
+        {
+            "word": "soient",
+            "index": 153
+        },
+        {
+            "word": "cancers",
+            "index": 170
+        }
+    ]
+}

@@ -1,0 +1,942 @@
+{
+    "high": [
+        {
+            "word": "supposons",
+            "index": 1
+        },
+        {
+            "word": "propriétaire",
+            "index": 5
+        },
+        {
+            "word": "désiriez",
+            "index": 12
+        },
+        {
+            "word": "passez",
+            "index": 21
+        },
+        {
+            "word": "petite",
+            "index": 23
+        },
+        {
+            "word": "annonce",
+            "index": 24
+        },
+        {
+            "word": "par",
+            "index": 28
+        },
+        {
+            "word": "exemple",
+            "index": 29
+        },
+        {
+            "word": "trois",
+            "index": 43
+        },
+        {
+            "word": "demandes",
+            "index": 44
+        },
+        {
+            "word": "très",
+            "index": 45
+        },
+        {
+            "word": "diffèrent",
+            "index": 49
+        },
+        {
+            "word": "prénom",
+            "index": 53
+        },
+        {
+            "word": "individus",
+            "index": 56
+        },
+        {
+            "word": "émilie",
+            "index": 58
+        },
+        {
+            "word": "mohamed",
+            "index": 63
+        },
+        {
+            "word": "appartement",
+            "index": 71
+        },
+        {
+            "word": "il",
+            "index": 82
+        },
+        {
+            "word": "question",
+            "index": 97
+        },
+        {
+            "word": "qui",
+            "index": 98
+        },
+        {
+            "word": "été",
+            "index": 127
+        },
+        {
+            "word": "envoyés",
+            "index": 128
+        },
+        {
+            "word": "chercheur",
+            "index": 134
+        },
+        {
+            "word": "analyser",
+            "index": 138
+        },
+        {
+            "word": "déterminer",
+            "index": 142
+        },
+        {
+            "word": "préférez",
+            "index": 145
+        },
+        {
+            "word": "ce",
+            "index": 152
+        },
+        {
+            "word": "conçu",
+            "index": 168
+        },
+        {
+            "word": "favoris",
+            "index": 176
+        },
+        {
+            "word": "d'envoyer",
+            "index": 178
+        },
+        {
+            "word": "milliers",
+            "index": 180
+        },
+        {
+            "word": "partout",
+            "index": 183
+        },
+        {
+            "word": "en",
+            "index": 184
+        },
+        {
+            "word": "france",
+            "index": 185
+        },
+        {
+            "word": "statistiquement",
+            "index": 189
+        },
+        {
+            "word": "mails",
+            "index": 192
+        },
+        {
+            "word": "ou",
+            "index": 199
+        },
+        {
+            "word": "différentes",
+            "index": 205
+        },
+        {
+            "word": "but",
+            "index": 218
+        },
+        {
+            "word": "être",
+            "index": 223
+        },
+        {
+            "word": "pourtant",
+            "index": 233
+        },
+        {
+            "word": "sociologue",
+            "index": 239
+        },
+        {
+            "word": "pas",
+            "index": 243
+        },
+        {
+            "word": "psychologue",
+            "index": 244
+        },
+        {
+            "word": "moi",
+            "index": 246
+        },
+        {
+            "word": "je",
+            "index": 247
+        },
+        {
+            "word": "suis",
+            "index": 248
+        },
+        {
+            "word": "économiste",
+            "index": 249
+        },
+        {
+            "word": "efficace",
+            "index": 292
+        },
+        {
+            "word": "économiquement",
+            "index": 294
+        },
+        {
+            "word": "finissent",
+            "index": 301
+        },
+        {
+            "word": "logés",
+            "index": 304
+        },
+        {
+            "word": "plus",
+            "index": 314
+        },
+        {
+            "word": "pu",
+            "index": 334
+        },
+        {
+            "word": "cause",
+            "index": 344
+        },
+        {
+            "word": "fois",
+            "index": 352
+        },
+        {
+            "word": "chances",
+            "index": 355
+        },
+        {
+            "word": "d'obtenir",
+            "index": 356
+        },
+        {
+            "word": "souvent",
+            "index": 373
+        },
+        {
+            "word": "provient",
+            "index": 383
+        },
+        {
+            "word": "effet",
+            "index": 390
+        },
+        {
+            "word": "combattre",
+            "index": 397
+        },
+        {
+            "word": "causes",
+            "index": 406
+        },
+        {
+            "word": "choisir",
+            "index": 412
+        },
+        {
+            "word": "sexiste",
+            "index": 428
+        },
+        {
+            "word": "garçons",
+            "index": 468
+        },
+        {
+            "word": "thèse",
+            "index": 484
+        },
+        {
+            "word": "dissocier",
+            "index": 488
+        },
+        {
+            "word": "individu",
+            "index": 493
+        },
+        {
+            "word": "logiques",
+            "index": 499
+        },
+        {
+            "word": "illogiques",
+            "index": 512
+        },
+        {
+            "word": "racisme",
+            "index": 515
+        },
+        {
+            "word": "de",
+            "index": 533
+        },
+        {
+            "word": "méta",
+            "index": 543
+        },
+        {
+            "word": "analyse",
+            "index": 544
+        },
+        {
+            "word": "sorte",
+            "index": 550
+        },
+        {
+            "word": "regroupement",
+            "index": 552
+        },
+        {
+            "word": "les",
+            "index": 555
+        },
+        {
+            "word": "études",
+            "index": 556
+        },
+        {
+            "word": "dans",
+            "index": 558
+        },
+        {
+            "word": "monde",
+            "index": 560
+        },
+        {
+            "word": "faire",
+            "index": 567
+        },
+        {
+            "word": "données",
+            "index": 584
+        },
+        {
+            "word": "e",
+            "index": 590
+        },
+        {
+            "word": "permet",
+            "index": 596
+        },
+        {
+            "word": "différencier",
+            "index": 598
+        },
+        {
+            "word": "réponse",
+            "index": 602
+        },
+        {
+            "word": "fonction",
+            "index": 605
+        },
+        {
+            "word": "niveau",
+            "index": 607
+        },
+        {
+            "word": "d'information",
+            "index": 609
+        },
+        {
+            "word": "fourni",
+            "index": 610
+        },
+        {
+            "word": "justifie",
+            "index": 620
+        },
+        {
+            "word": "fait",
+            "index": 630
+        },
+        {
+            "word": "fonctionnaire",
+            "index": 633
+        },
+        {
+            "word": "indique",
+            "index": 643
+        },
+        {
+            "word": "que",
+            "index": 650
+        },
+        {
+            "word": "aussi",
+            "index": 659
+        },
+        {
+            "word": "faible",
+            "index": 679
+        },
+        {
+            "word": "beaucoup",
+            "index": 699
+        }
+    ],
+    "low": [
+        {
+            "word": "que",
+            "index": 2
+        },
+        {
+            "word": "vous",
+            "index": 3
+        },
+        {
+            "word": "soyez",
+            "index": 4
+        },
+        {
+            "word": "internet",
+            "index": 26
+        },
+        {
+            "word": "trois",
+            "index": 41
+        },
+        {
+            "word": "mails",
+            "index": 42
+        },
+        {
+            "word": "demandes",
+            "index": 44
+        },
+        {
+            "word": "similaires",
+            "index": 46
+        },
+        {
+            "word": "ne",
+            "index": 48
+        },
+        {
+            "word": "par",
+            "index": 51
+        },
+        {
+            "word": "le",
+            "index": 52
+        },
+        {
+            "word": "des",
+            "index": 55
+        },
+        {
+            "word": "individus",
+            "index": 56
+        },
+        {
+            "word": "émilie",
+            "index": 58
+        },
+        {
+            "word": "et",
+            "index": 62
+        },
+        {
+            "word": "trouvent",
+            "index": 65
+        },
+        {
+            "word": "votre",
+            "index": 70
+        },
+        {
+            "word": "appartement",
+            "index": 71
+        },
+        {
+            "word": "leur",
+            "index": 74
+        },
+        {
+            "word": "n'avez",
+            "index": 78
+        },
+        {
+            "word": "choisir",
+            "index": 86
+        },
+        {
+            "word": "la",
+            "index": 96
+        },
+        {
+            "word": "hasard",
+            "index": 111
+        },
+        {
+            "word": "réalité",
+            "index": 114
+        },
+        {
+            "word": "les",
+            "index": 115
+        },
+        {
+            "word": "avez",
+            "index": 120
+        },
+        {
+            "word": "reçus",
+            "index": 121
+        },
+        {
+            "word": "sont",
+            "index": 122
+        },
+        {
+            "word": "faux",
+            "index": 123
+        },
+        {
+            "word": "de",
+            "index": 136
+        },
+        {
+            "word": "analyser",
+            "index": 138
+        },
+        {
+            "word": "chercheur",
+            "index": 153
+        },
+        {
+            "word": "eh",
+            "index": 160
+        },
+        {
+            "word": "mon",
+            "index": 163
+        },
+        {
+            "word": "écran",
+            "index": 164
+        },
+        {
+            "word": "avec",
+            "index": 165
+        },
+        {
+            "word": "logiciel",
+            "index": 167
+        },
+        {
+            "word": "mes",
+            "index": 173
+        },
+        {
+            "word": "temps",
+            "index": 175
+        },
+        {
+            "word": "est",
+            "index": 177
+        },
+        {
+            "word": "d'envoyer",
+            "index": 178
+        },
+        {
+            "word": "déterminer",
+            "index": 187
+        },
+        {
+            "word": "statistiquement",
+            "index": 189
+        },
+        {
+            "word": "finis",
+            "index": 193
+        },
+        {
+            "word": "ont",
+            "index": 202
+        },
+        {
+            "word": "chances",
+            "index": 204
+        },
+        {
+            "word": "d'obtenir",
+            "index": 206
+        },
+        {
+            "word": "l'aurez",
+            "index": 221
+        },
+        {
+            "word": "compris",
+            "index": 224
+        },
+        {
+            "word": "d'étudier",
+            "index": 227
+        },
+        {
+            "word": "discrimination",
+            "index": 230
+        },
+        {
+            "word": "psychologue",
+            "index": 244
+        },
+        {
+            "word": "économiste",
+            "index": 249
+        },
+        {
+            "word": "mais",
+            "index": 251
+        },
+        {
+            "word": "l'économie",
+            "index": 252
+        },
+        {
+            "word": "savez",
+            "index": 255
+        },
+        {
+            "word": "très",
+            "index": 256
+        },
+        {
+            "word": "n'est",
+            "index": 259
+        },
+        {
+            "word": "macron",
+            "index": 268
+        },
+        {
+            "word": "ça",
+            "index": 270
+        },
+        {
+            "word": "s'intéresse",
+            "index": 278
+        },
+        {
+            "word": "discriminations",
+            "index": 285
+        },
+        {
+            "word": "pas",
+            "index": 290
+        },
+        {
+            "word": "efficace",
+            "index": 292
+        },
+        {
+            "word": "économiquement",
+            "index": 294
+        },
+        {
+            "word": "soient",
+            "index": 298
+        },
+        {
+            "word": "être",
+            "index": 303
+        },
+        {
+            "word": "ville",
+            "index": 310
+        },
+        {
+            "word": "aient",
+            "index": 313
+        },
+        {
+            "word": "rendre",
+            "index": 319
+        },
+        {
+            "word": "on",
+            "index": 331
+        },
+        {
+            "word": "a",
+            "index": 332
+        },
+        {
+            "word": "compte",
+            "index": 337
+        },
+        {
+            "word": "à",
+            "index": 343
+        },
+        {
+            "word": "son",
+            "index": 346
+        },
+        {
+            "word": "avait",
+            "index": 349
+        },
+        {
+            "word": "une",
+            "index": 357
+        },
+        {
+            "word": "choisie",
+            "index": 374
+        },
+        {
+            "word": "en",
+            "index": 389
+        },
+        {
+            "word": "pour",
+            "index": 394
+        },
+        {
+            "word": "agir",
+            "index": 395
+        },
+        {
+            "word": "il",
+            "index": 400
+        },
+        {
+            "word": "nécessaire",
+            "index": 402
+        },
+        {
+            "word": "d'en",
+            "index": 403
+        },
+        {
+            "word": "exemple",
+            "index": 416
+        },
+        {
+            "word": "veut",
+            "index": 422
+        },
+        {
+            "word": "l'égard",
+            "index": 430
+        },
+        {
+            "word": "mohamed",
+            "index": 438
+        },
+        {
+            "word": "décidé",
+            "index": 451
+        },
+        {
+            "word": "car",
+            "index": 455
+        },
+        {
+            "word": "plus",
+            "index": 462
+        },
+        {
+            "word": "confiance",
+            "index": 465
+        },
+        {
+            "word": "vraiment",
+            "index": 475
+        },
+        {
+            "word": "donner",
+            "index": 477
+        },
+        {
+            "word": "donc",
+            "index": 480
+        },
+        {
+            "word": "durant",
+            "index": 482
+        },
+        {
+            "word": "ma",
+            "index": 483
+        },
+        {
+            "word": "je",
+            "index": 485
+        },
+        {
+            "word": "dois",
+            "index": 486
+        },
+        {
+            "word": "où",
+            "index": 491
+        },
+        {
+            "word": "individu",
+            "index": 493
+        },
+        {
+            "word": "raisons",
+            "index": 498
+        },
+        {
+            "word": "illogiques",
+            "index": 512
+        },
+        {
+            "word": "racisme",
+            "index": 515
+        },
+        {
+            "word": "analyse",
+            "index": 544
+        },
+        {
+            "word": "réalisées",
+            "index": 557
+        },
+        {
+            "word": "même",
+            "index": 573
+        },
+        {
+            "word": "étude",
+            "index": 575
+        },
+        {
+            "word": "base",
+            "index": 582
+        },
+        {
+            "word": "données",
+            "index": 584
+        },
+        {
+            "word": "me",
+            "index": 595
+        },
+        {
+            "word": "taux",
+            "index": 600
+        },
+        {
+            "word": "du",
+            "index": 606
+        },
+        {
+            "word": "dans",
+            "index": 611
+        },
+        {
+            "word": "fois",
+            "index": 617
+        },
+        {
+            "word": "situation",
+            "index": 622
+        },
+        {
+            "word": "d'être",
+            "index": 631
+        },
+        {
+            "word": "fonctionnaire",
+            "index": 633
+        },
+        {
+            "word": "n'y",
+            "index": 646
+        },
+        {
+            "word": "aussi",
+            "index": 659
+        },
+        {
+            "word": "prénom",
+            "index": 671
+        },
+        {
+            "word": "stabilité",
+            "index": 680
+        },
+        {
+            "word": "revenu",
+            "index": 685
+        },
+        {
+            "word": "voilà",
+            "index": 695
+        },
+        {
+            "word": "résultats",
+            "index": 713
+        },
+        {
+            "word": "aux",
+            "index": 714
+        },
+        {
+            "word": "politiques",
+            "index": 715
+        },
+        {
+            "word": "publiques",
+            "index": 716
+        }
+    ],
+    "highrise": [
+        {
+            "word": "hasard",
+            "index": 111
+        },
+        {
+            "word": "prénom",
+            "index": 347
+        },
+        {
+            "word": "niveau",
+            "index": 607
+        }
+    ],
+    "highfall": [
+        {
+            "word": "vincent",
+            "index": 60
+        },
+        {
+            "word": "en",
+            "index": 536
+        },
+        {
+            "word": "stable",
+            "index": 623
+        }
+    ]
+}

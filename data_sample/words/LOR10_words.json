@@ -1,0 +1,709 @@
+{
+    "high": [
+        {
+            "word": "qui",
+            "index": 1
+        },
+        {
+            "word": "connaître",
+            "index": 8
+        },
+        {
+            "word": "lu",
+            "index": 15
+        },
+        {
+            "word": "horoscope",
+            "index": 19
+        },
+        {
+            "word": "l'avenir",
+            "index": 32
+        },
+        {
+            "word": "pas",
+            "index": 52
+        },
+        {
+            "word": "plutôt",
+            "index": 53
+        },
+        {
+            "word": "impossible",
+            "index": 64
+        },
+        {
+            "word": "non",
+            "index": 81
+        },
+        {
+            "word": "quantité",
+            "index": 90
+        },
+        {
+            "word": "française",
+            "index": 96
+        },
+        {
+            "word": "augmente",
+            "index": 98
+        },
+        {
+            "word": "maintenant",
+            "index": 100
+        },
+        {
+            "word": "climatique",
+            "index": 129
+        },
+        {
+            "word": "nécessaire",
+            "index": 133
+        },
+        {
+            "word": "leur",
+            "index": 135
+        },
+        {
+            "word": "futur",
+            "index": 136
+        },
+        {
+            "word": "réchauffement",
+            "index": 143
+        },
+        {
+            "word": "ans",
+            "index": 150
+        },
+        {
+            "word": "comment",
+            "index": 152
+        },
+        {
+            "word": "connaissant",
+            "index": 161
+        },
+        {
+            "word": "améliorer",
+            "index": 167
+        },
+        {
+            "word": "forestière",
+            "index": 170
+        },
+        {
+            "word": "d'aider",
+            "index": 173
+        },
+        {
+            "word": "lutter",
+            "index": 179
+        },
+        {
+            "word": "favorisant",
+            "index": 186
+        },
+        {
+            "word": "exemple",
+            "index": 188
+        },
+        {
+            "word": "cristal",
+            "index": 214
+        },
+        {
+            "word": "mais",
+            "index": 216
+        },
+        {
+            "word": "simulateur",
+            "index": 218
+        },
+        {
+            "word": "de",
+            "index": 219
+        },
+        {
+            "word": "capable",
+            "index": 225
+        },
+        {
+            "word": "future",
+            "index": 232
+        },
+        {
+            "word": "rôle",
+            "index": 246
+        },
+        {
+            "word": "existe",
+            "index": 260
+        },
+        {
+            "word": "croissance",
+            "index": 266
+        },
+        {
+            "word": "aujourd'hui",
+            "index": 271
+        },
+        {
+            "word": "d'abord",
+            "index": 278
+        },
+        {
+            "word": "plus",
+            "index": 286
+        },
+        {
+            "word": "elle",
+            "index": 287
+        },
+        {
+            "word": "compétition",
+            "index": 296
+        },
+        {
+            "word": "été",
+            "index": 313
+        },
+        {
+            "word": "plage",
+            "index": 318
+        },
+        {
+            "word": "second",
+            "index": 343
+        },
+        {
+            "word": "effets",
+            "index": 349
+        },
+        {
+            "word": "changement",
+            "index": 351
+        },
+        {
+            "word": "diminution",
+            "index": 367
+        },
+        {
+            "word": "savoir",
+            "index": 412
+        },
+        {
+            "word": "deux",
+            "index": 415
+        },
+        {
+            "word": "phénomènes",
+            "index": 416
+        },
+        {
+            "word": "ralentissent",
+            "index": 418
+        },
+        {
+            "word": "forêt",
+            "index": 426
+        },
+        {
+            "word": "mathématiques",
+            "index": 436
+        },
+        {
+            "word": "les",
+            "index": 442
+        },
+        {
+            "word": "dans",
+            "index": 455
+        },
+        {
+            "word": "le",
+            "index": 456
+        },
+        {
+            "word": "jusqu'à",
+            "index": 477
+        },
+        {
+            "word": "comparer",
+            "index": 482
+        },
+        {
+            "word": "bois",
+            "index": 496
+        },
+        {
+            "word": "la",
+            "index": 513
+        },
+        {
+            "word": "suite",
+            "index": 539
+        },
+        {
+            "word": "d'adapter",
+            "index": 566
+        }
+    ],
+    "low": [
+        {
+            "word": "parmi",
+            "index": 2
+        },
+        {
+            "word": "jamais",
+            "index": 6
+        },
+        {
+            "word": "souhaité",
+            "index": 7
+        },
+        {
+            "word": "son",
+            "index": 9
+        },
+        {
+            "word": "avenir",
+            "index": 10
+        },
+        {
+            "word": "n'a",
+            "index": 13
+        },
+        {
+            "word": "la",
+            "index": 16
+        },
+        {
+            "word": "rubrique",
+            "index": 17
+        },
+        {
+            "word": "horoscope",
+            "index": 19
+        },
+        {
+            "word": "de",
+            "index": 20
+        },
+        {
+            "word": "ma",
+            "index": 25
+        },
+        {
+            "word": "je",
+            "index": 28
+        },
+        {
+            "word": "française",
+            "index": 36
+        },
+        {
+            "word": "oui",
+            "index": 39
+        },
+        {
+            "word": "il",
+            "index": 49
+        },
+        {
+            "word": "pourrait",
+            "index": 51
+        },
+        {
+            "word": "prédire",
+            "index": 54
+        },
+        {
+            "word": "chose",
+            "index": 63
+        },
+        {
+            "word": "impossible",
+            "index": 64
+        },
+        {
+            "word": "mais",
+            "index": 71
+        },
+        {
+            "word": "ça",
+            "index": 79
+        },
+        {
+            "word": "avez",
+            "index": 85
+        },
+        {
+            "word": "parfaitement",
+            "index": 86
+        },
+        {
+            "word": "depuis",
+            "index": 99
+        },
+        {
+            "word": "danger",
+            "index": 108
+        },
+        {
+            "word": "changement",
+            "index": 115
+        },
+        {
+            "word": "climatique",
+            "index": 116
+        },
+        {
+            "word": "savoir",
+            "index": 119
+        },
+        {
+            "word": "à",
+            "index": 120
+        },
+        {
+            "word": "quel",
+            "index": 121
+        },
+        {
+            "word": "les",
+            "index": 123
+        },
+        {
+            "word": "forêts",
+            "index": 124
+        },
+        {
+            "word": "sont",
+            "index": 125
+        },
+        {
+            "word": "vulnérables",
+            "index": 126
+        },
+        {
+            "word": "au",
+            "index": 127
+        },
+        {
+            "word": "est",
+            "index": 132
+        },
+        {
+            "word": "futur",
+            "index": 136
+        },
+        {
+            "word": "par",
+            "index": 138
+        },
+        {
+            "word": "exemple",
+            "index": 139
+        },
+        {
+            "word": "le",
+            "index": 142
+        },
+        {
+            "word": "réchauffement",
+            "index": 143
+        },
+        {
+            "word": "d'ici",
+            "index": 148
+        },
+        {
+            "word": "vont",
+            "index": 156
+        },
+        {
+            "word": "réagir",
+            "index": 158
+        },
+        {
+            "word": "ce",
+            "index": 162
+        },
+        {
+            "word": "nous",
+            "index": 164
+        },
+        {
+            "word": "pourrons",
+            "index": 165
+        },
+        {
+            "word": "gestion",
+            "index": 169
+        },
+        {
+            "word": "forestière",
+            "index": 170
+        },
+        {
+            "word": "afin",
+            "index": 172
+        },
+        {
+            "word": "mieux",
+            "index": 178
+        },
+        {
+            "word": "en",
+            "index": 185
+        },
+        {
+            "word": "favorisant",
+            "index": 186
+        },
+        {
+            "word": "mélanges",
+            "index": 191
+        },
+        {
+            "word": "feuillus",
+            "index": 192
+        },
+        {
+            "word": "conifères",
+            "index": 194
+        },
+        {
+            "word": "dans",
+            "index": 196
+        },
+        {
+            "word": "nos",
+            "index": 197
+        },
+        {
+            "word": "connaître",
+            "index": 201
+        },
+        {
+            "word": "l'avenir",
+            "index": 202
+        },
+        {
+            "word": "une",
+            "index": 211
+        },
+        {
+            "word": "boule",
+            "index": 212
+        },
+        {
+            "word": "croissance",
+            "index": 220
+        },
+        {
+            "word": "capable",
+            "index": 225
+        },
+        {
+            "word": "quantité",
+            "index": 229
+        },
+        {
+            "word": "bois",
+            "index": 231
+        },
+        {
+            "word": "forêt",
+            "index": 235
+        },
+        {
+            "word": "va",
+            "index": 247
+        },
+        {
+            "word": "l'améliorer",
+            "index": 251
+        },
+        {
+            "word": "dois",
+            "index": 257
+        },
+        {
+            "word": "existe",
+            "index": 260
+        },
+        {
+            "word": "des",
+            "index": 261
+        },
+        {
+            "word": "pensons",
+            "index": 270
+        },
+        {
+            "word": "deux",
+            "index": 275
+        },
+        {
+            "word": "elle",
+            "index": 282
+        },
+        {
+            "word": "car",
+            "index": 285
+        },
+        {
+            "word": "pousse",
+            "index": 288
+        },
+        {
+            "word": "cet",
+            "index": 312
+        },
+        {
+            "word": "été",
+            "index": 313
+        },
+        {
+            "word": "allez",
+            "index": 315
+        },
+        {
+            "word": "et",
+            "index": 320
+        },
+        {
+            "word": "compétition",
+            "index": 333
+        },
+        {
+            "word": "augmentation",
+            "index": 360
+        },
+        {
+            "word": "températures",
+            "index": 362
+        },
+        {
+            "word": "cette",
+            "index": 374
+        },
+        {
+            "word": "vous",
+            "index": 376
+        },
+        {
+            "word": "êtes",
+            "index": 377
+        },
+        {
+            "word": "poser",
+            "index": 380
+        },
+        {
+            "word": "soleil",
+            "index": 384
+        },
+        {
+            "word": "n'avez",
+            "index": 395
+        },
+        {
+            "word": "d'eau",
+            "index": 397
+        },
+        {
+            "word": "résultat",
+            "index": 399
+        },
+        {
+            "word": "ces",
+            "index": 414
+        },
+        {
+            "word": "phénomènes",
+            "index": 416
+        },
+        {
+            "word": "cela",
+            "index": 430
+        },
+        {
+            "word": "l'aide",
+            "index": 433
+        },
+        {
+            "word": "méthodes",
+            "index": 435
+        },
+        {
+            "word": "mathématiques",
+            "index": 436
+        },
+        {
+            "word": "intégrer",
+            "index": 440
+        },
+        {
+            "word": "simulateur",
+            "index": 457
+        },
+        {
+            "word": "effectuant",
+            "index": 470
+        },
+        {
+            "word": "retour",
+            "index": 472
+        },
+        {
+            "word": "aujourd'hui",
+            "index": 478
+        },
+        {
+            "word": "peux",
+            "index": 481
+        },
+        {
+            "word": "prédite",
+            "index": 487
+        },
+        {
+            "word": "avec",
+            "index": 492
+        },
+        {
+            "word": "correctes",
+            "index": 508
+        },
+        {
+            "word": "identifié",
+            "index": 511
+        },
+        {
+            "word": "étant",
+            "index": 525
+        },
+        {
+            "word": "permettra",
+            "index": 559
+        },
+        {
+            "word": "tenant",
+            "index": 571
+        },
+        {
+            "word": "présents",
+            "index": 593
+        }
+    ],
+    "highrise": [
+        {
+            "word": "forêt",
+            "index": 205
+        }
+    ],
+    "highfall": []
+}

@@ -1,0 +1,962 @@
+{
+    "high": [
+        {
+            "word": "imaginez",
+            "index": 1
+        },
+        {
+            "word": "volant",
+            "index": 8
+        },
+        {
+            "word": "général",
+            "index": 14
+        },
+        {
+            "word": "pas",
+            "index": 18
+        },
+        {
+            "word": "cause",
+            "index": 32
+        },
+        {
+            "word": "mauvaise",
+            "index": 35
+        },
+        {
+            "word": "visibilité",
+            "index": 36
+        },
+        {
+            "word": "accident",
+            "index": 39
+        },
+        {
+            "word": "vite",
+            "index": 42
+        },
+        {
+            "word": "aider",
+            "index": 47
+        },
+        {
+            "word": "faudrait",
+            "index": 50
+        },
+        {
+            "word": "voitures",
+            "index": 55
+        },
+        {
+            "word": "caméras",
+            "index": 58
+        },
+        {
+            "word": "voient",
+            "index": 61
+        },
+        {
+            "word": "comment",
+            "index": 67
+        },
+        {
+            "word": "ça",
+            "index": 68
+        },
+        {
+            "word": "que",
+            "index": 73
+        },
+        {
+            "word": "déjà",
+            "index": 76
+        },
+        {
+            "word": "remarqué",
+            "index": 77
+        },
+        {
+            "word": "quand",
+            "index": 80
+        },
+        {
+            "word": "dernier",
+            "index": 90
+        },
+        {
+            "word": "lumière",
+            "index": 95
+        },
+        {
+            "word": "le",
+            "index": 101
+        },
+        {
+            "word": "chauffe",
+            "index": 102
+        },
+        {
+            "word": "émet",
+            "index": 109
+        },
+        {
+            "word": "toujours",
+            "index": 128
+        },
+        {
+            "word": "sauf",
+            "index": 133
+        },
+        {
+            "word": "il",
+            "index": 153
+        },
+        {
+            "word": "tous",
+            "index": 161
+        },
+        {
+            "word": "et",
+            "index": 168
+        },
+        {
+            "word": "capables",
+            "index": 182
+        },
+        {
+            "word": "détecter",
+            "index": 185
+        },
+        {
+            "word": "comme",
+            "index": 190
+        },
+        {
+            "word": "alors",
+            "index": 194
+        },
+        {
+            "word": "trouve",
+            "index": 210
+        },
+        {
+            "word": "sont",
+            "index": 220
+        },
+        {
+            "word": "but",
+            "index": 226
+        },
+        {
+            "word": "de",
+            "index": 227
+        },
+        {
+            "word": "développer",
+            "index": 233
+        },
+        {
+            "word": "nouvelle",
+            "index": 235
+        },
+        {
+            "word": "technologie",
+            "index": 236
+        },
+        {
+            "word": "matériau",
+            "index": 250
+        },
+        {
+            "word": "trois",
+            "index": 256
+        },
+        {
+            "word": "facile",
+            "index": 264
+        },
+        {
+            "word": "critère",
+            "index": 268
+        },
+        {
+            "word": "absorber",
+            "index": 271
+        },
+        {
+            "word": "infrarouges",
+            "index": 273
+        },
+        {
+            "word": "convertisse",
+            "index": 284
+        },
+        {
+            "word": "absorption",
+            "index": 286
+        },
+        {
+            "word": "quelque",
+            "index": 291
+        },
+        {
+            "word": "chose",
+            "index": 292
+        },
+        {
+            "word": "mesurer",
+            "index": 296
+        },
+        {
+            "word": "courant",
+            "index": 299
+        },
+        {
+            "word": "rares",
+            "index": 308
+        },
+        {
+            "word": "candidats",
+            "index": 309
+        },
+        {
+            "word": "particules",
+            "index": 314
+        },
+        {
+            "word": "tellure",
+            "index": 316
+        },
+        {
+            "word": "absorbent",
+            "index": 342
+        },
+        {
+            "word": "convertie",
+            "index": 346
+        },
+        {
+            "word": "électrique",
+            "index": 350
+        },
+        {
+            "word": "plus",
+            "index": 358
+        },
+        {
+            "word": "une",
+            "index": 371
+        },
+        {
+            "word": "fabrique",
+            "index": 376
+        },
+        {
+            "word": "propriétés",
+            "index": 390
+        },
+        {
+            "word": "peu",
+            "index": 394
+        },
+        {
+            "word": "type",
+            "index": 405
+        },
+        {
+            "word": "propriété",
+            "index": 421
+        },
+        {
+            "word": "exemple",
+            "index": 435
+        },
+        {
+            "word": "chemise",
+            "index": 440
+        },
+        {
+            "word": "rétrécit",
+            "index": 445
+        },
+        {
+            "word": "elle",
+            "index": 450
+        },
+        {
+            "word": "mêmes",
+            "index": 453
+        },
+        {
+            "word": "changeant",
+            "index": 461
+        },
+        {
+            "word": "changé",
+            "index": 468
+        },
+        {
+            "word": "mes",
+            "index": 473
+        },
+        {
+            "word": "taille",
+            "index": 485
+        },
+        {
+            "word": "reste",
+            "index": 509
+        },
+        {
+            "word": "collecter",
+            "index": 518
+        },
+        {
+            "word": "objet",
+            "index": 525
+        },
+        {
+            "word": "aussi",
+            "index": 526
+        },
+        {
+            "word": "petit",
+            "index": 527
+        },
+        {
+            "word": "faut",
+            "index": 534
+        },
+        {
+            "word": "dépose",
+            "index": 545
+        },
+        {
+            "word": "je",
+            "index": 556
+        },
+        {
+            "word": "extrémités",
+            "index": 560
+        },
+        {
+            "word": "m'assurer",
+            "index": 577
+        },
+        {
+            "word": "absorbée",
+            "index": 587
+        },
+        {
+            "word": "milieu",
+            "index": 589
+        },
+        {
+            "word": "générera",
+            "index": 597
+        },
+        {
+            "word": "arrivera",
+            "index": 599
+        },
+        {
+            "word": "sauter",
+            "index": 602
+        },
+        {
+            "word": "particule",
+            "index": 604
+        },
+        {
+            "word": "si",
+            "index": 617
+        },
+        {
+            "word": "quelques",
+            "index": 627
+        },
+        {
+            "word": "on",
+            "index": 630
+        }
+    ],
+    "low": [
+        {
+            "word": "imaginez",
+            "index": 1
+        },
+        {
+            "word": "au",
+            "index": 7
+        },
+        {
+            "word": "volant",
+            "index": 8
+        },
+        {
+            "word": "de",
+            "index": 9
+        },
+        {
+            "word": "votre",
+            "index": 10
+        },
+        {
+            "word": "en",
+            "index": 13
+        },
+        {
+            "word": "très",
+            "index": 19
+        },
+        {
+            "word": "rassuré",
+            "index": 20
+        },
+        {
+            "word": "vous",
+            "index": 23
+        },
+        {
+            "word": "avez",
+            "index": 24
+        },
+        {
+            "word": "à",
+            "index": 31
+        },
+        {
+            "word": "la",
+            "index": 34
+        },
+        {
+            "word": "mauvaise",
+            "index": 35
+        },
+        {
+            "word": "visibilité",
+            "index": 36
+        },
+        {
+            "word": "accident",
+            "index": 39
+        },
+        {
+            "word": "arrivé",
+            "index": 43
+        },
+        {
+            "word": "nous",
+            "index": 46
+        },
+        {
+            "word": "il",
+            "index": 49
+        },
+        {
+            "word": "qu'on",
+            "index": 51
+        },
+        {
+            "word": "dans",
+            "index": 53
+        },
+        {
+            "word": "nos",
+            "index": 54
+        },
+        {
+            "word": "des",
+            "index": 57
+        },
+        {
+            "word": "qui",
+            "index": 60
+        },
+        {
+            "word": "mais",
+            "index": 66
+        },
+        {
+            "word": "marcherait",
+            "index": 69
+        },
+        {
+            "word": "remarqué",
+            "index": 77
+        },
+        {
+            "word": "que",
+            "index": 79
+        },
+        {
+            "word": "chauffe",
+            "index": 82
+        },
+        {
+            "word": "fort",
+            "index": 85
+        },
+        {
+            "word": "ce",
+            "index": 89
+        },
+        {
+            "word": "émet",
+            "index": 92
+        },
+        {
+            "word": "lumière",
+            "index": 95
+        },
+        {
+            "word": "rouge",
+            "index": 96
+        },
+        {
+            "word": "encore",
+            "index": 103
+        },
+        {
+            "word": "ne",
+            "index": 136
+        },
+        {
+            "word": "peut",
+            "index": 137
+        },
+        {
+            "word": "avec",
+            "index": 141
+        },
+        {
+            "word": "n'y",
+            "index": 154
+        },
+        {
+            "word": "les",
+            "index": 158
+        },
+        {
+            "word": "métaux",
+            "index": 159
+        },
+        {
+            "word": "objets",
+            "index": 163
+        },
+        {
+            "word": "animaux",
+            "index": 166
+        },
+        {
+            "word": "émettent",
+            "index": 174
+        },
+        {
+            "word": "caméras",
+            "index": 178
+        },
+        {
+            "word": "infrarouges",
+            "index": 179
+        },
+        {
+            "word": "sont",
+            "index": 181
+        },
+        {
+            "word": "capables",
+            "index": 182
+        },
+        {
+            "word": "détecter",
+            "index": 185
+        },
+        {
+            "word": "alors",
+            "index": 194
+        },
+        {
+            "word": "déjà",
+            "index": 202
+        },
+        {
+            "word": "pas",
+            "index": 211
+        },
+        {
+            "word": "voitures",
+            "index": 214
+        },
+        {
+            "word": "qu'elles",
+            "index": 219
+        },
+        {
+            "word": "trop",
+            "index": 221
+        },
+        {
+            "word": "chères",
+            "index": 222
+        },
+        {
+            "word": "et",
+            "index": 224
+        },
+        {
+            "word": "le",
+            "index": 225
+        },
+        {
+            "word": "ma",
+            "index": 228
+        },
+        {
+            "word": "c'est",
+            "index": 231
+        },
+        {
+            "word": "développer",
+            "index": 233
+        },
+        {
+            "word": "une",
+            "index": 234
+        },
+        {
+            "word": "nouvelle",
+            "index": 235
+        },
+        {
+            "word": "technologie",
+            "index": 236
+        },
+        {
+            "word": "pouvoir",
+            "index": 239
+        },
+        {
+            "word": "besoin",
+            "index": 248
+        },
+        {
+            "word": "matériau",
+            "index": 250
+        },
+        {
+            "word": "va",
+            "index": 253
+        },
+        {
+            "word": "vérifier",
+            "index": 254
+        },
+        {
+            "word": "critères",
+            "index": 257
+        },
+        {
+            "word": "être",
+            "index": 263
+        },
+        {
+            "word": "fabriquer",
+            "index": 266
+        },
+        {
+            "word": "critère",
+            "index": 268
+        },
+        {
+            "word": "sûr",
+            "index": 275
+        },
+        {
+            "word": "faudrait",
+            "index": 282
+        },
+        {
+            "word": "qu'il",
+            "index": 283
+        },
+        {
+            "word": "convertisse",
+            "index": 284
+        },
+        {
+            "word": "cette",
+            "index": 285
+        },
+        {
+            "word": "électrique",
+            "index": 300
+        },
+        {
+            "word": "parmi",
+            "index": 306
+        },
+        {
+            "word": "candidats",
+            "index": 309
+        },
+        {
+            "word": "on",
+            "index": 311
+        },
+        {
+            "word": "mercure",
+            "index": 318
+        },
+        {
+            "word": "ces",
+            "index": 320
+        },
+        {
+            "word": "se",
+            "index": 323
+        },
+        {
+            "word": "facilement",
+            "index": 325
+        },
+        {
+            "word": "elles",
+            "index": 331
+        },
+        {
+            "word": "panneau",
+            "index": 354
+        },
+        {
+            "word": "solaire",
+            "index": 355
+        },
+        {
+            "word": "condition",
+            "index": 372
+        },
+        {
+            "word": "bonne",
+            "index": 379
+        },
+        {
+            "word": "propriétés",
+            "index": 390
+        },
+        {
+            "word": "particulières",
+            "index": 395
+        },
+        {
+            "word": "quantiques",
+            "index": 402
+        },
+        {
+            "word": "absorbent",
+            "index": 409
+        },
+        {
+            "word": "propriété",
+            "index": 421
+        },
+        {
+            "word": "retrouve",
+            "index": 424
+        },
+        {
+            "word": "exemple",
+            "index": 435
+        },
+        {
+            "word": "lavez",
+            "index": 438
+        },
+        {
+            "word": "chemise",
+            "index": 440
+        },
+        {
+            "word": "lavage",
+            "index": 447
+        },
+        {
+            "word": "taille",
+            "index": 464
+        },
+        {
+            "word": "aurait",
+            "index": 467
+        },
+        {
+            "word": "couleur",
+            "index": 470
+        },
+        {
+            "word": "particules",
+            "index": 474
+        },
+        {
+            "word": "je",
+            "index": 480
+        },
+        {
+            "word": "absorbe",
+            "index": 487
+        },
+        {
+            "word": "me",
+            "index": 508
+        },
+        {
+            "word": "dernier",
+            "index": 511
+        },
+        {
+            "word": "problème",
+            "index": 512
+        },
+        {
+            "word": "comment",
+            "index": 515
+        },
+        {
+            "word": "arriver",
+            "index": 516
+        },
+        {
+            "word": "objet",
+            "index": 525
+        },
+        {
+            "word": "petit",
+            "index": 527
+        },
+        {
+            "word": "quelque",
+            "index": 535
+        },
+        {
+            "word": "gros",
+            "index": 539
+        },
+        {
+            "word": "mes",
+            "index": 546
+        },
+        {
+            "word": "extrémités",
+            "index": 560
+        },
+        {
+            "word": "mesure",
+            "index": 566
+        },
+        {
+            "word": "courant",
+            "index": 568
+        },
+        {
+            "word": "m'assurer",
+            "index": 577
+        },
+        {
+            "word": "infrarouge",
+            "index": 584
+        },
+        {
+            "word": "absorbée",
+            "index": 587
+        },
+        {
+            "word": "film",
+            "index": 591
+        },
+        {
+            "word": "qu'elle",
+            "index": 596
+        },
+        {
+            "word": "générera",
+            "index": 597
+        },
+        {
+            "word": "arrivera",
+            "index": 599
+        },
+        {
+            "word": "particule",
+            "index": 604
+        },
+        {
+            "word": "détectée",
+            "index": 615
+        },
+        {
+            "word": "j'y",
+            "index": 618
+        },
+        {
+            "word": "parviens",
+            "index": 619
+        },
+        {
+            "word": "d'ici",
+            "index": 626
+        },
+        {
+            "word": "années",
+            "index": 628
+        }
+    ],
+    "highrise": [
+        {
+            "word": "effet",
+            "index": 29
+        },
+        {
+            "word": "aider",
+            "index": 47
+        },
+        {
+            "word": "voitures",
+            "index": 55
+        },
+        {
+            "word": "vérifier",
+            "index": 254
+        },
+        {
+            "word": "bleue",
+            "index": 441
+        }
+    ],
+    "highfall": [
+        {
+            "word": "en",
+            "index": 173
+        },
+        {
+            "word": "à",
+            "index": 295
+        },
+        {
+            "word": "électrique",
+            "index": 569
+        },
+        {
+            "word": "lumière",
+            "index": 583
+        },
+        {
+            "word": "sauter",
+            "index": 602
+        },
+        {
+            "word": "caméras",
+            "index": 633
+        }
+    ]
+}
