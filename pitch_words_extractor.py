@@ -4,7 +4,7 @@ import glob
 import json
 import parselmouth as pm
 import textgrids as tgt
-import tokenize_spacy as tk
+import spacy_tokenizer as tk
 
 
 PITCH_LEVELS = {"high": "H", "low": "L", "highrise": "HR", "highfall": "HF"}
