@@ -2,609 +2,609 @@
     "high": [
         {
             "word": "le",
-            "index": 1
+            "index": 4
         },
         {
             "word": "saviez",
-            "index": 2
+            "index": 182
         },
         {
             "word": "après",
-            "index": 5
+            "index": -1
         },
         {
             "word": "bassin",
-            "index": 7
+            "index": 5
         },
         {
             "word": "amazonien",
-            "index": 10
+            "index": 7
         },
         {
             "word": "deuxième",
-            "index": 13
+            "index": 9
         },
         {
             "word": "partie",
-            "index": 32
+            "index": 25
         },
         {
             "word": "grume",
-            "index": 67
+            "index": 53
         },
         {
             "word": "décision",
-            "index": 74
+            "index": 59
         },
         {
             "word": "l'augmentation",
-            "index": 86
+            "index": 69
         },
         {
             "word": "transformation",
-            "index": 89
+            "index": 72
         },
         {
             "word": "de",
-            "index": 92
+            "index": 74
         },
         {
             "word": "du",
-            "index": 107
+            "index": 77
         },
         {
             "word": "volume",
-            "index": 108
+            "index": 87
         },
         {
             "word": "déchets",
-            "index": 110
+            "index": 89
         },
         {
             "word": "ce",
-            "index": 126
+            "index": 94
         },
         {
             "word": "posés",
-            "index": 132
+            "index": 106
         },
         {
             "word": "industries",
-            "index": 165
+            "index": 131
         },
         {
             "word": "est",
-            "index": 207
+            "index": 154
         },
         {
             "word": "utilisé",
-            "index": 208
+            "index": 167
         },
         {
             "word": "depuis",
-            "index": 209
+            "index": 168
         },
         {
             "word": "décennies",
-            "index": 211
+            "index": 170
         },
         {
             "word": "vous",
-            "index": 227
+            "index": 183
         },
         {
             "word": "célèbre",
-            "index": 230
+            "index": 186
         },
         {
             "word": "utilise",
-            "index": 235
+            "index": 190
         },
         {
             "word": "résine",
-            "index": 237
+            "index": 192
         },
         {
             "word": "beaucoup",
-            "index": 258
+            "index": 210
         },
         {
             "word": "applicable",
-            "index": 296
+            "index": 239
         },
         {
             "word": "j'entends",
-            "index": 304
+            "index": 245
         },
         {
             "word": "rivaliser",
-            "index": 326
+            "index": 262
         },
         {
             "word": "riz",
-            "index": 334
+            "index": 269
         },
         {
             "word": "nocif",
-            "index": 337
+            "index": 271
         },
         {
             "word": "nombre",
-            "index": 353
+            "index": 283
         },
         {
             "word": "retrouve",
-            "index": 396
+            "index": 320
         },
         {
             "word": "quotidien",
-            "index": 430
+            "index": 347
         },
         {
             "word": "nous",
-            "index": 449
+            "index": 364
         },
         {
             "word": "plastique",
-            "index": 461
+            "index": 373
         },
         {
             "word": "mélangeant",
-            "index": 464
+            "index": 375
         },
         {
             "word": "la",
-            "index": 473
+            "index": 377
         },
         {
             "word": "l'industrie",
-            "index": 489
+            "index": 394
         },
         {
             "word": "cette",
-            "index": 494
+            "index": 398
         },
         {
             "word": "utilisation",
-            "index": 495
+            "index": 399
         },
         {
             "word": "permettra",
-            "index": 500
+            "index": 403
         },
         {
             "word": "entre",
-            "index": 504
+            "index": 406
         },
         {
             "word": "problème",
-            "index": 507
+            "index": 409
         },
         {
             "word": "non",
-            "index": 510
+            "index": 412
         },
         {
             "word": "gestion",
-            "index": 511
+            "index": 413
         },
         {
             "word": "pour",
-            "index": 522
+            "index": 421
         },
         {
             "word": "comprenez",
-            "index": 533
+            "index": 430
         }
     ],
     "low": [
         {
             "word": "saviez",
-            "index": 2
+            "index": 1
         },
         {
             "word": "vous",
-            "index": 3
+            "index": 2
         },
         {
             "word": "après",
-            "index": 5
+            "index": 3
         },
         {
             "word": "le",
-            "index": 6
+            "index": 4
         },
         {
             "word": "forestier",
-            "index": 8
+            "index": 6
         },
         {
             "word": "amazonien",
-            "index": 10
+            "index": 7
         },
         {
             "word": "grand",
-            "index": 15
+            "index": 11
         },
         {
             "word": "bassin",
-            "index": 16
+            "index": 12
         },
         {
             "word": "et",
-            "index": 27
+            "index": 21
         },
         {
             "word": "gabon",
-            "index": 29
+            "index": 23
         },
         {
             "word": "faisant",
-            "index": 31
+            "index": 24
         },
         {
             "word": "du",
-            "index": 33
+            "index": 26
         },
         {
             "word": "congo",
-            "index": 36
+            "index": 29
         },
         {
             "word": "donc",
-            "index": 38
+            "index": 30
         },
         {
             "word": "décida",
-            "index": 57
+            "index": 44
         },
         {
             "word": "d'interdire",
-            "index": 58
+            "index": 45
         },
         {
             "word": "l'exportation",
-            "index": 59
+            "index": 46
         },
         {
             "word": "son",
-            "index": 61
+            "index": 48
         },
         {
             "word": "de",
-            "index": 66
+            "index": 52
         },
         {
             "word": "les",
-            "index": 69
+            "index": 55
         },
         {
             "word": "pays",
-            "index": 70
+            "index": 56
         },
         {
             "word": "étrangers",
-            "index": 71
+            "index": 57
         },
         {
             "word": "cette",
-            "index": 73
+            "index": 58
         },
         {
             "word": "a",
-            "index": 77
+            "index": 62
         },
         {
             "word": "eu",
-            "index": 78
+            "index": 63
         },
         {
             "word": "comme",
-            "index": 79
+            "index": 64
         },
         {
             "word": "impact",
-            "index": 80
+            "index": 65
         },
         {
             "word": "l'augmentation",
-            "index": 86
+            "index": 69
         },
         {
             "word": "la",
-            "index": 88
+            "index": 71
         },
         {
             "word": "transformation",
-            "index": 89
+            "index": 72
         },
         {
             "word": "l'utilisation",
-            "index": 93
+            "index": 75
         },
         {
             "word": "locale",
-            "index": 94
+            "index": 76
         },
         {
             "word": "des",
-            "index": 109
+            "index": 88
         },
         {
             "word": "constat",
-            "index": 127
+            "index": 102
         },
         {
             "word": "nous",
-            "index": 130
+            "index": 103
         },
         {
             "word": "posés",
-            "index": 132
+            "index": 106
         },
         {
             "word": "question",
-            "index": 134
+            "index": 108
         },
         {
             "word": "savoir",
-            "index": 136
+            "index": 110
         },
         {
             "word": "efficace",
-            "index": 145
+            "index": 116
         },
         {
             "word": "peut",
-            "index": 147
+            "index": 117
         },
         {
             "word": "par",
-            "index": 163
+            "index": 129
         },
         {
             "word": "première",
-            "index": 168
+            "index": 134
         },
         {
             "word": "en",
-            "index": 180
+            "index": 144
         },
         {
             "word": "énorme",
-            "index": 202
+            "index": 162
         },
         {
             "word": "puisque",
-            "index": 204
+            "index": 163
         },
         {
             "word": "ce",
-            "index": 205
+            "index": 164
         },
         {
             "word": "utilisé",
-            "index": 208
+            "index": 167
         },
         {
             "word": "qualité",
-            "index": 215
+            "index": 173
         },
         {
             "word": "remarquable",
-            "index": 216
+            "index": 174
         },
         {
             "word": "à",
-            "index": 218
+            "index": 175
         },
         {
             "word": "fabrication",
-            "index": 220
+            "index": 177
         },
         {
             "word": "d'excellente",
-            "index": 223
+            "index": 180
         },
         {
             "word": "parfumerie",
-            "index": 231
+            "index": 187
         },
         {
             "word": "christian",
-            "index": 232
+            "index": 188
         },
         {
             "word": "dior",
-            "index": 233
+            "index": 189
         },
         {
             "word": "ses",
-            "index": 249
+            "index": 203
         },
         {
             "word": "est",
-            "index": 257
+            "index": 209
         },
         {
             "word": "domaine",
-            "index": 263
+            "index": 214
         },
         {
             "word": "pharmacologie",
-            "index": 266
+            "index": 217
         },
         {
             "word": "posée",
-            "index": 280
+            "index": 228
         },
         {
             "word": "s'offrent",
-            "index": 285
+            "index": 231
         },
         {
             "word": "applicable",
-            "index": 296
+            "index": 239
         },
         {
             "word": "au",
-            "index": 297
+            "index": 240
         },
         {
             "word": "molécules",
-            "index": 301
+            "index": 243
         },
         {
             "word": "pourront",
-            "index": 317
+            "index": 255
         },
         {
             "word": "capables",
-            "index": 324
+            "index": 260
         },
         {
             "word": "rivaliser",
-            "index": 326
+            "index": 262
         },
         {
             "word": "avec",
-            "index": 327
+            "index": 263
         },
         {
             "word": "base",
-            "index": 332
+            "index": 267
         },
         {
             "word": "formol",
-            "index": 335
+            "index": 270
         },
         {
             "word": "je",
-            "index": 349
+            "index": 280
         },
         {
             "word": "demandent",
-            "index": 357
+            "index": 287
         },
         {
             "word": "végétaux",
-            "index": 371
+            "index": 298
         },
         {
             "word": "métabolite",
-            "index": 377
+            "index": 304
         },
         {
             "word": "secondaire",
-            "index": 378
+            "index": 305
         },
         {
             "word": "l'arbre",
-            "index": 386
+            "index": 312
         },
         {
             "word": "agressions",
-            "index": 390
+            "index": 315
         },
         {
             "word": "externes",
-            "index": 391
+            "index": 316
         },
         {
             "word": "on",
-            "index": 394
+            "index": 318
         },
         {
             "word": "retrouve",
-            "index": 396
+            "index": 320
         },
         {
             "word": "contre",
-            "index": 414
+            "index": 334
         },
         {
             "word": "vieillissement",
-            "index": 416
+            "index": 336
         },
         {
             "word": "thé",
-            "index": 423
+            "index": 342
         },
         {
             "word": "quotidien",
-            "index": 430
+            "index": 347
         },
         {
             "word": "qui",
-            "index": 446
+            "index": 361
         },
         {
             "word": "s'offre",
-            "index": 447
+            "index": 362
         },
         {
             "word": "plastique",
-            "index": 461
+            "index": 373
         },
         {
             "word": "panneau",
-            "index": 485
+            "index": 389
         },
         {
             "word": "construction",
-            "index": 492
+            "index": 397
         },
         {
             "word": "utilisation",
-            "index": 495
+            "index": 399
         },
         {
             "word": "plastiques",
-            "index": 498
+            "index": 402
         },
         {
             "word": "permettra",
-            "index": 500
+            "index": 403
         },
         {
             "word": "pallier",
-            "index": 502
+            "index": 405
         },
         {
             "word": "déchets",
-            "index": 513
+            "index": 415
         },
         {
             "word": "développement",
-            "index": 528
+            "index": 427
         },
         {
             "word": "comprenez",
-            "index": 533
+            "index": 430
         },
         {
             "word": "laboratoire",
-            "index": 539
+            "index": 436
         }
     ],
     "highrise": [
         {
             "word": "efficace",
-            "index": 145
+            "index": 116
         },
         {
             "word": "panneau",
-            "index": 485
+            "index": 389
         }
     ],
     "highfall": [
         {
             "word": "bois",
-            "index": 96
+            "index": 49
         },
         {
             "word": "que",
-            "index": 228
+            "index": 184
         }
     ]
 }

@@ -2,780 +2,780 @@
     "high": [
         {
             "word": "depuis",
-            "index": 1
+            "index": 255
         },
         {
             "word": "nuit",
-            "index": 3
+            "index": -1
         },
         {
             "word": "existe",
-            "index": 8
+            "index": 6
         },
         {
             "word": "fait",
-            "index": 16
+            "index": 13
         },
         {
             "word": "millions",
-            "index": 18
+            "index": 15
         },
         {
             "word": "moi",
-            "index": 23
+            "index": 19
         },
         {
             "word": "pense",
-            "index": 37
+            "index": 31
         },
         {
             "word": "poulains",
-            "index": 41
+            "index": 35
         },
         {
             "word": "chez",
-            "index": 50
+            "index": 44
         },
         {
             "word": "j'étais",
-            "index": 55
+            "index": 48
         },
         {
             "word": "également",
-            "index": 81
+            "index": 69
         },
         {
             "word": "animaux",
-            "index": 83
+            "index": 71
         },
         {
             "word": "oiseaux",
-            "index": 96
+            "index": 81
         },
         {
             "word": "même",
-            "index": 99
+            "index": 83
         },
         {
             "word": "ennemi",
-            "index": 105
+            "index": 87
         },
         {
             "word": "parasite",
-            "index": 111
+            "index": 92
         },
         {
             "word": "toute",
-            "index": 122
+            "index": 101
         },
         {
             "word": "microscopiques",
-            "index": 127
+            "index": 105
         },
         {
             "word": "vivent",
-            "index": 130
+            "index": 107
         },
         {
             "word": "là",
-            "index": 137
+            "index": 113
         },
         {
             "word": "méchants",
-            "index": 150
+            "index": 124
         },
         {
             "word": "toutes",
-            "index": 155
+            "index": 128
         },
         {
             "word": "pas",
-            "index": 213
+            "index": 163
         },
         {
             "word": "m'occuper",
-            "index": 214
+            "index": 177
         },
         {
             "word": "concentrer",
-            "index": 230
+            "index": 191
         },
         {
             "word": "entraîne",
-            "index": 247
+            "index": 207
         },
         {
             "word": "et",
-            "index": 252
+            "index": 211
         },
         {
             "word": "digestifs",
-            "index": 253
+            "index": 212
         },
         {
             "word": "molécule",
-            "index": 277
+            "index": 230
         },
         {
             "word": "années",
-            "index": 289
+            "index": 240
         },
         {
             "word": "c'est",
-            "index": 301
+            "index": 249
         },
         {
             "word": "où",
-            "index": 303
+            "index": 251
         },
         {
             "word": "comme",
-            "index": 310
+            "index": 256
         },
         {
             "word": "but",
-            "index": 337
+            "index": 280
         },
         {
             "word": "de",
-            "index": 338
+            "index": 281
         },
         {
             "word": "comment",
-            "index": 345
+            "index": 287
         },
         {
             "word": "toujours",
-            "index": 357
+            "index": 298
         },
         {
             "word": "comprendre",
-            "index": 369
+            "index": 309
         },
         {
             "word": "sait",
-            "index": 396
+            "index": 332
         },
         {
             "word": "agit",
-            "index": 400
+            "index": 335
         },
         {
             "word": "système",
-            "index": 403
+            "index": 338
         },
         {
             "word": "nerveux",
-            "index": 404
+            "index": 339
         },
         {
             "word": "plus",
-            "index": 413
+            "index": 346
         },
         {
             "word": "précisément",
-            "index": 414
+            "index": 347
         },
         {
             "word": "unités",
-            "index": 426
+            "index": 358
         },
         {
             "word": "permettent",
-            "index": 432
+            "index": 363
         },
         {
             "word": "passage",
-            "index": 434
+            "index": 365
         },
         {
             "word": "ou",
-            "index": 436
+            "index": 366
         },
         {
             "word": "ver",
-            "index": 455
+            "index": 380
         },
         {
             "word": "reproduire",
-            "index": 466
+            "index": 389
         },
         {
             "word": "fixer",
-            "index": 491
+            "index": 408
         },
         {
             "word": "jamais",
-            "index": 529
+            "index": 437
         },
         {
             "word": "d'identifier",
-            "index": 553
+            "index": 458
         },
         {
             "word": "bonne",
-            "index": 560
+            "index": 465
         },
         {
             "word": "composition",
-            "index": 561
+            "index": 466
         },
         {
             "word": "étudier",
-            "index": 576
+            "index": 477
         },
         {
             "word": "utilisée",
-            "index": 591
+            "index": 489
         },
         {
             "word": "pour",
-            "index": 592
+            "index": 490
         },
         {
             "word": "traiter",
-            "index": 593
+            "index": 491
         },
         {
             "word": "ce",
-            "index": 594
+            "index": 492
         },
         {
             "word": "deuxième",
-            "index": 599
+            "index": 496
         },
         {
             "word": "mutations",
-            "index": 605
+            "index": 502
         },
         {
             "word": "compter",
-            "index": 629
+            "index": 522
         },
         {
             "word": "tout",
-            "index": 639
+            "index": 531
         }
     ],
     "low": [
         {
             "word": "depuis",
-            "index": 1
+            "index": 255
         },
         {
             "word": "la",
-            "index": 2
-        },
-        {
-            "word": "des",
-            "index": 4
-        },
-        {
-            "word": "temps",
-            "index": 5
-        },
-        {
-            "word": "il",
-            "index": 7
-        },
-        {
-            "word": "secrète",
-            "index": 11
-        },
-        {
-            "word": "déjà",
-            "index": 15
-        },
-        {
-            "word": "millions",
-            "index": 18
-        },
-        {
-            "word": "j'ai",
-            "index": 22
-        },
-        {
-            "word": "compagnons",
-            "index": 27
-        },
-        {
-            "word": "sans",
-            "index": 30
-        },
-        {
-            "word": "que",
-            "index": 32
-        },
-        {
-            "word": "aussi",
-            "index": 34
-        },
-        {
-            "word": "je",
-            "index": 36
-        },
-        {
-            "word": "notamment",
-            "index": 38
-        },
-        {
-            "word": "aux",
-            "index": 39
-        },
-        {
-            "word": "jeunes",
-            "index": 40
-        },
-        {
-            "word": "vivaient",
-            "index": 43
-        },
-        {
-            "word": "à",
-            "index": 47
-        },
-        {
-            "word": "parents",
-            "index": 52
-        },
-        {
-            "word": "j'étais",
-            "index": 55
-        },
-        {
-            "word": "jeune",
-            "index": 57
-        },
-        {
-            "word": "n'ont",
-            "index": 60
-        },
-        {
-            "word": "malheureusement",
-            "index": 61
-        },
-        {
-            "word": "dans",
-            "index": 65
-        },
-        {
-            "word": "nous",
-            "index": 69
-        },
-        {
-            "word": "avons",
-            "index": 70
-        },
-        {
-            "word": "également",
-            "index": 81
-        },
-        {
-            "word": "les",
-            "index": 82
-        },
-        {
-            "word": "soient",
-            "index": 85
-        },
-        {
-            "word": "insectes",
-            "index": 93
-        },
-        {
-            "word": "oiseaux",
-            "index": 96
-        },
-        {
-            "word": "et",
-            "index": 98
-        },
-        {
-            "word": "végétaux",
-            "index": 102
-        },
-        {
-            "word": "cet",
-            "index": 104
-        },
-        {
-            "word": "commun",
-            "index": 106
-        },
-        {
-            "word": "c'est",
-            "index": 108
-        },
-        {
-            "word": "le",
-            "index": 109
-        },
-        {
-            "word": "parasite",
-            "index": 111
-        },
-        {
-            "word": "de",
-            "index": 121
-        },
-        {
-            "word": "microscopiques",
-            "index": 127
-        },
-        {
-            "word": "sol",
-            "index": 133
-        },
-        {
-            "word": "l'environnement",
-            "index": 143
-        },
-        {
-            "word": "méchants",
-            "index": 150
-        },
-        {
-            "word": "parasitent",
-            "index": 153
-        },
-        {
-            "word": "quasiment",
-            "index": 154
-        },
-        {
-            "word": "espèces",
-            "index": 157
-        },
-        {
-            "word": "vivantes",
-            "index": 158
-        },
-        {
-            "word": "infestée",
-            "index": 178
-        },
-        {
-            "word": "donc",
-            "index": 180
-        },
-        {
-            "word": "votre",
-            "index": 185
-        },
-        {
-            "word": "regardez",
-            "index": 187
-        },
-        {
-            "word": "voisin",
-            "index": 189
-        },
-        {
-            "word": "ne",
-            "index": 210
-        },
-        {
-            "word": "parasites",
-            "index": 219
-        },
-        {
-            "word": "cheval",
-            "index": 234
-        },
-        {
-            "word": "m'a",
-            "index": 236
-        },
-        {
-            "word": "traumatisé",
-            "index": 237
-        },
-        {
-            "word": "mon",
-            "index": 239
-        },
-        {
-            "word": "enfance",
-            "index": 240
-        },
-        {
-            "word": "digestifs",
-            "index": 253
-        },
-        {
-            "word": "a",
-            "index": 265
-        },
-        {
-            "word": "arme",
-            "index": 269
-        },
-        {
-            "word": "contre",
-            "index": 271
-        },
-        {
-            "word": "ver",
-            "index": 274
-        },
-        {
-            "word": "molécule",
-            "index": 277
-        },
-        {
-            "word": "s'appelle",
-            "index": 279
-        },
-        {
-            "word": "l'ivermectine",
-            "index": 281
-        },
-        {
-            "word": "été",
-            "index": 285
-        },
-        {
-            "word": "commercialisée",
-            "index": 286
-        },
-        {
-            "word": "années",
-            "index": 289
-        },
-        {
-            "word": "problème",
-            "index": 306
-        },
-        {
-            "word": "développé",
-            "index": 320
-        },
-        {
-            "word": "résistances",
-            "index": 322
-        },
-        {
-            "word": "cette",
-            "index": 325
-        },
-        {
-            "word": "j'entre",
-            "index": 332
-        },
-        {
-            "word": "en",
-            "index": 333
-        },
-        {
-            "word": "ma",
-            "index": 339
-        },
-        {
-            "word": "est",
-            "index": 341
-        },
-        {
-            "word": "comprendre",
-            "index": 343
-        },
-        {
-            "word": "fonctionne",
-            "index": 347
-        },
-        {
-            "word": "qu'on",
-            "index": 353
-        },
-        {
-            "word": "actuelle",
-            "index": 361
-        },
-        {
-            "word": "même",
-            "index": 362
-        },
-        {
-            "word": "après",
-            "index": 363
-        },
-        {
-            "word": "mécanismes",
-            "index": 371
-        },
-        {
-            "word": "résistance",
-            "index": 373
-        },
-        {
-            "word": "développer",
-            "index": 381
-        },
-        {
-            "word": "nouvelles",
-            "index": 383
-        },
-        {
-            "word": "pistes",
-            "index": 393
-        },
-        {
-            "word": "on",
-            "index": 395
-        },
-        {
-            "word": "cerveau",
-            "index": 410
-        },
-        {
-            "word": "précisément",
-            "index": 414
-        },
-        {
-            "word": "récepteurs",
-            "index": 417
-        },
-        {
-            "word": "sont",
-            "index": 421
-        },
-        {
-            "word": "composés",
-            "index": 422
-        },
-        {
-            "word": "pas",
-            "index": 437
-        },
-        {
-            "word": "message",
-            "index": 440
-        },
-        {
-            "word": "nerveux",
-            "index": 441
-        },
-        {
-            "word": "idée",
-            "index": 460
-        },
-        {
-            "word": "comme",
-            "index": 461
-        },
-        {
-            "word": "manger",
             "index": 464
         },
         {
+            "word": "des",
+            "index": -1
+        },
+        {
+            "word": "temps",
+            "index": 4
+        },
+        {
+            "word": "il",
+            "index": 5
+        },
+        {
+            "word": "secrète",
+            "index": 9
+        },
+        {
+            "word": "déjà",
+            "index": 12
+        },
+        {
+            "word": "millions",
+            "index": 15
+        },
+        {
+            "word": "j'ai",
+            "index": 18
+        },
+        {
+            "word": "compagnons",
+            "index": 23
+        },
+        {
+            "word": "sans",
+            "index": 25
+        },
+        {
+            "word": "que",
+            "index": 27
+        },
+        {
+            "word": "aussi",
+            "index": 29
+        },
+        {
+            "word": "je",
+            "index": 30
+        },
+        {
+            "word": "notamment",
+            "index": 32
+        },
+        {
+            "word": "aux",
+            "index": 33
+        },
+        {
+            "word": "jeunes",
+            "index": 34
+        },
+        {
+            "word": "vivaient",
+            "index": 37
+        },
+        {
+            "word": "à",
+            "index": 41
+        },
+        {
+            "word": "parents",
+            "index": 46
+        },
+        {
+            "word": "j'étais",
+            "index": 48
+        },
+        {
+            "word": "jeune",
+            "index": 50
+        },
+        {
+            "word": "n'ont",
+            "index": 53
+        },
+        {
+            "word": "malheureusement",
+            "index": 54
+        },
+        {
+            "word": "dans",
+            "index": 57
+        },
+        {
+            "word": "nous",
+            "index": 60
+        },
+        {
+            "word": "avons",
+            "index": 61
+        },
+        {
+            "word": "également",
+            "index": 69
+        },
+        {
+            "word": "les",
+            "index": 70
+        },
+        {
+            "word": "soient",
+            "index": 73
+        },
+        {
+            "word": "insectes",
+            "index": 79
+        },
+        {
+            "word": "oiseaux",
+            "index": 81
+        },
+        {
+            "word": "et",
+            "index": 82
+        },
+        {
+            "word": "végétaux",
+            "index": 85
+        },
+        {
+            "word": "cet",
+            "index": 86
+        },
+        {
+            "word": "commun",
+            "index": 88
+        },
+        {
+            "word": "c'est",
+            "index": 89
+        },
+        {
+            "word": "le",
+            "index": 90
+        },
+        {
+            "word": "parasite",
+            "index": 92
+        },
+        {
+            "word": "de",
+            "index": 100
+        },
+        {
+            "word": "microscopiques",
+            "index": 105
+        },
+        {
+            "word": "sol",
+            "index": 110
+        },
+        {
+            "word": "l'environnement",
+            "index": 118
+        },
+        {
+            "word": "méchants",
+            "index": 124
+        },
+        {
+            "word": "parasitent",
+            "index": 126
+        },
+        {
+            "word": "quasiment",
+            "index": 127
+        },
+        {
+            "word": "espèces",
+            "index": 130
+        },
+        {
+            "word": "vivantes",
+            "index": 131
+        },
+        {
+            "word": "infestée",
+            "index": 142
+        },
+        {
+            "word": "donc",
+            "index": 147
+        },
+        {
+            "word": "votre",
+            "index": 149
+        },
+        {
+            "word": "regardez",
+            "index": 154
+        },
+        {
+            "word": "voisin",
+            "index": 156
+        },
+        {
+            "word": "ne",
+            "index": 174
+        },
+        {
+            "word": "parasites",
+            "index": 181
+        },
+        {
+            "word": "cheval",
+            "index": 195
+        },
+        {
+            "word": "m'a",
+            "index": 197
+        },
+        {
+            "word": "traumatisé",
+            "index": 198
+        },
+        {
+            "word": "mon",
+            "index": 200
+        },
+        {
+            "word": "enfance",
+            "index": 201
+        },
+        {
+            "word": "digestifs",
+            "index": 212
+        },
+        {
+            "word": "a",
+            "index": 221
+        },
+        {
+            "word": "arme",
+            "index": 225
+        },
+        {
+            "word": "contre",
+            "index": 226
+        },
+        {
+            "word": "ver",
+            "index": 228
+        },
+        {
+            "word": "molécule",
+            "index": 230
+        },
+        {
+            "word": "s'appelle",
+            "index": 232
+        },
+        {
+            "word": "l'ivermectine",
+            "index": 233
+        },
+        {
+            "word": "été",
+            "index": 236
+        },
+        {
+            "word": "commercialisée",
+            "index": 237
+        },
+        {
+            "word": "années",
+            "index": 240
+        },
+        {
+            "word": "problème",
+            "index": 254
+        },
+        {
+            "word": "développé",
+            "index": 266
+        },
+        {
+            "word": "résistances",
+            "index": 268
+        },
+        {
+            "word": "cette",
+            "index": 270
+        },
+        {
+            "word": "j'entre",
+            "index": 276
+        },
+        {
+            "word": "en",
+            "index": 277
+        },
+        {
+            "word": "ma",
+            "index": 282
+        },
+        {
+            "word": "est",
+            "index": 284
+        },
+        {
+            "word": "comprendre",
+            "index": 286
+        },
+        {
+            "word": "fonctionne",
+            "index": 289
+        },
+        {
+            "word": "qu'on",
+            "index": 294
+        },
+        {
+            "word": "actuelle",
+            "index": 302
+        },
+        {
+            "word": "même",
+            "index": 303
+        },
+        {
+            "word": "après",
+            "index": 304
+        },
+        {
+            "word": "mécanismes",
+            "index": 311
+        },
+        {
+            "word": "résistance",
+            "index": 313
+        },
+        {
+            "word": "développer",
+            "index": 319
+        },
+        {
+            "word": "nouvelles",
+            "index": 321
+        },
+        {
+            "word": "pistes",
+            "index": 330
+        },
+        {
+            "word": "on",
+            "index": 331
+        },
+        {
+            "word": "cerveau",
+            "index": 344
+        },
+        {
+            "word": "précisément",
+            "index": 347
+        },
+        {
+            "word": "récepteurs",
+            "index": 350
+        },
+        {
+            "word": "sont",
+            "index": 353
+        },
+        {
+            "word": "composés",
+            "index": 354
+        },
+        {
+            "word": "pas",
+            "index": 367
+        },
+        {
+            "word": "message",
+            "index": 369
+        },
+        {
+            "word": "nerveux",
+            "index": 370
+        },
+        {
+            "word": "idée",
+            "index": 384
+        },
+        {
+            "word": "comme",
+            "index": 385
+        },
+        {
+            "word": "manger",
+            "index": 387
+        },
+        {
             "word": "bouger",
-            "index": 480
+            "index": 401
         },
         {
             "word": "reproduire",
-            "index": 483
+            "index": 403
         },
         {
             "word": "va",
-            "index": 489
+            "index": 406
         },
         {
             "word": "se",
-            "index": 490
+            "index": 407
         },
         {
             "word": "récepteur",
-            "index": 495
+            "index": 411
         },
         {
             "word": "réaliser",
-            "index": 504
+            "index": 417
         },
         {
             "word": "actions",
-            "index": 507
+            "index": 420
         },
         {
             "word": "paralysé",
-            "index": 512
+            "index": 424
         },
         {
             "word": "mourir",
-            "index": 516
+            "index": 427
         },
         {
             "word": "mais",
-            "index": 518
+            "index": 428
         },
         {
             "word": "pourra",
-            "index": 528
+            "index": 436
         },
         {
             "word": "fixer",
-            "index": 531
+            "index": 439
         },
         {
             "word": "librement",
-            "index": 542
+            "index": 448
         },
         {
             "word": "sous",
-            "index": 563
+            "index": 468
         },
         {
             "word": "unités",
-            "index": 564
+            "index": 469
         },
         {
             "word": "interactions",
-            "index": 578
+            "index": 479
         },
         {
             "word": "m'intéresser",
-            "index": 603
+            "index": 500
         },
         {
             "word": "stratégie",
-            "index": 620
+            "index": 515
         },
         {
             "word": "vous",
-            "index": 627
+            "index": 520
         },
         {
             "word": "poneys",
-            "index": 636
+            "index": 528
         },
         {
             "word": "vais",
-            "index": 638
+            "index": 530
         },
         {
             "word": "donner",
-            "index": 640
+            "index": 532
         }
     ],
     "highrise": [],
     "highfall": [
         {
             "word": "tous",
-            "index": 216
+            "index": 179
         },
         {
             "word": "une",
-            "index": 268
+            "index": 224
         },
         {
             "word": "été",
-            "index": 285
+            "index": 236
         },
         {
             "word": "si",
-            "index": 519
+            "index": 429
         },
         {
             "word": "molécule",
-            "index": 587
+            "index": 486
         }
     ]
 }

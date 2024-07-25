@@ -4,6 +4,8 @@ import glob
 import json
 import parselmouth as pm
 import textgrids as tgt
+import tokenize_spacy as tk
+
 
 PITCH_LEVELS = {"high": "H", "low": "L", "highrise": "HR", "highfall": "HF"}
 
@@ -19,22 +21,23 @@ class Word:
         xmax (float): The end time of the word.
     """
 
-    def __init__(self, word, index):
+    def __init__(self, word, tgt_index, spacy_index):
         self.word = word.text
-        self.tgt_index = index
+        self.tgt_index = tgt_index
+        self.spacy_index = spacy_index
         self.xmin = word.xmin
         self.xmax = word.xmax
 
     def __repr__(self):
-        return f"Word(word={self.word}, index={self.tgt_index}, xmin={self.xmin}, xmax={self.xmax})"
+        return f"Word(word={self.word}, spacy_index={self.spacy_index}, tgt_index={self.tgt_index}, xmin={self.xmin}, xmax={self.xmax})"
 
     def __str__(self):
-        return f"Mot: {self.word}\nIndex: {self.tgt_index}\nXmin: {self.xmin}\nXmax: {self.xmax}"
+        return f"Mot: {self.word}\nSpacy_index: {self.spacy_index}\nTgt_index: {self.tgt_index}\nXmin: {self.xmin}\nXmax: {self.xmax}"
 
     def to_dict(self):
         return {
             "word": self.word,
-            "index": self.tgt_index,
+            "index": self.spacy_index,
         }
 
 
@@ -55,7 +58,25 @@ def already_stored(word_text, word_list):
     return False
 
 
-def find_words_in_intervals(time_intervals, words):
+def find_spacy_token_idx(word, spacy_tokens, last_index):
+    """
+    Finds the index of a SpaCy token that matches the given word.
+
+    Args:
+        word (str): The word to match.
+        spacy_tokens (list): List of tokens from SpaCy.
+        last_index (int): The index of the last matched token.
+
+    Returns:
+        int: The index of the matched SpaCy token, or -1 if not found.
+    """
+    for i, token in enumerate(spacy_tokens):
+        if token.strip() == word.text.strip() and i > last_index:
+            return i
+    return -1
+
+
+def find_words_in_intervals(time_intervals, words, spacy_tokens):
     """
     Finds words within specified time intervals.
 
@@ -67,16 +88,21 @@ def find_words_in_intervals(time_intervals, words):
         list: List of Word objects found within the specified time intervals.
     """
     word_list = []
+    last_index = 0
     for start, end in time_intervals:
         for index, word in enumerate(words):
             if word.xmin <= start and end <= word.xmax:
                 if not already_stored(word.text, word_list):
-                    word_list.append(Word(word, index))
+                    spacy_token_idx = find_spacy_token_idx(
+                        word, spacy_tokens, last_index
+                    )
+                    word_list.append(Word(word, index, spacy_token_idx))
+                    last_index = spacy_token_idx
                 break
     return word_list
 
 
-def extract_words_by_pitch_level(level, transcript_paths, pitch_paths):
+def extract_words_by_pitch_level(level, transcript_paths, pitch_paths, txt_path):
     """
     Extracts words from transcripts based on specified pitch levels.
 
@@ -90,6 +116,7 @@ def extract_words_by_pitch_level(level, transcript_paths, pitch_paths):
     """
     words_by_pitch_level = []
     for transcript_path, pitch_path in zip(transcript_paths, pitch_paths):
+        spacy_tokens = tk.tokenize_text(txt_path)
         words = tgt.TextGrid(transcript_path)["words"]
         pitch_intervals = tgt.TextGrid(pitch_path)["polytonia"]
         time_intervals = [
@@ -97,7 +124,9 @@ def extract_words_by_pitch_level(level, transcript_paths, pitch_paths):
             for interval in pitch_intervals
             if interval.text.lower() == PITCH_LEVELS[level].lower()
         ]
-        words_by_pitch_level.append(find_words_in_intervals(time_intervals, words))
+        words_by_pitch_level.append(
+            find_words_in_intervals(time_intervals, words, spacy_tokens)
+        )
     return words_by_pitch_level
 
 
@@ -117,10 +146,10 @@ def main():
     """
     Main function to extract words from TextGrid files based on pitch levels.
     """
-    if len(sys.argv) != 2:
-        sys.exit("Usage: python3 extractWordPitchLevels.py /path/to/corpus")
+    # if len(sys.argv) != 2:
+    #     sys.exit("Usage: python3 extractWordPitchLevels.py /path/to/corpus")
 
-    textgrid_paths = glob.glob(f"{sys.argv[1]}/*.TextGrid")
+    textgrid_paths = glob.glob("data_sample/textgrids/*.TextGrid")
     transcript_paths = sorted(
         [path for path in textgrid_paths if not path.endswith("polytonia.TextGrid")]
     )
@@ -131,12 +160,14 @@ def main():
     for transcript_path in transcript_paths:
         base_filename = os.path.splitext(os.path.basename(transcript_path))[0]
         result = {}
+        txt_path = f"data_sample/transcripts/{base_filename}.txt"
 
         for level in PITCH_LEVELS.keys():
             words_by_level = extract_words_by_pitch_level(
                 level,
                 [transcript_path],
                 [pitch_paths[transcript_paths.index(transcript_path)]],
+                txt_path,
             )
             result[level] = [word.to_dict() for word in words_by_level[0]]
 
