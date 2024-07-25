@@ -2,465 +2,461 @@
     "high": [
         {
             "word": "à",
-            "index": 4
+            "index": 5
         },
         {
             "word": "voir",
-            "index": 8
+            "index": 9
         },
         {
             "word": "dessous",
-            "index": 12
+            "index": 13
         },
         {
             "word": "tigre",
-            "index": 14
+            "index": 15
         },
         {
             "word": "fois",
-            "index": 32
+            "index": 33
         },
         {
             "word": "ours",
-            "index": 50
+            "index": 52
         },
         {
             "word": "a",
-            "index": 66
-        },
-        {
-            "word": "nouvelle",
             "index": 68
         },
         {
-            "word": "qui",
+            "word": "nouvelle",
             "index": 70
         },
         {
-            "word": "vous",
+            "word": "qui",
             "index": 72
         },
         {
+            "word": "vous",
+            "index": 74
+        },
+        {
             "word": "pense",
-            "index": 73
+            "index": 75
         },
         {
             "word": "majorité",
-            "index": 91
+            "index": 97
         },
         {
             "word": "encore",
-            "index": 102
+            "index": 110
         },
         {
             "word": "complètement",
-            "index": 103
+            "index": 111
         },
         {
             "word": "dépassés",
-            "index": 104
+            "index": 112
         },
         {
             "word": "par",
-            "index": 105
-        },
-        {
-            "word": "l'intelligence",
-            "index": 107
-        },
-        {
-            "word": "s'appelle",
-            "index": 115
-        },
-        {
-            "word": "informatique",
-            "index": 119
-        },
-        {
-            "word": "du",
-            "index": 120
-        },
-        {
-            "word": "automatique",
-            "index": 125
-        },
-        {
-            "word": "effectuer",
-            "index": 130
-        },
-        {
-            "word": "tâche",
-            "index": 132
-        },
-        {
-            "word": "mon",
-            "index": 142
-        },
-        {
-            "word": "consiste",
-            "index": 144
-        },
-        {
-            "word": "faire",
-            "index": 146
-        },
-        {
-            "word": "chose",
-            "index": 150
-        },
-        {
-            "word": "des",
-            "index": 152
-        },
-        {
-            "word": "applications",
-            "index": 155
-        },
-        {
-            "word": "de",
-            "index": 156
-        },
-        {
-            "word": "sont",
-            "index": 159
-        },
-        {
-            "word": "innombrables",
-            "index": 160
-        },
-        {
-            "word": "médicales",
-            "index": 163
-        },
-        {
-            "word": "vocale",
-            "index": 171
-        },
-        {
-            "word": "passer",
-            "index": 176
-        },
-        {
-            "word": "soirée",
-            "index": 178
-        },
-        {
-            "word": "d'approche",
-            "index": 185
-        },
-        {
-            "word": "l'heure",
-            "index": 190
-        },
-        {
-            "word": "apprendre",
-            "index": 193
-        },
-        {
-            "word": "efficacement",
-            "index": 194
-        },
-        {
-            "word": "ordinateur",
-            "index": 196
-        },
-        {
-            "word": "milliers",
-            "index": 200
-        },
-        {
-            "word": "longs",
-            "index": 204
-        },
-        {
-            "word": "souvent",
-            "index": 206
-        },
-        {
-            "word": "coûteux",
-            "index": 207
-        },
-        {
-            "word": "priori",
-            "index": 215
-        },
-        {
-            "word": "oui",
-            "index": 216
-        },
-        {
-            "word": "sûrement",
-            "index": 229
-        },
-        {
-            "word": "ces",
-            "index": 234
-        },
-        {
-            "word": "on",
-            "index": 238
-        },
-        {
-            "word": "être",
-            "index": 243
-        },
-        {
-            "word": "choisis",
-            "index": 248
-        },
-        {
-            "word": "reconnaître",
-            "index": 263
-        },
-        {
-            "word": "n'a",
-            "index": 268
-        },
-        {
-            "word": "jamais",
-            "index": 269
-        },
-        {
-            "word": "exemple",
-            "index": 272
-        },
-        {
-            "word": "parmi",
-            "index": 278
-        },
-        {
-            "word": "trois",
-            "index": 280
-        },
-        {
-            "word": "images",
-            "index": 281
-        },
-        {
-            "word": "l'immédiat",
-            "index": 285
-        },
-        {
-            "word": "donne",
-            "index": 291
-        },
-        {
-            "word": "comme",
-            "index": 296
-        },
-        {
-            "word": "beaucoup",
-            "index": 307
-        },
-        {
-            "word": "plus",
-            "index": 308
-        },
-        {
-            "word": "l'objectif",
-            "index": 310
-        },
-        {
-            "word": "recherches",
-            "index": 313
-        },
-        {
-            "word": "d'intégrer",
-            "index": 315
-        },
-        {
-            "word": "capacité",
-            "index": 317
+            "index": 113
         },
         {
             "word": "intelligence",
-            "index": 320
+            "index": 117
         },
         {
-            "word": "spécifiquement",
-            "index": 323
+            "word": "appelle",
+            "index": 126
         },
         {
-            "word": "modélise",
-            "index": 325
+            "word": "informatique",
+            "index": 130
         },
         {
-            "word": "relations",
-            "index": 327
+            "word": "du",
+            "index": 131
         },
         {
-            "word": "existant",
-            "index": 328
+            "word": "automatique",
+            "index": 136
         },
         {
-            "word": "descriptions",
+            "word": "effectuer",
+            "index": 141
+        },
+        {
+            "word": "tâche",
+            "index": 143
+        },
+        {
+            "word": "mon",
+            "index": 155
+        },
+        {
+            "word": "consiste",
+            "index": 157
+        },
+        {
+            "word": "faire",
+            "index": 159
+        },
+        {
+            "word": "chose",
+            "index": 163
+        },
+        {
+            "word": "des",
+            "index": 165
+        },
+        {
+            "word": "applications",
+            "index": 168
+        },
+        {
+            "word": "de",
+            "index": 169
+        },
+        {
+            "word": "sont",
+            "index": 173
+        },
+        {
+            "word": "innombrables",
+            "index": 174
+        },
+        {
+            "word": "médicales",
+            "index": 178
+        },
+        {
+            "word": "vocale",
+            "index": 186
+        },
+        {
+            "word": "passer",
+            "index": 191
+        },
+        {
+            "word": "soirée",
+            "index": 193
+        },
+        {
+            "word": "approche",
+            "index": 201
+        },
+        {
+            "word": "heure",
+            "index": 207
+        },
+        {
+            "word": "apprendre",
+            "index": 210
+        },
+        {
+            "word": "efficacement",
+            "index": 211
+        },
+        {
+            "word": "ordinateur",
+            "index": 213
+        },
+        {
+            "word": "milliers",
+            "index": 217
+        },
+        {
+            "word": "longs",
+            "index": 222
+        },
+        {
+            "word": "souvent",
+            "index": 224
+        },
+        {
+            "word": "coûteux",
+            "index": 225
+        },
+        {
+            "word": "priori",
+            "index": 233
+        },
+        {
+            "word": "oui",
+            "index": 234
+        },
+        {
+            "word": "sûrement",
+            "index": 248
+        },
+        {
+            "word": "ces",
+            "index": 253
+        },
+        {
+            "word": "on",
+            "index": 257
+        },
+        {
+            "word": "être",
+            "index": 262
+        },
+        {
+            "word": "choisis",
+            "index": 268
+        },
+        {
+            "word": "reconnaître",
+            "index": 283
+        },
+        {
+            "word": "a",
+            "index": 290
+        },
+        {
+            "word": "jamais",
+            "index": 291
+        },
+        {
+            "word": "exemple",
+            "index": 294
+        },
+        {
+            "word": "parmi",
+            "index": 300
+        },
+        {
+            "word": "trois",
+            "index": 302
+        },
+        {
+            "word": "images",
+            "index": 303
+        },
+        {
+            "word": "immédiat",
+            "index": 308
+        },
+        {
+            "word": "donne",
+            "index": 314
+        },
+        {
+            "word": "comme",
+            "index": 322
+        },
+        {
+            "word": "beaucoup",
             "index": 334
         },
         {
+            "word": "plus",
+            "index": 335
+        },
+        {
+            "word": "objectif",
+            "index": 338
+        },
+        {
+            "word": "recherches",
+            "index": 341
+        },
+        {
+            "word": "intégrer",
+            "index": 344
+        },
+        {
+            "word": "capacité",
+            "index": 346
+        },
+        {
+            "word": "spécifiquement",
+            "index": 352
+        },
+        {
+            "word": "modélise",
+            "index": 354
+        },
+        {
+            "word": "relations",
+            "index": 356
+        },
+        {
+            "word": "existant",
+            "index": 357
+        },
+        {
+            "word": "descriptions",
+            "index": 363
+        },
+        {
             "word": "que",
-            "index": 337
+            "index": 366
         },
         {
             "word": "ia",
-            "index": 339
+            "index": 368
         },
         {
             "word": "objets",
-            "index": 343
+            "index": 372
         },
         {
-            "word": "c'est",
-            "index": 349
-        },
-        {
-            "word": "l'apprentissage",
-            "index": 360
-        },
-        {
-            "word": "zéro",
-            "index": 362
-        },
-        {
-            "word": "j'applique",
-            "index": 369
-        },
-        {
-            "word": "et",
+            "word": "est",
             "index": 381
         },
         {
-            "word": "entre",
-            "index": 389
+            "word": "apprentissage",
+            "index": 394
         },
         {
-            "word": "gros",
-            "index": 398
+            "word": "zéro",
+            "index": 396
         },
         {
-            "word": "j'utilise",
-            "index": 399
+            "word": "applique",
+            "index": 405
         },
         {
-            "word": "d'abord",
-            "index": 414
-        },
-        {
-            "word": "entraîné",
-            "index": 415
-        },
-        {
-            "word": "modèle",
+            "word": "et",
             "index": 417
         },
         {
-            "word": "identifier",
-            "index": 419
+            "word": "entre",
+            "index": 425
         },
         {
-            "word": "demandé",
-            "index": 435
+            "word": "gros",
+            "index": 434
         },
         {
-            "word": "catégoriser",
-            "index": 437
+            "word": "utilise",
+            "index": 436
         },
         {
-            "word": "nouvelles",
-            "index": 444
+            "word": "abord",
+            "index": 453
         },
         {
-            "word": "vu",
-            "index": 450
+            "word": "entraîné",
+            "index": 454
         },
         {
-            "word": "seul",
-            "index": 452
-        },
-        {
-            "word": "lesquelles",
+            "word": "modèle",
             "index": 456
         },
         {
-            "word": "étaient",
-            "index": 461
+            "word": "identifier",
+            "index": 458
         },
         {
-            "word": "correctement",
-            "index": 470
+            "word": "demandé",
+            "index": 477
         },
         {
-            "word": "l'espèce",
-            "index": 471
+            "word": "catégoriser",
+            "index": 479
         },
         {
-            "word": "travaux",
-            "index": 482
+            "word": "nouvelles",
+            "index": 487
         },
         {
-            "word": "l'utilisation",
-            "index": 486
-        },
-        {
-            "word": "pas",
-            "index": 490
-        },
-        {
-            "word": "peu",
-            "index": 492
-        },
-        {
-            "word": "données",
+            "word": "vu",
             "index": 494
         },
         {
+            "word": "seul",
+            "index": 496
+        },
+        {
+            "word": "lesquelles",
+            "index": 500
+        },
+        {
+            "word": "étaient",
+            "index": 505
+        },
+        {
+            "word": "correctement",
+            "index": 514
+        },
+        {
+            "word": "espèce",
+            "index": 516
+        },
+        {
+            "word": "travaux",
+            "index": 528
+        },
+        {
+            "word": "utilisation",
+            "index": 533
+        },
+        {
+            "word": "pas",
+            "index": 538
+        },
+        {
+            "word": "peu",
+            "index": 540
+        },
+        {
+            "word": "données",
+            "index": 542
+        },
+        {
             "word": "protéines",
-            "index": 507
+            "index": 555
         }
     ],
     "low": [
         {
             "word": "pouvez",
-            "index": 7
+            "index": 8
         },
         {
             "word": "en",
-            "index": 11
+            "index": 12
         },
         {
             "word": "normalement",
-            "index": 23
+            "index": 24
         },
         {
             "word": "devrais",
-            "index": 25
-        },
-        {
-            "word": "continuer",
             "index": 26
         },
         {
-            "word": "milliers",
-            "index": 30
+            "word": "continuer",
+            "index": 27
         },
         {
-            "word": "n'ai",
-            "index": 35
+            "word": "milliers",
+            "index": 31
+        },
+        {
+            "word": "ai",
+            "index": 37
         },
         {
             "word": "secondes",
-            "index": 38
+            "index": 40
         },
         {
             "word": "donc",
-            "index": 39
-        },
-        {
-            "word": "vais",
             "index": 41
         },
         {
+            "word": "vais",
+            "index": 43
+        },
+        {
             "word": "abréger",
-            "index": 42
+            "index": 44
         },
         {
             "word": "etc",
@@ -468,507 +464,507 @@
         },
         {
             "word": "haut",
-            "index": 3
+            "index": 4
         },
         {
             "word": "il",
-            "index": 64
+            "index": 66
         },
         {
             "word": "parmi",
-            "index": 71
+            "index": 73
         },
         {
-            "word": "s'agit",
-            "index": 75
+            "word": "agit",
+            "index": 79
         },
         {
             "word": "ours",
-            "index": 77
+            "index": 82
         },
         {
             "word": "qui",
-            "index": 80
+            "index": 85
         },
         {
             "word": "la",
-            "index": 90
+            "index": 96
         },
         {
-            "word": "n'êtes",
-            "index": 100
+            "word": "êtes",
+            "index": 108
         },
         {
             "word": "complètement",
-            "index": 103
+            "index": 111
         },
         {
             "word": "dépassés",
-            "index": 104
-        },
-        {
-            "word": "l'intelligence",
-            "index": 107
-        },
-        {
-            "word": "venez",
             "index": 112
         },
         {
-            "word": "dans",
-            "index": 116
+            "word": "intelligence",
+            "index": 117
         },
         {
-            "word": "domaine",
-            "index": 118
-        },
-        {
-            "word": "informatique",
-            "index": 119
-        },
-        {
-            "word": "machine",
-            "index": 121
-        },
-        {
-            "word": "learning",
+            "word": "venez",
             "index": 122
         },
         {
-            "word": "apprentissage",
-            "index": 124
-        },
-        {
-            "word": "automatique",
-            "index": 125
-        },
-        {
-            "word": "avez",
+            "word": "dans",
             "index": 127
         },
         {
-            "word": "effectuer",
+            "word": "domaine",
+            "index": 129
+        },
+        {
+            "word": "informatique",
             "index": 130
         },
         {
+            "word": "machine",
+            "index": 132
+        },
+        {
+            "word": "learning",
+            "index": 133
+        },
+        {
+            "word": "apprentissage",
+            "index": 135
+        },
+        {
+            "word": "automatique",
+            "index": 136
+        },
+        {
+            "word": "avez",
+            "index": 138
+        },
+        {
+            "word": "effectuer",
+            "index": 141
+        },
+        {
             "word": "travail",
-            "index": 143
+            "index": 156
         },
         {
             "word": "même",
-            "index": 149
-        },
-        {
-            "word": "applications",
-            "index": 155
-        },
-        {
-            "word": "l'apprentissage",
-            "index": 157
-        },
-        {
-            "word": "innombrables",
-            "index": 160
-        },
-        {
-            "word": "d'images",
             "index": 162
         },
         {
-            "word": "conception",
-            "index": 164
+            "word": "applications",
+            "index": 168
         },
         {
-            "word": "véhicules",
-            "index": 166
+            "word": "apprentissage",
+            "index": 171
         },
         {
-            "word": "autonomes",
-            "index": 167
-        },
-        {
-            "word": "aussi",
-            "index": 169
-        },
-        {
-            "word": "reconnaissance",
-            "index": 170
-        },
-        {
-            "word": "traduction",
-            "index": 172
-        },
-        {
-            "word": "pourrait",
-            "index": 175
-        },
-        {
-            "word": "passer",
-            "index": 176
-        },
-        {
-            "word": "soirée",
-            "index": 178
-        },
-        {
-            "word": "d'approche",
-            "index": 185
-        },
-        {
-            "word": "apprendre",
-            "index": 193
-        },
-        {
-            "word": "efficacement",
-            "index": 194
-        },
-        {
-            "word": "ordinateur",
-            "index": 196
-        },
-        {
-            "word": "besoin",
-            "index": 198
-        },
-        {
-            "word": "d'exemples",
-            "index": 201
-        },
-        {
-            "word": "sont",
-            "index": 203
-        },
-        {
-            "word": "collecter",
-            "index": 209
-        },
-        {
-            "word": "mieux",
-            "index": 213
-        },
-        {
-            "word": "priori",
-            "index": 215
-        },
-        {
-            "word": "n'aviez",
-            "index": 220
-        },
-        {
-            "word": "jamais",
-            "index": 221
-        },
-        {
-            "word": "vu",
-            "index": 222
-        },
-        {
-            "word": "ni",
-            "index": 223
-        },
-        {
-            "word": "pourriez",
-            "index": 228
-        },
-        {
-            "word": "de",
-            "index": 233
-        },
-        {
-            "word": "quelques",
-            "index": 235
-        },
-        {
-            "word": "exemples",
-            "index": 236
-        },
-        {
-            "word": "encore",
-            "index": 240
-        },
-        {
-            "word": "peut",
-            "index": 242
-        },
-        {
-            "word": "qu'avec",
-            "index": 244
-        },
-        {
-            "word": "des",
-            "index": 245
-        },
-        {
-            "word": "choisis",
-            "index": 248
-        },
-        {
-            "word": "quelque",
-            "index": 264
-        },
-        {
-            "word": "l'on",
-            "index": 267
-        },
-        {
-            "word": "le",
-            "index": 276
-        },
-        {
-            "word": "les",
-            "index": 279
-        },
-        {
-            "word": "du",
-            "index": 282
-        },
-        {
-            "word": "bas",
-            "index": 283
-        },
-        {
-            "word": "l'immédiat",
-            "index": 285
-        },
-        {
-            "word": "vous",
-            "index": 290
-        },
-        {
-            "word": "l'information",
-            "index": 292
-        },
-        {
-            "word": "c'est",
-            "index": 295
-        },
-        {
-            "word": "tigre",
-            "index": 298
-        },
-        {
-            "word": "facile",
-            "index": 309
-        },
-        {
-            "word": "mes",
-            "index": 312
-        },
-        {
-            "word": "recherches",
-            "index": 313
-        },
-        {
-            "word": "est",
-            "index": 314
-        },
-        {
-            "word": "d'intégrer",
-            "index": 315
-        },
-        {
-            "word": "capacité",
-            "index": 317
-        },
-        {
-            "word": "intelligence",
-            "index": 320
-        },
-        {
-            "word": "je",
-            "index": 324
-        },
-        {
-            "word": "relations",
-            "index": 327
-        },
-        {
-            "word": "et",
-            "index": 332
-        },
-        {
-            "word": "cette",
-            "index": 338
-        },
-        {
-            "word": "reconnaître",
-            "index": 341
-        },
-        {
-            "word": "objets",
-            "index": 343
-        },
-        {
-            "word": "qu'on",
-            "index": 351
-        },
-        {
-            "word": "appelle",
-            "index": 352
-        },
-        {
-            "word": "exemple",
-            "index": 363
+            "word": "innombrables",
+            "index": 174
         },
         {
             "word": "images",
-            "index": 371
+            "index": 177
+        },
+        {
+            "word": "conception",
+            "index": 179
+        },
+        {
+            "word": "véhicules",
+            "index": 181
+        },
+        {
+            "word": "autonomes",
+            "index": 182
+        },
+        {
+            "word": "aussi",
+            "index": 184
+        },
+        {
+            "word": "reconnaissance",
+            "index": 185
+        },
+        {
+            "word": "traduction",
+            "index": 187
+        },
+        {
+            "word": "pourrait",
+            "index": 190
+        },
+        {
+            "word": "passer",
+            "index": 191
+        },
+        {
+            "word": "soirée",
+            "index": 193
+        },
+        {
+            "word": "approche",
+            "index": 201
+        },
+        {
+            "word": "apprendre",
+            "index": 210
+        },
+        {
+            "word": "efficacement",
+            "index": 211
+        },
+        {
+            "word": "ordinateur",
+            "index": 213
+        },
+        {
+            "word": "besoin",
+            "index": 215
+        },
+        {
+            "word": "exemples",
+            "index": 219
+        },
+        {
+            "word": "sont",
+            "index": 221
+        },
+        {
+            "word": "collecter",
+            "index": 227
+        },
+        {
+            "word": "mieux",
+            "index": 231
+        },
+        {
+            "word": "priori",
+            "index": 233
+        },
+        {
+            "word": "aviez",
+            "index": 239
+        },
+        {
+            "word": "jamais",
+            "index": 240
+        },
+        {
+            "word": "vu",
+            "index": 241
+        },
+        {
+            "word": "ni",
+            "index": 242
+        },
+        {
+            "word": "pourriez",
+            "index": 247
+        },
+        {
+            "word": "de",
+            "index": 252
+        },
+        {
+            "word": "quelques",
+            "index": 254
+        },
+        {
+            "word": "encore",
+            "index": 259
+        },
+        {
+            "word": "peut",
+            "index": 261
+        },
+        {
+            "word": "avec",
+            "index": 264
+        },
+        {
+            "word": "des",
+            "index": 265
+        },
+        {
+            "word": "choisis",
+            "index": 268
+        },
+        {
+            "word": "quelque",
+            "index": 284
+        },
+        {
+            "word": "on",
+            "index": 288
+        },
+        {
+            "word": "le",
+            "index": 298
+        },
+        {
+            "word": "les",
+            "index": 301
+        },
+        {
+            "word": "du",
+            "index": 304
+        },
+        {
+            "word": "bas",
+            "index": 305
+        },
+        {
+            "word": "immédiat",
+            "index": 308
+        },
+        {
+            "word": "vous",
+            "index": 313
+        },
+        {
+            "word": "information",
+            "index": 316
+        },
+        {
+            "word": "est",
+            "index": 321
+        },
+        {
+            "word": "tigre",
+            "index": 324
+        },
+        {
+            "word": "facile",
+            "index": 336
+        },
+        {
+            "word": "mes",
+            "index": 340
+        },
+        {
+            "word": "recherches",
+            "index": 341
+        },
+        {
+            "word": "intégrer",
+            "index": 344
+        },
+        {
+            "word": "capacité",
+            "index": 346
+        },
+        {
+            "word": "je",
+            "index": 353
+        },
+        {
+            "word": "relations",
+            "index": 356
+        },
+        {
+            "word": "et",
+            "index": 361
+        },
+        {
+            "word": "cette",
+            "index": 367
+        },
+        {
+            "word": "reconnaître",
+            "index": 370
+        },
+        {
+            "word": "objets",
+            "index": 372
+        },
+        {
+            "word": "on",
+            "index": 384
+        },
+        {
+            "word": "appelle",
+            "index": 385
+        },
+        {
+            "word": "apprentissage",
+            "index": 394
+        },
+        {
+            "word": "exemple",
+            "index": 397
+        },
+        {
+            "word": "est",
+            "index": 402
         },
         {
             "word": "non",
-            "index": 379
+            "index": 415
         },
         {
             "word": "compatibilité",
-            "index": 387
+            "index": 423
         },
         {
             "word": "pas",
-            "index": 400
-        },
-        {
-            "word": "mal",
-            "index": 401
-        },
-        {
-            "word": "savoir",
-            "index": 412
-        },
-        {
-            "word": "j'ai",
-            "index": 413
-        },
-        {
-            "word": "mon",
-            "index": 416
-        },
-        {
-            "word": "modèle",
-            "index": 417
-        },
-        {
-            "word": "identifier",
-            "index": 419
-        },
-        {
-            "word": "l'espèce",
-            "index": 420
-        },
-        {
-            "word": "oiseau",
-            "index": 422
-        },
-        {
-            "word": "demandé",
-            "index": 435
-        },
-        {
-            "word": "catégoriser",
             "index": 437
         },
         {
-            "word": "photos",
-            "index": 439
+            "word": "mal",
+            "index": 438
         },
         {
-            "word": "d'oiseaux",
-            "index": 440
+            "word": "savoir",
+            "index": 449
         },
         {
-            "word": "espèces",
-            "index": 445
+            "word": "ai",
+            "index": 451
         },
         {
-            "word": "n'a",
-            "index": 448
+            "word": "mon",
+            "index": 455
         },
         {
-            "word": "lesquelles",
+            "word": "modèle",
             "index": 456
         },
         {
-            "word": "étaient",
-            "index": 461
+            "word": "identifier",
+            "index": 458
         },
         {
-            "word": "textuelles",
-            "index": 464
+            "word": "espèce",
+            "index": 460
         },
         {
-            "word": "correctement",
-            "index": 470
+            "word": "oiseau",
+            "index": 463
         },
         {
-            "word": "majorité",
-            "index": 474
+            "word": "images",
+            "index": 469
         },
         {
-            "word": "ces",
+            "word": "demandé",
+            "index": 477
+        },
+        {
+            "word": "catégoriser",
+            "index": 479
+        },
+        {
+            "word": "photos",
             "index": 481
         },
         {
-            "word": "travaux",
-            "index": 482
-        },
-        {
-            "word": "contribueront",
+            "word": "oiseaux",
             "index": 483
         },
         {
-            "word": "l'utilisation",
-            "index": 486
+            "word": "espèces",
+            "index": 488
+        },
+        {
+            "word": "a",
+            "index": 492
+        },
+        {
+            "word": "lesquelles",
+            "index": 500
+        },
+        {
+            "word": "étaient",
+            "index": 505
+        },
+        {
+            "word": "textuelles",
+            "index": 508
+        },
+        {
+            "word": "correctement",
+            "index": 514
+        },
+        {
+            "word": "espèce",
+            "index": 516
+        },
+        {
+            "word": "majorité",
+            "index": 519
+        },
+        {
+            "word": "ces",
+            "index": 527
+        },
+        {
+            "word": "travaux",
+            "index": 528
+        },
+        {
+            "word": "contribueront",
+            "index": 529
+        },
+        {
+            "word": "utilisation",
+            "index": 533
         },
         {
             "word": "ou",
-            "index": 491
+            "index": 539
         },
         {
             "word": "données",
-            "index": 494
+            "index": 542
         },
         {
             "word": "disponibles",
-            "index": 496
+            "index": 544
         },
         {
             "word": "maladies",
-            "index": 502
+            "index": 550
         },
         {
             "word": "protéines",
-            "index": 507
+            "index": 555
         }
     ],
     "highrise": [
         {
             "word": "faire",
-            "index": 114
+            "index": 124
         },
         {
             "word": "appelle",
-            "index": 352
+            "index": 126
         },
         {
             "word": "du",
-            "index": 353
+            "index": 131
         },
         {
             "word": "savoir",
-            "index": 412
+            "index": 449
         },
         {
             "word": "oiseau",
-            "index": 422
+            "index": 463
         },
         {
-            "word": "d'oiseaux",
-            "index": 440
+            "word": "oiseaux",
+            "index": 483
         }
     ],
     "highfall": [
         {
             "word": "mais",
-            "index": 33
+            "index": 34
         }
     ]
 }

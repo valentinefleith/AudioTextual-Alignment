@@ -30,12 +30,12 @@ def tokenize_text(file_path):
 
     tokens = [token.text for token in doc if token.text not in ",?.- "]
 
-    i = 0
-    while i < len(tokens):
-        if tokens[i].endswith("'"):
-            tokens[i] += tokens[i + 1]
-            tokens.pop(i + 1)
-        i += 1
+    # i = 0
+    # while i < len(tokens):
+    #     if tokens[i].endswith("'"):
+    #         tokens[i] += tokens[i + 1]
+    #         tokens.pop(i + 1)
+    #     i += 1
 
     return tokens
 

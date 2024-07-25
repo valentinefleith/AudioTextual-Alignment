@@ -22,427 +22,435 @@
         },
         {
             "word": "pas",
-            "index": 25
+            "index": 27
         },
         {
             "word": "très",
-            "index": 26
+            "index": 28
         },
         {
             "word": "pourquoi",
-            "index": 40
+            "index": 43
         },
         {
             "word": "aller",
-            "index": 41
+            "index": 44
         },
         {
             "word": "chasse",
-            "index": 55
-        },
-        {
-            "word": "bon",
             "index": 58
         },
         {
+            "word": "bon",
+            "index": 61
+        },
+        {
             "word": "dis",
-            "index": 62
+            "index": 65
         },
         {
             "word": "ni",
-            "index": 69
+            "index": 72
         },
         {
             "word": "des",
-            "index": 70
+            "index": 73
         },
         {
             "word": "cèpes",
-            "index": 71
-        },
-        {
-            "word": "bolets",
             "index": 74
         },
         {
+            "word": "bolets",
+            "index": 77
+        },
+        {
             "word": "mais",
-            "index": 83
+            "index": 86
         },
         {
             "word": "microscopiques",
-            "index": 87
+            "index": 90
         },
         {
             "word": "là",
-            "index": 93
+            "index": 97
         },
         {
             "word": "allez",
-            "index": 99
+            "index": 103
         },
         {
             "word": "champignons",
-            "index": 104
+            "index": 108
         },
         {
             "word": "nous",
-            "index": 116
+            "index": 120
         },
         {
             "word": "figurez",
-            "index": 121
-        },
-        {
-            "word": "nombreuses",
             "index": 125
         },
         {
+            "word": "nombreuses",
+            "index": 129
+        },
+        {
             "word": "études",
-            "index": 126
+            "index": 130
         },
         {
             "word": "présence",
-            "index": 131
+            "index": 135
         },
         {
             "word": "profondeurs",
-            "index": 136
-        },
-        {
-            "word": "océans",
-            "index": 139
-        },
-        {
-            "word": "que",
             "index": 140
         },
         {
-            "word": "ce",
-            "index": 141
-        },
-        {
-            "word": "dans",
+            "word": "océans",
             "index": 143
         },
         {
-            "word": "puisqu'il",
-            "index": 154
+            "word": "que",
+            "index": 144
         },
         {
-            "word": "dessus",
-            "index": 161
+            "word": "ce",
+            "index": 145
+        },
+        {
+            "word": "dans",
+            "index": 147
         },
         {
             "word": "il",
+            "index": 160
+        },
+        {
+            "word": "dessus",
             "index": 167
         },
         {
             "word": "but",
-            "index": 174
+            "index": 181
         },
         {
             "word": "thèse",
-            "index": 177
+            "index": 184
         },
         {
             "word": "question",
-            "index": 183
+            "index": 190
         },
         {
             "word": "diversité",
-            "index": 187
+            "index": 195
         },
         {
             "word": "développent",
-            "index": 192
+            "index": 200
         },
         {
             "word": "cela",
-            "index": 196
-        },
-        {
-            "word": "collègues",
-            "index": 198
-        },
-        {
-            "word": "prélever",
-            "index": 201
-        },
-        {
-            "word": "énorme",
-            "index": 203
-        },
-        {
-            "word": "carotte",
             "index": 204
         },
         {
-            "word": "océanique",
-            "index": 207
+            "word": "collègues",
+            "index": 206
         },
         {
-            "word": "longue",
-            "index": 208
+            "word": "prélever",
+            "index": 209
         },
         {
-            "word": "ils",
+            "word": "énorme",
+            "index": 211
+        },
+        {
+            "word": "carotte",
             "index": 212
         },
         {
-            "word": "découpée",
-            "index": 214
+            "word": "océanique",
+            "index": 215
         },
         {
-            "word": "rondelles",
+            "word": "longue",
             "index": 216
         },
         {
-            "word": "quand",
-            "index": 224
+            "word": "ils",
+            "index": 220
         },
         {
-            "word": "j'ai",
+            "word": "découpée",
+            "index": 223
+        },
+        {
+            "word": "rondelles",
             "index": 225
         },
         {
+            "word": "quand",
+            "index": 234
+        },
+        {
+            "word": "ai",
+            "index": 236
+        },
+        {
             "word": "je",
-            "index": 229
+            "index": 240
         },
         {
             "word": "pousser",
-            "index": 243
-        },
-        {
-            "word": "potentiellement",
-            "index": 247
-        },
-        {
-            "word": "même",
-            "index": 252
-        },
-        {
-            "word": "existent",
             "index": 254
         },
         {
-            "word": "littéralement",
-            "index": 257
+            "word": "potentiellement",
+            "index": 258
         },
         {
-            "word": "pression",
-            "index": 259
-        },
-        {
-            "word": "sans",
-            "index": 260
-        },
-        {
-            "word": "trop",
+            "word": "même",
             "index": 264
         },
         {
-            "word": "difficile",
-            "index": 271
+            "word": "existent",
+            "index": 267
         },
         {
-            "word": "commencé",
+            "word": "littéralement",
+            "index": 270
+        },
+        {
+            "word": "pression",
+            "index": 272
+        },
+        {
+            "word": "sans",
+            "index": 273
+        },
+        {
+            "word": "trop",
+            "index": 277
+        },
+        {
+            "word": "difficile",
             "index": 284
         },
         {
-            "word": "faire",
-            "index": 295
+            "word": "ai",
+            "index": 293
         },
         {
-            "word": "recherches",
-            "index": 297
-        },
-        {
-            "word": "conditions",
+            "word": "commencé",
             "index": 300
         },
         {
+            "word": "faire",
+            "index": 313
+        },
+        {
+            "word": "recherches",
+            "index": 315
+        },
+        {
+            "word": "conditions",
+            "index": 318
+        },
+        {
             "word": "ou",
-            "index": 309
+            "index": 327
         },
         {
             "word": "et",
-            "index": 317
+            "index": 335
         },
         {
             "word": "non",
-            "index": 323
+            "index": 342
         },
         {
             "word": "de",
-            "index": 331
+            "index": 350
+        },
+        {
+            "word": "ai",
+            "index": 354
         },
         {
             "word": "différentes",
-            "index": 338
+            "index": 358
         },
         {
             "word": "milieux",
-            "index": 340
-        },
-        {
-            "word": "mimer",
-            "index": 344
-        },
-        {
-            "word": "au",
-            "index": 345
-        },
-        {
-            "word": "mieux",
-            "index": 346
-        },
-        {
-            "word": "exemple",
-            "index": 351
-        },
-        {
-            "word": "ajouté",
-            "index": 353
-        },
-        {
-            "word": "sucres",
             "index": 360
         },
         {
-            "word": "avoir",
-            "index": 362
-        },
-        {
-            "word": "soupes",
+            "word": "mimer",
             "index": 364
         },
         {
-            "word": "final",
-            "index": 368
+            "word": "au",
+            "index": 365
         },
         {
-            "word": "culture",
-            "index": 376
+            "word": "mieux",
+            "index": 366
         },
         {
-            "word": "totalement",
-            "index": 377
+            "word": "exemple",
+            "index": 371
         },
         {
-            "word": "suis",
+            "word": "ajouté",
+            "index": 374
+        },
+        {
+            "word": "sucres",
             "index": 381
         },
         {
-            "word": "seul",
+            "word": "avoir",
             "index": 383
         },
         {
+            "word": "soupes",
+            "index": 385
+        },
+        {
+            "word": "final",
+            "index": 389
+        },
+        {
+            "word": "culture",
+            "index": 398
+        },
+        {
+            "word": "totalement",
+            "index": 399
+        },
+        {
+            "word": "suis",
+            "index": 403
+        },
+        {
+            "word": "seul",
+            "index": 405
+        },
+        {
             "word": "à",
-            "index": 384
+            "index": 406
+        },
+        {
+            "word": "ai",
+            "index": 412
         },
         {
             "word": "attendu",
-            "index": 400
+            "index": 424
         },
         {
             "word": "magie",
-            "index": 404
+            "index": 429
         },
         {
             "word": "champignon",
-            "index": 413
-        },
-        {
-            "word": "compte",
-            "index": 423
-        },
-        {
-            "word": "croûte",
-            "index": 435
-        },
-        {
-            "word": "aujourd'hui",
             "index": 438
         },
         {
+            "word": "compte",
+            "index": 449
+        },
+        {
+            "word": "croûte",
+            "index": 462
+        },
+        {
+            "word": "hui",
+            "index": -1
+        },
+        {
             "word": "savoir",
-            "index": 450
+            "index": 478
         },
         {
             "word": "découvert",
-            "index": 458
-        },
-        {
-            "word": "être",
-            "index": 465
-        },
-        {
-            "word": "maintenant",
-            "index": 469
-        },
-        {
-            "word": "mettant",
-            "index": 482
-        },
-        {
-            "word": "température",
             "index": 487
         },
         {
+            "word": "être",
+            "index": 494
+        },
+        {
+            "word": "maintenant",
+            "index": 498
+        },
+        {
+            "word": "mettant",
+            "index": 513
+        },
+        {
+            "word": "température",
+            "index": 518
+        },
+        {
             "word": "salinité",
-            "index": 489
+            "index": 520
         },
         {
             "word": "regarde",
-            "index": 495
+            "index": 526
         },
         {
             "word": "idée",
-            "index": 507
+            "index": 539
         },
         {
             "word": "importance",
-            "index": 510
+            "index": 542
         },
         {
             "word": "conclure",
-            "index": 517
+            "index": 549
         },
         {
             "word": "permet",
-            "index": 521
+            "index": 553
         },
         {
             "word": "voir",
-            "index": 523
+            "index": 555
         },
         {
             "word": "extrêmes",
-            "index": 529
+            "index": 561
         },
         {
             "word": "moi",
-            "index": 538
+            "index": 570
         },
         {
             "word": "résultats",
-            "index": 540
+            "index": 572
         },
         {
-            "word": "l'autre",
-            "index": 554
+            "word": "autre",
+            "index": 588
         },
         {
             "word": "peu",
-            "index": 576
+            "index": 614
         },
         {
             "word": "trouver",
-            "index": 580
+            "index": 618
         },
         {
             "word": "décrocher",
-            "index": 585
+            "index": 623
         }
     ],
     "low": [
@@ -476,623 +484,631 @@
         },
         {
             "word": "encore",
-            "index": 13
-        },
-        {
-            "word": "été",
             "index": 14
         },
         {
-            "word": "démontrée",
+            "word": "été",
             "index": 15
         },
         {
+            "word": "démontrée",
+            "index": 16
+        },
+        {
             "word": "océanique",
-            "index": 20
+            "index": 22
         },
         {
             "word": "suis",
-            "index": 24
+            "index": 26
         },
         {
             "word": "des",
-            "index": 28
-        },
-        {
-            "word": "donc",
             "index": 30
         },
         {
-            "word": "j'ai",
-            "index": 31
-        },
-        {
-            "word": "préféré",
+            "word": "donc",
             "index": 32
         },
         {
+            "word": "ai",
+            "index": 34
+        },
+        {
+            "word": "préféré",
+            "index": 35
+        },
+        {
             "word": "partir",
-            "index": 33
+            "index": 36
         },
         {
             "word": "mais",
-            "index": 39
-        },
-        {
-            "word": "aller",
-            "index": 41
-        },
-        {
-            "word": "là",
             "index": 42
         },
         {
-            "word": "et",
+            "word": "aller",
             "index": 44
         },
         {
+            "word": "là",
+            "index": 45
+        },
+        {
+            "word": "et",
+            "index": 47
+        },
+        {
             "word": "champignons",
-            "index": 57
+            "index": 60
         },
         {
             "word": "suite",
-            "index": 65
-        },
-        {
-            "word": "ce",
-            "index": 66
-        },
-        {
-            "word": "ne",
-            "index": 67
-        },
-        {
-            "word": "sont",
             "index": 68
         },
         {
+            "word": "ce",
+            "index": 69
+        },
+        {
+            "word": "ne",
+            "index": 70
+        },
+        {
+            "word": "sont",
+            "index": 71
+        },
+        {
             "word": "une",
-            "index": 78
+            "index": 81
         },
         {
             "word": "omelette",
-            "index": 80
+            "index": 83
         },
         {
             "word": "midi",
-            "index": 82
+            "index": 85
         },
         {
             "word": "microscopiques",
-            "index": 87
+            "index": 90
         },
         {
             "word": "invisibles",
-            "index": 88
+            "index": 91
         },
         {
             "word": "je",
-            "index": 94
-        },
-        {
-            "word": "venir",
-            "index": 97
-        },
-        {
-            "word": "vous",
             "index": 98
         },
         {
-            "word": "dire",
+            "word": "venir",
             "index": 101
         },
         {
+            "word": "vous",
+            "index": 102
+        },
+        {
+            "word": "dire",
+            "index": 105
+        },
+        {
             "word": "moques",
-            "index": 114
+            "index": 118
         },
         {
             "word": "figurez",
-            "index": 121
-        },
-        {
-            "word": "que",
-            "index": 123
-        },
-        {
-            "word": "de",
-            "index": 124
-        },
-        {
-            "word": "nombreuses",
             "index": 125
         },
         {
-            "word": "ont",
+            "word": "que",
             "index": 127
         },
         {
-            "word": "déjà",
+            "word": "de",
             "index": 128
         },
         {
+            "word": "nombreuses",
+            "index": 129
+        },
+        {
+            "word": "ont",
+            "index": 131
+        },
+        {
+            "word": "déjà",
+            "index": 132
+        },
+        {
             "word": "la",
-            "index": 130
+            "index": 134
         },
         {
             "word": "les",
-            "index": 135
-        },
-        {
-            "word": "profondeurs",
-            "index": 136
-        },
-        {
-            "word": "nos",
-            "index": 138
-        },
-        {
-            "word": "océans",
             "index": 139
         },
         {
-            "word": "animaux",
-            "index": 147
+            "word": "profondeurs",
+            "index": 140
         },
         {
-            "word": "profonds",
+            "word": "nos",
+            "index": 142
+        },
+        {
+            "word": "océans",
+            "index": 143
+        },
+        {
+            "word": "animaux",
             "index": 152
         },
         {
+            "word": "profonds",
+            "index": 157
+        },
+        {
             "word": "vie",
-            "index": 159
+            "index": 165
         },
         {
             "word": "au",
-            "index": 160
-        },
-        {
-            "word": "pourquoi",
             "index": 166
         },
         {
-            "word": "n'y",
-            "index": 168
+            "word": "pourquoi",
+            "index": 172
+        },
+        {
+            "word": "y",
+            "index": 175
         },
         {
             "word": "en",
-            "index": 169
-        },
-        {
-            "word": "aurait",
-            "index": 170
-        },
-        {
-            "word": "le",
-            "index": 173
-        },
-        {
-            "word": "ma",
             "index": 176
         },
         {
-            "word": "est",
-            "index": 178
+            "word": "aurait",
+            "index": 177
         },
         {
-            "word": "répondre",
+            "word": "le",
             "index": 180
         },
         {
-            "word": "à",
-            "index": 181
-        },
-        {
-            "word": "cette",
-            "index": 182
-        },
-        {
-            "word": "question",
+            "word": "ma",
             "index": 183
         },
         {
-            "word": "diversité",
+            "word": "est",
+            "index": 185
+        },
+        {
+            "word": "répondre",
             "index": 187
         },
         {
-            "word": "développent",
-            "index": 192
+            "word": "à",
+            "index": 188
         },
         {
-            "word": "pour",
+            "word": "cette",
+            "index": 189
+        },
+        {
+            "word": "question",
+            "index": 190
+        },
+        {
+            "word": "diversité",
             "index": 195
         },
         {
-            "word": "mes",
-            "index": 197
-        },
-        {
-            "word": "allés",
+            "word": "développent",
             "index": 200
         },
         {
-            "word": "l'ont",
-            "index": 213
+            "word": "pour",
+            "index": 203
         },
         {
-            "word": "découpée",
-            "index": 214
+            "word": "mes",
+            "index": 205
         },
         {
-            "word": "rondelles",
-            "index": 216
+            "word": "allés",
+            "index": 208
         },
         {
-            "word": "me",
-            "index": 220
-        },
-        {
-            "word": "d'échantillon",
+            "word": "ont",
             "index": 222
         },
         {
-            "word": "commencé",
-            "index": 226
+            "word": "découpée",
+            "index": 223
         },
         {
-            "word": "dit",
+            "word": "rondelles",
+            "index": 225
+        },
+        {
+            "word": "me",
+            "index": 229
+        },
+        {
+            "word": "échantillon",
             "index": 232
         },
         {
-            "word": "avoir",
-            "index": 236
-        },
-        {
-            "word": "accepté",
+            "word": "commencé",
             "index": 237
         },
         {
-            "word": "dois",
-            "index": 241
+            "word": "dit",
+            "index": 243
         },
         {
-            "word": "qui",
-            "index": 246
-        },
-        {
-            "word": "potentiellement",
+            "word": "avoir",
             "index": 247
         },
         {
-            "word": "n'existent",
+            "word": "accepté",
             "index": 248
         },
         {
-            "word": "s'ils",
-            "index": 253
+            "word": "dois",
+            "index": 252
         },
         {
-            "word": "littéralement",
+            "word": "qui",
             "index": 257
         },
         {
-            "word": "sous",
+            "word": "potentiellement",
             "index": 258
         },
         {
-            "word": "lumière",
-            "index": 261
-        },
-        {
-            "word": "sans",
-            "index": 263
-        },
-        {
-            "word": "manger",
-            "index": 267
-        },
-        {
-            "word": "reproduire",
-            "index": 273
-        },
-        {
-            "word": "laboratoire",
-            "index": 275
-        },
-        {
-            "word": "paniquer",
-            "index": 286
-        },
-        {
-            "word": "ensuite",
-            "index": 287
-        },
-        {
-            "word": "recherches",
-            "index": 297
-        },
-        {
-            "word": "conditions",
-            "index": 300
-        },
-        {
-            "word": "cet",
-            "index": 302
-        },
-        {
-            "word": "disponibilité",
-            "index": 306
-        },
-        {
-            "word": "nutriments",
-            "index": 308
-        },
-        {
-            "word": "température",
-            "index": 311
-        },
-        {
-            "word": "larmes",
-            "index": 315
-        },
-        {
-            "word": "séchées",
-            "index": 316
-        },
-        {
-            "word": "terminées",
-            "index": 320
-        },
-        {
-            "word": "cuisine",
-            "index": 332
-        },
-        {
-            "word": "élaborer",
-            "index": 337
-        },
-        {
-            "word": "soupes",
-            "index": 339
-        },
-        {
-            "word": "culture",
-            "index": 342
-        },
-        {
-            "word": "naturelles",
-            "index": 349
-        },
-        {
-            "word": "par",
-            "index": 350
-        },
-        {
-            "word": "exemple",
-            "index": 351
-        },
-        {
-            "word": "ajouté",
-            "index": 353
-        },
-        {
-            "word": "croûte",
-            "index": 356
-        },
-        {
-            "word": "différents",
-            "index": 359
-        },
-        {
-            "word": "milieux",
-            "index": 374
-        },
-        {
-            "word": "totalement",
-            "index": 377
-        },
-        {
-            "word": "innovants",
-            "index": 378
-        },
-        {
-            "word": "connaître",
-            "index": 385
-        },
-        {
-            "word": "recettes",
-            "index": 387
-        },
-        {
-            "word": "échantillons",
-            "index": 392
-        },
-        {
-            "word": "attendu",
-            "index": 400
-        },
-        {
-            "word": "du",
-            "index": 410
-        },
-        {
-            "word": "génie",
-            "index": 411
-        },
-        {
-            "word": "champignon",
-            "index": 413
-        },
-        {
-            "word": "développé",
-            "index": 415
-        },
-        {
-            "word": "rendu",
-            "index": 422
-        },
-        {
-            "word": "j'étais",
-            "index": 425
-        },
-        {
-            "word": "isolé",
-            "index": 430
-        },
-        {
-            "word": "j'en",
-            "index": 439
-        },
-        {
-            "word": "ai",
-            "index": 440
-        },
-        {
-            "word": "caractérisés",
-            "index": 448
-        },
-        {
-            "word": "espèces",
-            "index": 453
+            "word": "existent",
+            "index": 260
         },
         {
             "word": "ils",
-            "index": 454
+            "index": 266
         },
         {
-            "word": "appartenaient",
-            "index": 455
+            "word": "littéralement",
+            "index": 270
         },
         {
-            "word": "pouvaient",
-            "index": 464
+            "word": "sous",
+            "index": 271
         },
         {
-            "word": "nouvelles",
+            "word": "lumière",
+            "index": 274
+        },
+        {
+            "word": "sans",
+            "index": 276
+        },
+        {
+            "word": "manger",
+            "index": 280
+        },
+        {
+            "word": "reproduire",
+            "index": 286
+        },
+        {
+            "word": "laboratoire",
+            "index": 288
+        },
+        {
+            "word": "paniquer",
+            "index": 302
+        },
+        {
+            "word": "ensuite",
+            "index": 303
+        },
+        {
+            "word": "ai",
+            "index": 305
+        },
+        {
+            "word": "ai",
+            "index": 310
+        },
+        {
+            "word": "recherches",
+            "index": 315
+        },
+        {
+            "word": "conditions",
+            "index": 318
+        },
+        {
+            "word": "cet",
+            "index": 320
+        },
+        {
+            "word": "disponibilité",
+            "index": 324
+        },
+        {
+            "word": "nutriments",
+            "index": 326
+        },
+        {
+            "word": "température",
+            "index": 329
+        },
+        {
+            "word": "larmes",
+            "index": 333
+        },
+        {
+            "word": "séchées",
+            "index": 334
+        },
+        {
+            "word": "terminées",
+            "index": 338
+        },
+        {
+            "word": "cuisine",
+            "index": 351
+        },
+        {
+            "word": "élaborer",
+            "index": 357
+        },
+        {
+            "word": "soupes",
+            "index": 359
+        },
+        {
+            "word": "culture",
+            "index": 362
+        },
+        {
+            "word": "naturelles",
+            "index": 369
+        },
+        {
+            "word": "par",
+            "index": 370
+        },
+        {
+            "word": "exemple",
+            "index": 371
+        },
+        {
+            "word": "ajouté",
+            "index": 374
+        },
+        {
+            "word": "croûte",
+            "index": 377
+        },
+        {
+            "word": "différents",
+            "index": 380
+        },
+        {
+            "word": "milieux",
+            "index": 396
+        },
+        {
+            "word": "totalement",
+            "index": 399
+        },
+        {
+            "word": "innovants",
+            "index": 400
+        },
+        {
+            "word": "connaître",
+            "index": 407
+        },
+        {
+            "word": "recettes",
+            "index": 409
+        },
+        {
+            "word": "échantillons",
+            "index": 415
+        },
+        {
+            "word": "attendu",
+            "index": 424
+        },
+        {
+            "word": "du",
+            "index": 435
+        },
+        {
+            "word": "génie",
+            "index": 436
+        },
+        {
+            "word": "champignon",
+            "index": 438
+        },
+        {
+            "word": "développé",
+            "index": 441
+        },
+        {
+            "word": "rendu",
+            "index": 448
+        },
+        {
+            "word": "étais",
+            "index": 452
+        },
+        {
+            "word": "isolé",
+            "index": 457
+        },
+        {
+            "word": "en",
             "index": 467
         },
         {
+            "word": "caractérisés",
+            "index": 476
+        },
+        {
+            "word": "espèces",
+            "index": 481
+        },
+        {
+            "word": "appartenaient",
+            "index": 483
+        },
+        {
+            "word": "ai",
+            "index": 486
+        },
+        {
+            "word": "pouvaient",
+            "index": 493
+        },
+        {
+            "word": "nouvelles",
+            "index": 496
+        },
+        {
             "word": "idée",
-            "index": 473
-        },
-        {
-            "word": "leur",
-            "index": 475
-        },
-        {
-            "word": "j'étudie",
-            "index": 477
-        },
-        {
-            "word": "leurs",
-            "index": 478
-        },
-        {
-            "word": "différentes",
-            "index": 484
-        },
-        {
-            "word": "salinité",
-            "index": 489
-        },
-        {
-            "word": "préfèrent",
-            "index": 499
-        },
-        {
-            "word": "comme",
             "index": 503
         },
         {
-            "word": "j'aurai",
+            "word": "leur",
             "index": 505
         },
         {
-            "word": "marine",
+            "word": "étudie",
+            "index": 508
+        },
+        {
+            "word": "leurs",
+            "index": 509
+        },
+        {
+            "word": "différentes",
             "index": 515
         },
         {
+            "word": "salinité",
+            "index": 520
+        },
+        {
+            "word": "préfèrent",
+            "index": 530
+        },
+        {
+            "word": "comme",
+            "index": 534
+        },
+        {
+            "word": "aurai",
+            "index": 537
+        },
+        {
+            "word": "marine",
+            "index": 547
+        },
+        {
             "word": "conclure",
-            "index": 517
+            "index": 549
         },
         {
             "word": "permet",
-            "index": 521
+            "index": 553
         },
         {
             "word": "extrêmes",
-            "index": 529
+            "index": 561
         },
         {
             "word": "résultats",
-            "index": 540
+            "index": 572
         },
         {
             "word": "amènent",
-            "index": 541
+            "index": 573
         },
         {
             "word": "suivante",
-            "index": 544
+            "index": 576
+        },
+        {
+            "word": "y",
+            "index": 580
         },
         {
             "word": "limite",
-            "index": 555
+            "index": 589
         },
         {
-            "word": "n'irais",
-            "index": 570
+            "word": "irais",
+            "index": 607
         },
         {
             "word": "extraterrestre",
-            "index": 583
+            "index": 621
         },
         {
             "word": "décrocher",
-            "index": 585
+            "index": 623
         },
         {
             "word": "mon",
-            "index": 586
+            "index": 624
         },
         {
             "word": "étoile",
-            "index": 587
+            "index": 625
         }
     ],
     "highrise": [
         {
             "word": "midi",
-            "index": 82
+            "index": 85
         },
         {
             "word": "cela",
-            "index": 196
+            "index": 204
         },
         {
             "word": "rondelles",
-            "index": 216
+            "index": 225
         },
         {
             "word": "nutriments",
-            "index": 308
+            "index": 326
         },
         {
             "word": "terminées",
-            "index": 320
+            "index": 338
         },
         {
-            "word": "aujourd'hui",
-            "index": 438
+            "word": "hui",
+            "index": -1
         },
         {
             "word": "appartenaient",
-            "index": 455
+            "index": 483
         }
     ],
     "highfall": [
         {
             "word": "à",
-            "index": 53
+            "index": 56
         }
     ]
 }

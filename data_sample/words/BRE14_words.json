@@ -2,913 +2,929 @@
     "high": [
         {
             "word": "expliqué",
-            "index": 2
+            "index": 3
         },
         {
-            "word": "s'approche",
-            "index": 13
+            "word": "approche",
+            "index": 16
         },
         {
             "word": "discute",
-            "index": 15
+            "index": 18
         },
         {
             "word": "hésite",
-            "index": 56
+            "index": 59
         },
         {
             "word": "quoi",
-            "index": 67
+            "index": 70
         },
         {
             "word": "thèse",
-            "index": 69
+            "index": 72
         },
         {
             "word": "indigènes",
-            "index": 76
+            "index": 79
         },
         {
             "word": "en",
-            "index": 84
+            "index": 87
         },
         {
             "word": "argentine",
-            "index": 85
+            "index": 88
         },
         {
-            "word": "s'intéresser",
-            "index": 91
+            "word": "intéresser",
+            "index": 95
         },
         {
             "word": "fait",
-            "index": 113
-        },
-        {
-            "word": "discours",
-            "index": 115
-        },
-        {
-            "word": "progrès",
             "index": 118
         },
         {
-            "word": "développement",
+            "word": "discours",
             "index": 120
         },
         {
-            "word": "l'émancipation",
-            "index": 121
-        },
-        {
-            "word": "sont",
-            "index": 122
-        },
-        {
-            "word": "comme",
+            "word": "progrès",
             "index": 123
         },
         {
-            "word": "pile",
-            "index": 126
+            "word": "développement",
+            "index": 125
         },
         {
-            "word": "pièce",
+            "word": "émancipation",
+            "index": 127
+        },
+        {
+            "word": "sont",
+            "index": 128
+        },
+        {
+            "word": "comme",
             "index": 129
         },
         {
-            "word": "appeler",
-            "index": 133
+            "word": "pile",
+            "index": 132
         },
         {
-            "word": "modernité",
+            "word": "pièce",
             "index": 135
         },
         {
+            "word": "appeler",
+            "index": 140
+        },
+        {
+            "word": "modernité",
+            "index": 142
+        },
+        {
             "word": "que",
-            "index": 138
+            "index": 146
         },
         {
             "word": "existe",
-            "index": 150
+            "index": 160
         },
         {
             "word": "forcément",
-            "index": 151
+            "index": 161
         },
         {
             "word": "versant",
-            "index": 153
-        },
-        {
-            "word": "devines",
-            "index": 159
-        },
-        {
-            "word": "pas",
             "index": 163
         },
         {
-            "word": "face",
-            "index": 168
-        },
-        {
-            "word": "cachée",
+            "word": "devines",
             "index": 169
         },
         {
-            "word": "l'oppression",
-            "index": 171
-        },
-        {
-            "word": "domination",
+            "word": "pas",
             "index": 174
         },
         {
+            "word": "face",
+            "index": 180
+        },
+        {
+            "word": "cachée",
+            "index": 181
+        },
+        {
+            "word": "oppression",
+            "index": 184
+        },
+        {
+            "word": "domination",
+            "index": 188
+        },
+        {
             "word": "manière",
-            "index": 185
+            "index": 200
         },
         {
             "word": "monde",
-            "index": 191
+            "index": 206
         },
         {
             "word": "sa",
-            "index": 193
+            "index": 208
         },
         {
             "word": "logique",
-            "index": 194
-        },
-        {
-            "word": "avoir",
-            "index": 201
-        },
-        {
-            "word": "de",
-            "index": 202
-        },
-        {
-            "word": "ce",
             "index": 209
         },
         {
-            "word": "j'analyse",
-            "index": 211
+            "word": "avoir",
+            "index": 216
         },
         {
-            "word": "mécanismes",
-            "index": 213
+            "word": "de",
+            "index": 217
         },
         {
-            "word": "comprendre",
-            "index": 222
+            "word": "ce",
+            "index": 224
         },
         {
-            "word": "comment",
-            "index": 223
-        },
-        {
-            "word": "participé",
+            "word": "analyse",
             "index": 227
         },
         {
+            "word": "mécanismes",
+            "index": 229
+        },
+        {
+            "word": "comprendre",
+            "index": 238
+        },
+        {
+            "word": "comment",
+            "index": 239
+        },
+        {
+            "word": "participé",
+            "index": 243
+        },
+        {
             "word": "physique",
-            "index": 230
+            "index": 247
         },
         {
             "word": "tribus",
-            "index": 233
-        },
-        {
-            "word": "s'il",
             "index": 250
         },
         {
-            "word": "ensuite",
-            "index": 254
+            "word": "il",
+            "index": 262
         },
         {
-            "word": "m'intéresse",
-            "index": 257
+            "word": "ensuite",
+            "index": 276
+        },
+        {
+            "word": "intéresse",
+            "index": 280
         },
         {
             "word": "deuxième",
-            "index": 260
+            "index": 283
         },
         {
             "word": "partie",
-            "index": 261
+            "index": 284
         },
         {
             "word": "manifestations",
-            "index": 268
+            "index": 291
         },
         {
             "word": "œuvres",
-            "index": 273
+            "index": 297
         },
         {
             "word": "décrivent",
-            "index": 278
+            "index": 302
         },
         {
             "word": "les",
-            "index": 279
+            "index": 303
         },
         {
             "word": "traduit",
-            "index": 282
-        },
-        {
-            "word": "d'identifier",
-            "index": 289
-        },
-        {
-            "word": "une",
-            "index": 290
-        },
-        {
-            "word": "figures",
-            "index": 300
-        },
-        {
-            "word": "situations",
-            "index": 304
-        },
-        {
-            "word": "histoires",
             "index": 306
         },
         {
-            "word": "racontées",
-            "index": 307
+            "word": "identifier",
+            "index": 315
         },
         {
-            "word": "des",
-            "index": 308
-        },
-        {
-            "word": "silences",
-            "index": 309
-        },
-        {
-            "word": "plusieurs",
-            "index": 312
-        },
-        {
-            "word": "corpus",
+            "word": "une",
             "index": 316
         },
         {
-            "word": "caractéristiques",
-            "index": 320
+            "word": "figures",
+            "index": 327
         },
         {
-            "word": "air",
+            "word": "situations",
+            "index": 331
+        },
+        {
+            "word": "histoires",
+            "index": 333
+        },
+        {
+            "word": "racontées",
+            "index": 334
+        },
+        {
+            "word": "des",
+            "index": 335
+        },
+        {
+            "word": "silences",
+            "index": 336
+        },
+        {
+            "word": "plusieurs",
             "index": 339
         },
         {
-            "word": "demande",
+            "word": "corpus",
             "index": 343
         },
         {
+            "word": "caractéristiques",
+            "index": 347
+        },
+        {
+            "word": "air",
+            "index": 368
+        },
+        {
+            "word": "demande",
+            "index": 372
+        },
+        {
             "word": "pourquoi",
-            "index": 344
+            "index": 373
         },
         {
             "word": "choisi",
-            "index": 346
+            "index": 376
         },
         {
             "word": "lumière",
-            "index": 358
+            "index": 389
         },
         {
             "word": "but",
-            "index": 369
+            "index": 400
         },
         {
             "word": "politiques",
-            "index": 375
-        },
-        {
-            "word": "identitaires",
-            "index": 377
-        },
-        {
-            "word": "engendrées",
-            "index": 378
-        },
-        {
-            "word": "dits",
-            "index": 382
-        },
-        {
-            "word": "modernes",
-            "index": 384
-        },
-        {
-            "word": "jusqu'à",
-            "index": 386
-        },
-        {
-            "word": "effectué",
-            "index": 393
-        },
-        {
-            "word": "violence",
-            "index": 405
-        },
-        {
-            "word": "systématique",
             "index": 406
         },
         {
-            "word": "la",
-            "index": 407
-        },
-        {
-            "word": "répression",
+            "word": "identitaires",
             "index": 408
         },
         {
-            "word": "discrimination",
-            "index": 411
+            "word": "engendrées",
+            "index": 409
         },
         {
-            "word": "contre",
+            "word": "dits",
             "index": 413
         },
         {
+            "word": "modernes",
+            "index": 415
+        },
+        {
+            "word": "à",
+            "index": 418
+        },
+        {
+            "word": "effectué",
+            "index": 426
+        },
+        {
+            "word": "violence",
+            "index": 439
+        },
+        {
+            "word": "systématique",
+            "index": 440
+        },
+        {
+            "word": "la",
+            "index": 441
+        },
+        {
+            "word": "répression",
+            "index": 442
+        },
+        {
+            "word": "discrimination",
+            "index": 445
+        },
+        {
+            "word": "contre",
+            "index": 447
+        },
+        {
             "word": "est",
-            "index": 422
+            "index": 456
         },
         {
             "word": "finalement",
-            "index": 423
+            "index": 457
         },
         {
             "word": "réponses",
-            "index": 427
+            "index": 461
         },
         {
             "word": "mieux",
-            "index": 432
+            "index": 466
         },
         {
             "word": "actuelle",
-            "index": 436
+            "index": 470
         },
         {
             "word": "ces",
-            "index": 438
+            "index": 472
         },
         {
             "word": "leurs",
-            "index": 449
+            "index": 483
         },
         {
             "word": "gouvernement",
-            "index": 453
+            "index": 487
         },
         {
             "word": "regarde",
-            "index": 459
+            "index": 493
         },
         {
             "word": "essayé",
-            "index": 479
+            "index": 514
         }
     ],
     "low": [
         {
-            "word": "j'étais",
-            "index": 5
+            "word": "étais",
+            "index": 7
         },
         {
             "word": "barres",
-            "index": 10
+            "index": 12
         },
         {
-            "word": "s'approche",
-            "index": 13
+            "word": "approche",
+            "index": 16
         },
         {
             "word": "on",
-            "index": 14
+            "index": 17
         },
         {
             "word": "la",
-            "index": 24
+            "index": 27
         },
         {
             "word": "fais",
-            "index": 30
+            "index": 33
         },
         {
             "word": "dans",
-            "index": 32
+            "index": 35
         },
         {
             "word": "il",
-            "index": 43
-        },
-        {
-            "word": "je",
             "index": 46
         },
         {
+            "word": "je",
+            "index": 49
+        },
+        {
             "word": "regarde",
-            "index": 48
+            "index": 51
         },
         {
             "word": "me",
-            "index": 50
-        },
-        {
-            "word": "le",
             "index": 53
         },
         {
-            "word": "hésite",
+            "word": "le",
             "index": 56
         },
         {
-            "word": "finit",
-            "index": 58
-        },
-        {
-            "word": "par",
+            "word": "hésite",
             "index": 59
         },
         {
-            "word": "demander",
+            "word": "finit",
             "index": 61
         },
         {
-            "word": "et",
-            "index": 63
+            "word": "par",
+            "index": 62
         },
         {
-            "word": "elle",
+            "word": "demander",
             "index": 64
         },
         {
+            "word": "et",
+            "index": 66
+        },
+        {
+            "word": "elle",
+            "index": 67
+        },
+        {
             "word": "est",
-            "index": 65
+            "index": 68
         },
         {
             "word": "les",
-            "index": 75
+            "index": 78
         },
         {
             "word": "de",
-            "index": 77
+            "index": 80
         },
         {
             "word": "patagonie",
-            "index": 83
+            "index": 86
         },
         {
             "word": "semblant",
-            "index": 89
+            "index": 92
         },
         {
             "word": "demande",
-            "index": 94
+            "index": 98
         },
         {
             "word": "en",
-            "index": 112
+            "index": 117
         },
         {
             "word": "discours",
-            "index": 115
-        },
-        {
-            "word": "progrès",
-            "index": 118
-        },
-        {
-            "word": "développement",
             "index": 120
         },
         {
-            "word": "l'émancipation",
-            "index": 121
+            "word": "progrès",
+            "index": 123
         },
         {
-            "word": "côté",
+            "word": "développement",
             "index": 125
         },
         {
-            "word": "ce",
-            "index": 130
+            "word": "émancipation",
+            "index": 127
         },
         {
-            "word": "qu'on",
+            "word": "côté",
             "index": 131
         },
         {
-            "word": "va",
-            "index": 132
-        },
-        {
-            "word": "appeler",
-            "index": 133
-        },
-        {
-            "word": "modernité",
-            "index": 135
-        },
-        {
-            "word": "c'est",
+            "word": "ce",
             "index": 136
         },
         {
-            "word": "nous",
+            "word": "on",
+            "index": 138
+        },
+        {
+            "word": "va",
+            "index": 139
+        },
+        {
+            "word": "appeler",
             "index": 140
         },
         {
-            "word": "montre",
-            "index": 141
+            "word": "modernité",
+            "index": 142
         },
         {
-            "word": "que",
-            "index": 143
-        },
-        {
-            "word": "l'on",
+            "word": "est",
             "index": 144
         },
         {
+            "word": "nous",
+            "index": 149
+        },
+        {
+            "word": "montre",
+            "index": 150
+        },
+        {
+            "word": "que",
+            "index": 152
+        },
+        {
+            "word": "on",
+            "index": 154
+        },
+        {
             "word": "mais",
-            "index": 148
+            "index": 158
         },
         {
             "word": "forcément",
-            "index": 151
+            "index": 161
         },
         {
             "word": "cette",
-            "index": 155
+            "index": 165
         },
         {
             "word": "devines",
-            "index": 159
-        },
-        {
-            "word": "n'est",
-            "index": 162
-        },
-        {
-            "word": "visible",
-            "index": 164
-        },
-        {
-            "word": "cachée",
             "index": 169
         },
         {
-            "word": "représente",
-            "index": 170
+            "word": "est",
+            "index": 173
         },
         {
-            "word": "l'oppression",
-            "index": 171
+            "word": "visible",
+            "index": 175
+        },
+        {
+            "word": "cachée",
+            "index": 181
+        },
+        {
+            "word": "représente",
+            "index": 182
+        },
+        {
+            "word": "oppression",
+            "index": 184
         },
         {
             "word": "domination",
-            "index": 174
+            "index": 188
         },
         {
             "word": "certains",
-            "index": 176
+            "index": 190
+        },
+        {
+            "word": "on",
+            "index": 194
         },
         {
             "word": "symbolise",
-            "index": 189
+            "index": 204
         },
         {
             "word": "fonctionnement",
-            "index": 196
-        },
-        {
-            "word": "ne",
-            "index": 198
-        },
-        {
-            "word": "à",
-            "index": 206
-        },
-        {
-            "word": "fait",
-            "index": 210
-        },
-        {
-            "word": "j'analyse",
             "index": 211
         },
         {
-            "word": "mécanismes",
+            "word": "ne",
             "index": 213
         },
         {
-            "word": "logique",
-            "index": 216
+            "word": "à",
+            "index": 221
         },
         {
-            "word": "but",
-            "index": 220
+            "word": "fait",
+            "index": 225
         },
         {
-            "word": "comprendre",
-            "index": 222
+            "word": "analyse",
+            "index": 227
         },
         {
-            "word": "a",
-            "index": 226
-        },
-        {
-            "word": "l'élimination",
+            "word": "mécanismes",
             "index": 229
         },
         {
-            "word": "certaines",
+            "word": "logique",
             "index": 232
         },
         {
-            "word": "symbolique",
+            "word": "but",
             "index": 236
         },
         {
-            "word": "des",
-            "index": 237
+            "word": "comprendre",
+            "index": 238
         },
         {
-            "word": "argentine",
-            "index": 240
+            "word": "a",
+            "index": 242
         },
         {
-            "word": "m'écoute",
-            "index": 245
+            "word": "élimination",
+            "index": 246
         },
         {
-            "word": "ensuite",
+            "word": "certaines",
+            "index": 249
+        },
+        {
+            "word": "symbolique",
             "index": 254
         },
         {
-            "word": "m'intéresse",
-            "index": 257
+            "word": "des",
+            "index": 255
         },
         {
-            "word": "ma",
-            "index": 263
+            "word": "argentine",
+            "index": 258
         },
         {
-            "word": "sont",
-            "index": 266
+            "word": "écoute",
+            "index": 264
         },
         {
-            "word": "manifestations",
+            "word": "écoute",
             "index": 268
         },
         {
-            "word": "j'observe",
-            "index": 270
+            "word": "écoute",
+            "index": 273
         },
         {
-            "word": "siècle",
+            "word": "ensuite",
             "index": 276
         },
         {
-            "word": "décrivent",
-            "index": 278
-        },
-        {
-            "word": "indigènes",
+            "word": "intéresse",
             "index": 280
         },
         {
-            "word": "ont",
-            "index": 281
+            "word": "ma",
+            "index": 286
         },
         {
-            "word": "ces",
-            "index": 283
-        },
-        {
-            "word": "j'essaie",
-            "index": 288
-        },
-        {
-            "word": "d'identifier",
+            "word": "sont",
             "index": 289
         },
         {
-            "word": "manière",
+            "word": "manifestations",
             "index": 291
         },
         {
-            "word": "d'écrire",
-            "index": 292
-        },
-        {
-            "word": "moderne",
-            "index": 293
-        },
-        {
-            "word": "coloniale",
+            "word": "observe",
             "index": 294
         },
         {
-            "word": "thèmes",
-            "index": 298
+            "word": "siècle",
+            "index": 300
         },
         {
-            "word": "style",
+            "word": "décrivent",
             "index": 302
         },
         {
-            "word": "situations",
+            "word": "indigènes",
             "index": 304
         },
         {
-            "word": "racontées",
+            "word": "ont",
+            "index": 305
+        },
+        {
+            "word": "ces",
             "index": 307
         },
         {
-            "word": "fois",
+            "word": "essaie",
             "index": 313
         },
         {
-            "word": "caractéristiques",
+            "word": "identifier",
+            "index": 315
+        },
+        {
+            "word": "manière",
+            "index": 317
+        },
+        {
+            "word": "écrire",
+            "index": 319
+        },
+        {
+            "word": "moderne",
             "index": 320
         },
         {
-            "word": "j'ai",
+            "word": "coloniale",
+            "index": 321
+        },
+        {
+            "word": "thèmes",
             "index": 325
         },
         {
+            "word": "style",
+            "index": 329
+        },
+        {
+            "word": "situations",
+            "index": 331
+        },
+        {
+            "word": "racontées",
+            "index": 334
+        },
+        {
+            "word": "fois",
+            "index": 340
+        },
+        {
+            "word": "caractéristiques",
+            "index": 347
+        },
+        {
+            "word": "ai",
+            "index": 353
+        },
+        {
             "word": "voulu",
-            "index": 355
+            "index": 386
         },
         {
             "word": "lumière",
-            "index": 358
+            "index": 389
         },
         {
             "word": "monde",
-            "index": 366
+            "index": 397
         },
         {
             "word": "réfléchir",
-            "index": 371
+            "index": 402
         },
         {
             "word": "conséquences",
-            "index": 374
+            "index": 405
         },
         {
             "word": "politiques",
-            "index": 375
-        },
-        {
-            "word": "identitaires",
-            "index": 377
-        },
-        {
-            "word": "modernes",
-            "index": 384
-        },
-        {
-            "word": "nos",
-            "index": 387
-        },
-        {
-            "word": "effectué",
-            "index": 393
-        },
-        {
-            "word": "rappelle",
-            "index": 396
-        },
-        {
-            "word": "n'en",
-            "index": 399
-        },
-        {
-            "word": "avons",
-            "index": 400
-        },
-        {
-            "word": "avec",
-            "index": 403
-        },
-        {
-            "word": "systématique",
             "index": 406
         },
         {
-            "word": "dirigées",
-            "index": 412
+            "word": "identitaires",
+            "index": 408
         },
         {
-            "word": "peuples",
+            "word": "modernes",
             "index": 415
         },
         {
-            "word": "finalement",
-            "index": 423
+            "word": "nos",
+            "index": 419
         },
         {
-            "word": "chercher",
-            "index": 425
-        },
-        {
-            "word": "quelques",
+            "word": "effectué",
             "index": 426
         },
         {
+            "word": "rappelle",
+            "index": 429
+        },
+        {
+            "word": "en",
+            "index": 433
+        },
+        {
+            "word": "avons",
+            "index": 434
+        },
+        {
+            "word": "avec",
+            "index": 437
+        },
+        {
+            "word": "systématique",
+            "index": 440
+        },
+        {
+            "word": "dirigées",
+            "index": 446
+        },
+        {
+            "word": "peuples",
+            "index": 449
+        },
+        {
+            "word": "finalement",
+            "index": 457
+        },
+        {
+            "word": "chercher",
+            "index": 459
+        },
+        {
+            "word": "quelques",
+            "index": 460
+        },
+        {
             "word": "situation",
-            "index": 435
+            "index": 469
         },
         {
             "word": "toujours",
-            "index": 442
+            "index": 476
         },
         {
             "word": "droits",
-            "index": 450
+            "index": 484
         },
         {
             "word": "gouvernement",
-            "index": 453
+            "index": 487
         },
         {
             "word": "multinationales",
-            "index": 456
+            "index": 490
         },
         {
-            "word": "d'expliquer",
-            "index": 480
+            "word": "ai",
+            "index": 513
+        },
+        {
+            "word": "expliquer",
+            "index": 516
         }
     ],
     "highrise": [
         {
             "word": "regarde",
-            "index": 45
+            "index": 48
         },
         {
             "word": "pampa",
-            "index": 79
+            "index": 82
         },
         {
             "word": "double",
-            "index": 217
+            "index": 233
         },
         {
             "word": "modernité",
-            "index": 225
+            "index": 241
         },
         {
             "word": "autres",
-            "index": 238
+            "index": 256
         },
         {
-            "word": "m'écoute",
-            "index": 245
+            "word": "écoute",
+            "index": 264
         },
         {
             "word": "corpus",
-            "index": 316
+            "index": 343
         },
         {
             "word": "notre",
-            "index": 365
+            "index": 396
         },
         {
             "word": "et",
-            "index": 376
+            "index": 407
         },
         {
             "word": "thèse",
-            "index": 421
+            "index": 455
         }
     ],
     "highfall": [
         {
             "word": "versant",
-            "index": 153
+            "index": 163
         },
         {
             "word": "comment",
-            "index": 223
+            "index": 239
         },
         {
             "word": "après",
-            "index": 445
+            "index": 479
         }
     ]
 }

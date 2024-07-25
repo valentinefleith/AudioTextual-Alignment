@@ -2,19 +2,19 @@
     "high": [
         {
             "word": "imaginons",
-            "index": 15
+            "index": 16
         },
         {
             "word": "on",
-            "index": 45
+            "index": 48
         },
         {
             "word": "voit",
-            "index": 363
+            "index": 384
         },
         {
             "word": "des",
-            "index": 379
+            "index": 404
         },
         {
             "word": "biches",
@@ -22,223 +22,223 @@
         },
         {
             "word": "centre",
-            "index": 18
+            "index": 19
         },
         {
             "word": "bouchons",
-            "index": 24
-        },
-        {
-            "word": "klaxons",
             "index": 26
         },
         {
+            "word": "klaxons",
+            "index": 28
+        },
+        {
             "word": "pas",
-            "index": 42
+            "index": 45
         },
         {
             "word": "dérangé",
-            "index": 51
-        },
-        {
-            "word": "par",
-            "index": 52
-        },
-        {
-            "word": "les",
-            "index": 53
-        },
-        {
-            "word": "gaz",
             "index": 54
         },
         {
-            "word": "d'échappement",
+            "word": "par",
             "index": 55
         },
         {
-            "word": "assourdi",
+            "word": "les",
             "index": 56
         },
         {
-            "word": "bruit",
+            "word": "gaz",
+            "index": 57
+        },
+        {
+            "word": "échappement",
             "index": 59
         },
         {
-            "word": "ambiant",
+            "word": "assourdi",
             "index": 60
         },
         {
+            "word": "bruit",
+            "index": 63
+        },
+        {
+            "word": "ambiant",
+            "index": 64
+        },
+        {
             "word": "et",
-            "index": 61
+            "index": 65
         },
         {
             "word": "ébloui",
-            "index": 62
+            "index": 66
         },
         {
             "word": "de",
-            "index": 71
+            "index": 76
         },
         {
             "word": "peut",
-            "index": 90
-        },
-        {
-            "word": "entendre",
-            "index": 91
-        },
-        {
-            "word": "une",
-            "index": 92
-        },
-        {
-            "word": "est",
             "index": 96
         },
         {
+            "word": "entendre",
+            "index": 97
+        },
+        {
+            "word": "une",
+            "index": 98
+        },
+        {
+            "word": "est",
+            "index": 102
+        },
+        {
             "word": "alors",
-            "index": 111
+            "index": 117
         },
         {
-            "word": "qu'est",
-            "index": 112
-        },
-        {
-            "word": "fait",
-            "index": 116
-        },
-        {
-            "word": "espèce",
+            "word": "est",
             "index": 119
         },
         {
+            "word": "fait",
+            "index": 123
+        },
+        {
+            "word": "espèce",
+            "index": 127
+        },
+        {
             "word": "pour",
-            "index": 149
+            "index": 158
         },
         {
             "word": "répondre",
-            "index": 151
-        },
-        {
-            "word": "printemps",
             "index": 160
         },
         {
+            "word": "printemps",
+            "index": 170
+        },
+        {
             "word": "étudier",
-            "index": 167
+            "index": 177
         },
         {
             "word": "comportement",
-            "index": 188
+            "index": 198
         },
         {
-            "word": "l'espoir",
-            "index": 190
-        },
-        {
-            "word": "comprendre",
-            "index": 192
-        },
-        {
-            "word": "plusieurs",
-            "index": 200
-        },
-        {
-            "word": "années",
+            "word": "espoir",
             "index": 201
         },
         {
-            "word": "dur",
+            "word": "comprendre",
             "index": 203
         },
         {
+            "word": "plusieurs",
+            "index": 212
+        },
+        {
+            "word": "années",
+            "index": 213
+        },
+        {
+            "word": "dur",
+            "index": 215
+        },
+        {
             "word": "labeur",
-            "index": 204
+            "index": 216
         },
         {
             "word": "mésanges",
-            "index": 208
+            "index": 220
         },
         {
             "word": "étudiés",
-            "index": 209
-        },
-        {
-            "word": "regardant",
             "index": 221
         },
         {
+            "word": "regardant",
+            "index": 233
+        },
+        {
             "word": "plus",
-            "index": 223
+            "index": 235
         },
         {
             "word": "tôt",
-            "index": 265
+            "index": 277
         },
         {
             "word": "en",
-            "index": 278
-        },
-        {
-            "word": "ville",
-            "index": 279
-        },
-        {
-            "word": "raison",
-            "index": 288
-        },
-        {
-            "word": "activités",
-            "index": 290
-        },
-        {
-            "word": "humaines",
             "index": 291
         },
         {
+            "word": "ville",
+            "index": 292
+        },
+        {
+            "word": "raison",
+            "index": 301
+        },
+        {
+            "word": "activités",
+            "index": 303
+        },
+        {
+            "word": "humaines",
+            "index": 304
+        },
+        {
             "word": "malbouffe",
-            "index": 328
+            "index": 345
         },
         {
             "word": "mésange",
-            "index": 346
+            "index": 365
         },
         {
             "word": "voisine",
-            "index": 399
+            "index": 425
         },
         {
             "word": "palier",
-            "index": 401
+            "index": 427
         },
         {
             "word": "haut",
-            "index": 424
+            "index": 452
         },
         {
             "word": "preuve",
-            "index": 440
+            "index": 468
         },
         {
             "word": "petite",
-            "index": 455
+            "index": 484
         },
         {
             "word": "partie",
-            "index": 456
+            "index": 485
         },
         {
             "word": "plantes",
-            "index": 471
+            "index": 501
         },
         {
             "word": "rassurant",
-            "index": 511
+            "index": 547
         },
         {
             "word": "ferme",
-            "index": 534
+            "index": 571
         }
     ],
     "low": [
@@ -252,434 +252,434 @@
         },
         {
             "word": "verdure",
-            "index": 8
+            "index": 9
         },
         {
             "word": "gambader",
-            "index": 14
+            "index": 15
         },
         {
             "word": "ville",
-            "index": 19
-        },
-        {
-            "word": "là",
             "index": 20
         },
         {
-            "word": "c'est",
+            "word": "là",
             "index": 21
         },
         {
+            "word": "est",
+            "index": 23
+        },
+        {
             "word": "plutôt",
-            "index": 22
+            "index": 24
         },
         {
             "word": "klaxons",
-            "index": 26
+            "index": 28
         },
         {
             "word": "les",
-            "index": 27
+            "index": 29
         },
         {
             "word": "ça",
-            "index": 36
-        },
-        {
-            "word": "ses",
             "index": 38
         },
         {
+            "word": "ses",
+            "index": 40
+        },
+        {
             "word": "avantages",
-            "index": 39
+            "index": 41
         },
         {
             "word": "facile",
-            "index": 44
+            "index": 47
         },
         {
             "word": "foule",
-            "index": 50
+            "index": 53
         },
         {
-            "word": "d'échappement",
-            "index": 55
+            "word": "échappement",
+            "index": 59
         },
         {
             "word": "le",
-            "index": 58
+            "index": 62
         },
         {
-            "word": "l'éclairage",
-            "index": 64
+            "word": "éclairage",
+            "index": 69
         },
         {
             "word": "public",
-            "index": 65
+            "index": 70
         },
         {
             "word": "et",
-            "index": 66
+            "index": 71
         },
         {
             "word": "elle",
-            "index": 74
+            "index": 79
         },
         {
             "word": "naturel",
-            "index": 80
+            "index": 85
         },
         {
             "word": "entend",
-            "index": 86
+            "index": 91
         },
         {
             "word": "son",
-            "index": 100
+            "index": 106
         },
         {
             "word": "habitat",
-            "index": 101
+            "index": 107
         },
         {
             "word": "me",
-            "index": 103
+            "index": 109
         },
         {
             "word": "direz",
-            "index": 104
-        },
-        {
-            "word": "vous",
-            "index": 105
-        },
-        {
-            "word": "avez",
-            "index": 108
-        },
-        {
-            "word": "mais",
             "index": 110
         },
         {
-            "word": "que",
+            "word": "vous",
+            "index": 111
+        },
+        {
+            "word": "avez",
             "index": 114
         },
         {
-            "word": "d'être",
-            "index": 117
+            "word": "mais",
+            "index": 116
+        },
+        {
+            "word": "que",
+            "index": 121
+        },
+        {
+            "word": "être",
+            "index": 125
         },
         {
             "word": "une",
-            "index": 118
-        },
-        {
-            "word": "urbanisé",
-            "index": 124
-        },
-        {
-            "word": "mésange",
             "index": 126
         },
         {
+            "word": "urbanisé",
+            "index": 132
+        },
+        {
+            "word": "mésange",
+            "index": 134
+        },
+        {
             "word": "des",
-            "index": 127
+            "index": 135
         },
         {
             "word": "questions",
-            "index": 140
+            "index": 149
         },
         {
             "word": "pose",
-            "index": 144
+            "index": 153
         },
         {
             "word": "durant",
-            "index": 145
+            "index": 154
         },
         {
             "word": "répondre",
-            "index": 151
+            "index": 160
         },
         {
             "word": "mésanges",
-            "index": 155
+            "index": 165
         },
         {
             "word": "charbonnières",
-            "index": 156
-        },
-        {
-            "word": "de",
-            "index": 157
-        },
-        {
-            "word": "montpellier",
-            "index": 158
-        },
-        {
-            "word": "au",
-            "index": 159
-        },
-        {
-            "word": "moi",
-            "index": 164
-        },
-        {
-            "word": "partons",
             "index": 166
         },
         {
+            "word": "de",
+            "index": 167
+        },
+        {
+            "word": "montpellier",
+            "index": 168
+        },
+        {
+            "word": "au",
+            "index": 169
+        },
+        {
+            "word": "moi",
+            "index": 174
+        },
+        {
+            "word": "partons",
+            "index": 176
+        },
+        {
             "word": "mesure",
-            "index": 179
-        },
-        {
-            "word": "comportement",
-            "index": 188
-        },
-        {
-            "word": "dans",
             "index": 189
         },
         {
-            "word": "s'adaptent",
-            "index": 195
+            "word": "comportement",
+            "index": 198
         },
         {
-            "word": "après",
+            "word": "dans",
             "index": 199
         },
         {
+            "word": "adaptent",
+            "index": 207
+        },
+        {
+            "word": "après",
+            "index": 211
+        },
+        {
             "word": "labeur",
-            "index": 204
+            "index": 216
         },
         {
             "word": "étudiés",
-            "index": 209
-        },
-        {
-            "word": "en",
-            "index": 219
-        },
-        {
-            "word": "regardant",
             "index": 221
         },
         {
+            "word": "en",
+            "index": 231
+        },
+        {
+            "word": "regardant",
+            "index": 233
+        },
+        {
             "word": "près",
-            "index": 224
+            "index": 236
         },
         {
             "word": "rappeler",
-            "index": 247
+            "index": 259
         },
         {
             "word": "quelque",
-            "index": 248
+            "index": 260
         },
         {
             "word": "chose",
-            "index": 249
+            "index": 261
         },
         {
             "word": "champs",
-            "index": 269
+            "index": 281
         },
         {
             "word": "températures",
-            "index": 282
+            "index": 295
         },
         {
             "word": "sont",
-            "index": 284
+            "index": 297
         },
         {
             "word": "humaines",
-            "index": 291
+            "index": 304
         },
         {
             "word": "par",
-            "index": 292
+            "index": 305
         },
         {
             "word": "ailleurs",
-            "index": 293
+            "index": 306
         },
         {
             "word": "passe",
-            "index": 303
+            "index": 318
         },
         {
             "word": "malbouffe",
-            "index": 328
+            "index": 345
         },
         {
             "word": "famille",
-            "index": 338
+            "index": 355
         },
         {
             "word": "villes",
-            "index": 348
+            "index": 367
         },
         {
             "word": "se",
-            "index": 357
+            "index": 377
         },
         {
-            "word": "d'autres",
-            "index": 360
+            "word": "autres",
+            "index": 381
         },
         {
-            "word": "est",
-            "index": 365
+            "word": "adapter",
+            "index": 392
         },
         {
-            "word": "s'adapter",
-            "index": 369
-        },
-        {
-            "word": "n'y",
-            "index": 371
+            "word": "y",
+            "index": 395
         },
         {
             "word": "a",
-            "index": 372
+            "index": 396
         },
         {
-            "word": "qu'à",
-            "index": 373
+            "word": "à",
+            "index": 398
         },
         {
             "word": "regarder",
-            "index": 374
+            "index": 399
         },
         {
             "word": "ne",
-            "index": 384
+            "index": 409
         },
         {
             "word": "contrairement",
-            "index": 388
+            "index": 414
         },
         {
             "word": "quand",
-            "index": 402
-        },
-        {
-            "word": "prend",
-            "index": 404
-        },
-        {
-            "word": "sa",
-            "index": 405
-        },
-        {
-            "word": "qu'elle",
-            "index": 417
-        },
-        {
-            "word": "obligée",
-            "index": 419
-        },
-        {
-            "word": "chanter",
-            "index": 421
-        },
-        {
-            "word": "plus",
-            "index": 423
-        },
-        {
-            "word": "faire",
-            "index": 427
-        },
-        {
-            "word": "entendre",
             "index": 428
         },
         {
-            "word": "malgré",
-            "index": 429
+            "word": "prend",
+            "index": 430
         },
         {
-            "word": "vacarme",
+            "word": "sa",
             "index": 431
         },
         {
-            "word": "ambiant",
-            "index": 432
+            "word": "elle",
+            "index": 445
         },
         {
-            "word": "constituent",
-            "index": 453
+            "word": "obligée",
+            "index": 447
         },
         {
-            "word": "nature",
+            "word": "chanter",
+            "index": 449
+        },
+        {
+            "word": "plus",
+            "index": 451
+        },
+        {
+            "word": "faire",
+            "index": 455
+        },
+        {
+            "word": "entendre",
+            "index": 456
+        },
+        {
+            "word": "malgré",
+            "index": 457
+        },
+        {
+            "word": "vacarme",
             "index": 459
         },
         {
-            "word": "l'on",
-            "index": 461
+            "word": "ambiant",
+            "index": 460
         },
         {
-            "word": "retrouve",
-            "index": 462
+            "word": "constituent",
+            "index": 481
         },
         {
-            "word": "jolis",
+            "word": "nature",
             "index": 488
         },
         {
+            "word": "on",
+            "index": 491
+        },
+        {
+            "word": "retrouve",
+            "index": 492
+        },
+        {
+            "word": "à",
+            "index": 509
+        },
+        {
+            "word": "jolis",
+            "index": 521
+        },
+        {
             "word": "qui",
-            "index": 490
+            "index": 523
         },
         {
             "word": "milieu",
-            "index": 493
+            "index": 526
         },
         {
             "word": "trottoirs",
-            "index": 495
-        },
-        {
-            "word": "rassurant",
-            "index": 511
-        },
-        {
-            "word": "voir",
-            "index": 513
-        },
-        {
-            "word": "car",
-            "index": 522
-        },
-        {
-            "word": "nous",
-            "index": 527
-        },
-        {
-            "word": "n'en",
             "index": 528
         },
         {
+            "word": "rassurant",
+            "index": 547
+        },
+        {
+            "word": "voir",
+            "index": 549
+        },
+        {
+            "word": "car",
+            "index": 558
+        },
+        {
+            "word": "nous",
+            "index": 563
+        },
+        {
+            "word": "en",
+            "index": 565
+        },
+        {
             "word": "serons",
-            "index": 529
+            "index": 566
         },
         {
             "word": "lui",
-            "index": 533
+            "index": 570
         },
         {
             "word": "reviendra",
-            "index": 540
+            "index": 577
         }
     ],
     "highrise": [],
     "highfall": [
         {
-            "word": "l'homme",
-            "index": 387
+            "word": "homme",
+            "index": 413
         }
     ]
 }

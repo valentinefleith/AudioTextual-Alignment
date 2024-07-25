@@ -2,1013 +2,1009 @@
     "high": [
         {
             "word": "animal",
-            "index": 2
+            "index": 3
         },
         {
             "word": "chiara",
-            "index": 10
+            "index": 12
         },
         {
             "word": "tous",
-            "index": 15
+            "index": 17
         },
         {
             "word": "fois",
-            "index": 24
+            "index": 26
         },
         {
             "word": "croquettes",
-            "index": 27
+            "index": 29
         },
         {
             "word": "transformer",
-            "index": 30
+            "index": 32
         },
         {
             "word": "libérer",
-            "index": 35
+            "index": 37
         },
         {
             "word": "pour",
-            "index": 42
+            "index": 46
         },
         {
             "word": "top",
-            "index": 48
+            "index": 52
         },
         {
             "word": "du",
-            "index": 55
-        },
-        {
-            "word": "quelques",
             "index": 59
         },
         {
-            "word": "évacue",
+            "word": "quelques",
             "index": 63
         },
         {
-            "word": "quantité",
-            "index": 70
+            "word": "évacue",
+            "index": 67
         },
         {
-            "word": "façon",
+            "word": "quantité",
             "index": 74
         },
         {
+            "word": "façon",
+            "index": 79
+        },
+        {
             "word": "dont",
-            "index": 75
+            "index": 80
         },
         {
             "word": "appelle",
-            "index": 91
+            "index": 99
         },
         {
             "word": "métabolisme",
-            "index": 93
-        },
-        {
-            "word": "moi",
-            "index": 97
-        },
-        {
-            "word": "pas",
             "index": 101
         },
         {
+            "word": "moi",
+            "index": 106
+        },
+        {
+            "word": "pas",
+            "index": 110
+        },
+        {
             "word": "géographe",
-            "index": 111
+            "index": 121
         },
         {
-            "word": "j'étudie",
-            "index": 113
-        },
-        {
-            "word": "territoires",
-            "index": 115
-        },
-        {
-            "word": "même",
-            "index": 123
-        },
-        {
-            "word": "si",
+            "word": "étudie",
             "index": 124
         },
         {
-            "word": "grand",
-            "index": 129
+            "word": "territoires",
+            "index": 126
         },
         {
-            "word": "ils",
+            "word": "même",
+            "index": 134
+        },
+        {
+            "word": "si",
             "index": 135
         },
         {
-            "word": "eux",
-            "index": 137
-        },
-        {
-            "word": "imaginez",
+            "word": "grand",
             "index": 141
         },
         {
+            "word": "ils",
+            "index": 147
+        },
+        {
+            "word": "eux",
+            "index": 149
+        },
+        {
+            "word": "imaginez",
+            "index": 153
+        },
+        {
             "word": "gros",
-            "index": 146
+            "index": 158
         },
         {
             "word": "ville",
-            "index": 165
-        },
-        {
-            "word": "devons",
             "index": 177
         },
         {
+            "word": "devons",
+            "index": 191
+        },
+        {
             "word": "mobiliser",
-            "index": 178
+            "index": 192
         },
         {
             "word": "aliments",
-            "index": 182
+            "index": 196
         },
         {
             "word": "pétrole",
-            "index": 186
+            "index": 200
         },
         {
             "word": "rejetons",
-            "index": 207
+            "index": 221
         },
         {
             "word": "tout",
-            "index": 208
+            "index": 222
         },
         {
             "word": "comme",
-            "index": 209
+            "index": 223
         },
         {
             "word": "consomme",
-            "index": 211
+            "index": 225
         },
         {
             "word": "je",
-            "index": 218
+            "index": 232
         },
         {
             "word": "savoir",
-            "index": 220
+            "index": 234
         },
         {
-            "word": "d'espérer",
-            "index": 242
+            "word": "espérer",
+            "index": 258
         },
         {
             "word": "rejette",
-            "index": 257
+            "index": 275
         },
         {
             "word": "tâche",
-            "index": 261
+            "index": 279
         },
         {
             "word": "beaucoup",
-            "index": 270
+            "index": 288
         },
         {
             "word": "agricole",
-            "index": 278
+            "index": 296
         },
         {
             "word": "minière",
-            "index": 280
-        },
-        {
-            "word": "vers",
-            "index": 283
-        },
-        {
-            "word": "décharge",
-            "index": 290
-        },
-        {
-            "word": "marchandises",
-            "index": 294
-        },
-        {
-            "word": "et",
-            "index": 295
-        },
-        {
-            "word": "total",
             "index": 299
         },
         {
+            "word": "vers",
+            "index": 302
+        },
+        {
+            "word": "décharge",
+            "index": 311
+        },
+        {
+            "word": "marchandises",
+            "index": 315
+        },
+        {
+            "word": "et",
+            "index": 316
+        },
+        {
+            "word": "total",
+            "index": 321
+        },
+        {
             "word": "matières",
-            "index": 301
+            "index": 323
         },
         {
             "word": "plusieurs",
-            "index": 305
-        },
-        {
-            "word": "dizaines",
-            "index": 306
-        },
-        {
-            "word": "millions",
-            "index": 308
-        },
-        {
-            "word": "année",
-            "index": 314
-        },
-        {
-            "word": "travail",
-            "index": 322
-        },
-        {
-            "word": "développer",
-            "index": 325
-        },
-        {
-            "word": "méthodes",
             "index": 327
         },
         {
-            "word": "plus",
+            "word": "dizaines",
+            "index": 328
+        },
+        {
+            "word": "millions",
             "index": 330
         },
         {
-            "word": "l'étude",
-            "index": 335
+            "word": "année",
+            "index": 336
         },
         {
-            "word": "permettant",
-            "index": 342
+            "word": "travail",
+            "index": 345
         },
         {
-            "word": "ordinateur",
+            "word": "développer",
+            "index": 348
+        },
+        {
+            "word": "méthodes",
+            "index": 350
+        },
+        {
+            "word": "plus",
             "index": 353
         },
         {
+            "word": "étude",
+            "index": 359
+        },
+        {
+            "word": "permettant",
+            "index": 366
+        },
+        {
+            "word": "ordinateur",
+            "index": 378
+        },
+        {
             "word": "serviteur",
-            "index": 356
-        },
-        {
-            "word": "très",
-            "index": 357
-        },
-        {
-            "word": "utile",
-            "index": 358
-        },
-        {
-            "word": "avoir",
-            "index": 360
-        },
-        {
-            "word": "identifié",
-            "index": 361
-        },
-        {
-            "word": "d'informations",
-            "index": 364
-        },
-        {
-            "word": "désormais",
-            "index": 375
-        },
-        {
-            "word": "grandes",
-            "index": 380
-        },
-        {
-            "word": "quantités",
             "index": 381
         },
         {
+            "word": "très",
+            "index": 382
+        },
+        {
+            "word": "utile",
+            "index": 383
+        },
+        {
+            "word": "avoir",
+            "index": 385
+        },
+        {
+            "word": "identifié",
+            "index": 386
+        },
+        {
+            "word": "informations",
+            "index": 390
+        },
+        {
+            "word": "désormais",
+            "index": 402
+        },
+        {
+            "word": "grandes",
+            "index": 407
+        },
+        {
+            "word": "quantités",
+            "index": 408
+        },
+        {
             "word": "facilement",
-            "index": 389
+            "index": 417
         },
         {
             "word": "diététicien",
-            "index": 412
+            "index": 440
         },
         {
             "word": "me",
-            "index": 420
+            "index": 448
         },
         {
             "word": "les",
-            "index": 422
+            "index": 450
         },
         {
             "word": "questions",
-            "index": 424
+            "index": 452
         },
         {
             "word": "nos",
-            "index": 438
+            "index": 468
         },
         {
             "word": "trop",
-            "index": 442
+            "index": 472
         },
         {
             "word": "cas",
-            "index": 447
-        },
-        {
-            "word": "mon",
-            "index": 459
-        },
-        {
-            "word": "j'espère",
-            "index": 461
-        },
-        {
-            "word": "permettront",
-            "index": 466
-        },
-        {
-            "word": "sorte",
-            "index": 473
-        },
-        {
-            "word": "territoire",
             "index": 477
         },
         {
+            "word": "mon",
+            "index": 489
+        },
+        {
+            "word": "espère",
+            "index": 492
+        },
+        {
+            "word": "permettront",
+            "index": 497
+        },
+        {
+            "word": "sorte",
+            "index": 505
+        },
+        {
+            "word": "territoire",
+            "index": 509
+        },
+        {
             "word": "trouvera",
-            "index": 479
+            "index": 511
         },
         {
             "word": "le",
-            "index": 480
+            "index": 512
         },
         {
             "word": "adapté",
-            "index": 482
+            "index": 514
         },
         {
             "word": "économie",
-            "index": 486
+            "index": 518
         },
         {
             "word": "continuer",
-            "index": 488
+            "index": 520
         },
         {
             "word": "fonctionner",
-            "index": 490
+            "index": 522
         },
         {
             "word": "durablement",
-            "index": 491
+            "index": 523
         }
     ],
     "low": [
         {
             "word": "animal",
-            "index": 2
-        },
-        {
-            "word": "de",
             "index": 3
         },
         {
-            "word": "compagnie",
+            "word": "de",
             "index": 4
         },
         {
-            "word": "chiara",
-            "index": 10
+            "word": "compagnie",
+            "index": 5
         },
         {
-            "word": "je",
+            "word": "chiara",
             "index": 12
         },
         {
-            "word": "lui",
-            "index": 13
-        },
-        {
-            "word": "donne",
+            "word": "je",
             "index": 14
         },
         {
+            "word": "lui",
+            "index": 15
+        },
+        {
+            "word": "donne",
+            "index": 16
+        },
+        {
             "word": "environ",
-            "index": 18
+            "index": 20
         },
         {
             "word": "une",
-            "index": 23
-        },
-        {
-            "word": "ingérées",
             "index": 25
         },
         {
-            "word": "ces",
-            "index": 26
-        },
-        {
-            "word": "croquettes",
+            "word": "ingérées",
             "index": 27
         },
         {
-            "word": "vont",
+            "word": "ces",
             "index": 28
         },
         {
-            "word": "se",
+            "word": "croquettes",
             "index": 29
         },
         {
-            "word": "dans",
+            "word": "vont",
+            "index": 30
+        },
+        {
+            "word": "se",
             "index": 31
         },
         {
-            "word": "son",
-            "index": 32
-        },
-        {
-            "word": "organisme",
+            "word": "dans",
             "index": 33
         },
         {
-            "word": "et",
+            "word": "son",
             "index": 34
         },
         {
-            "word": "les",
+            "word": "organisme",
+            "index": 35
+        },
+        {
+            "word": "et",
             "index": 36
         },
         {
-            "word": "nutriments",
-            "index": 37
+            "word": "les",
+            "index": 38
         },
         {
-            "word": "l'énergie",
+            "word": "nutriments",
             "index": 39
         },
         {
-            "word": "qu'elles",
-            "index": 40
+            "word": "énergie",
+            "index": 42
         },
         {
-            "word": "contiennent",
-            "index": 41
-        },
-        {
-            "word": "permettre",
+            "word": "elles",
             "index": 44
         },
         {
-            "word": "rester",
-            "index": 46
+            "word": "contiennent",
+            "index": 45
         },
         {
-            "word": "sa",
+            "word": "permettre",
+            "index": 48
+        },
+        {
+            "word": "rester",
             "index": 50
         },
         {
+            "word": "sa",
+            "index": 54
+        },
+        {
             "word": "forme",
-            "index": 51
+            "index": 55
         },
         {
             "word": "a",
-            "index": 52
-        },
-        {
-            "word": "la",
-            "index": 53
-        },
-        {
-            "word": "processus",
             "index": 56
         },
         {
-            "word": "reste",
-            "index": 58
+            "word": "la",
+            "index": 57
         },
         {
-            "word": "déchets",
+            "word": "processus",
             "index": 60
         },
         {
+            "word": "reste",
+            "index": 62
+        },
+        {
+            "word": "déchets",
+            "index": 64
+        },
+        {
             "word": "évacue",
-            "index": 63
-        },
-        {
-            "word": "d'aliments",
-            "index": 71
-        },
-        {
-            "word": "ingérés",
-            "index": 72
-        },
-        {
-            "word": "ils",
-            "index": 76
-        },
-        {
-            "word": "l'organisme",
-            "index": 80
-        },
-        {
-            "word": "ressort",
-            "index": 85
-        },
-        {
-            "word": "c'est",
-            "index": 88
-        },
-        {
-            "word": "ce",
-            "index": 89
-        },
-        {
-            "word": "qu'on",
-            "index": 90
-        },
-        {
-            "word": "appelle",
-            "index": 91
-        },
-        {
-            "word": "le",
-            "index": 92
-        },
-        {
-            "word": "métabolisme",
-            "index": 93
-        },
-        {
-            "word": "mais",
-            "index": 96
-        },
-        {
-            "word": "ne",
-            "index": 99
-        },
-        {
-            "word": "biologiste",
-            "index": 102
-        },
-        {
-            "word": "n'étudie",
-            "index": 104
-        },
-        {
-            "word": "organismes",
-            "index": 107
-        },
-        {
-            "word": "vivants",
-            "index": 108
-        },
-        {
-            "word": "suis",
-            "index": 110
-        },
-        {
-            "word": "j'étudie",
-            "index": 113
-        },
-        {
-            "word": "des",
-            "index": 114
-        },
-        {
-            "word": "territoires",
-            "index": 115
-        },
-        {
-            "word": "n'ont",
-            "index": 127
-        },
-        {
-            "word": "à",
-            "index": 131
-        },
-        {
-            "word": "voir",
-            "index": 132
-        },
-        {
-            "word": "avec",
-            "index": 133
-        },
-        {
-            "word": "aussi",
-            "index": 138
-        },
-        {
-            "word": "imaginez",
-            "index": 141
-        },
-        {
-            "word": "comme",
-            "index": 144
-        },
-        {
-            "word": "lequel",
-            "index": 149
-        },
-        {
-            "word": "serions",
-            "index": 151
-        },
-        {
-            "word": "en",
-            "index": 153
-        },
-        {
-            "word": "quelque",
-            "index": 154
-        },
-        {
-            "word": "que",
-            "index": 161
-        },
-        {
-            "word": "puisse",
-            "index": 167
-        },
-        {
-            "word": "fonctionner",
-            "index": 168
-        },
-        {
-            "word": "l'économie",
-            "index": 174
-        },
-        {
-            "word": "nous",
-            "index": 176
-        },
-        {
-            "word": "devons",
-            "index": 177
-        },
-        {
-            "word": "mobiliser",
-            "index": 178
-        },
-        {
-            "word": "ressources",
-            "index": 180
+            "index": 67
         },
         {
             "word": "aliments",
-            "index": 182
+            "index": 76
         },
         {
-            "word": "bois",
-            "index": 184
+            "word": "ingérés",
+            "index": 77
         },
         {
-            "word": "du",
-            "index": 185
+            "word": "ils",
+            "index": 81
         },
         {
-            "word": "pétrole",
-            "index": 186
+            "word": "organisme",
+            "index": 86
         },
         {
-            "word": "évidemment",
-            "index": 193
+            "word": "ressort",
+            "index": 91
         },
         {
-            "word": "pas",
-            "index": 194
+            "word": "est",
+            "index": 95
         },
         {
-            "word": "consomme",
-            "index": 211
+            "word": "ce",
+            "index": 96
         },
         {
-            "word": "si",
-            "index": 217
+            "word": "on",
+            "index": 98
         },
         {
-            "word": "n'est",
-            "index": 226
+            "word": "appelle",
+            "index": 99
         },
         {
-            "word": "difficile",
-            "index": 229
+            "word": "le",
+            "index": 100
         },
         {
-            "word": "il",
-            "index": 230
+            "word": "métabolisme",
+            "index": 101
         },
         {
-            "word": "peser",
-            "index": 233
+            "word": "mais",
+            "index": 105
         },
         {
-            "word": "ses",
-            "index": 234
+            "word": "ne",
+            "index": 108
         },
         {
-            "word": "avant",
-            "index": 236
+            "word": "biologiste",
+            "index": 111
         },
         {
-            "word": "donner",
-            "index": 240
+            "word": "étudie",
+            "index": 114
         },
         {
-            "word": "d'espérer",
-            "index": 242
+            "word": "organismes",
+            "index": 117
         },
         {
-            "word": "mange",
-            "index": 245
+            "word": "vivants",
+            "index": 118
         },
         {
-            "word": "ou",
-            "index": 256
+            "word": "suis",
+            "index": 120
         },
         {
-            "word": "territoire",
-            "index": 259
+            "word": "étudie",
+            "index": 124
         },
         {
-            "word": "complexe",
-            "index": 265
+            "word": "des",
+            "index": 125
         },
         {
-            "word": "y",
-            "index": 268
+            "word": "territoires",
+            "index": 126
         },
         {
-            "word": "données",
-            "index": 273
+            "word": "ont",
+            "index": 139
         },
         {
-            "word": "rassembler",
-            "index": 275
+            "word": "à",
+            "index": 143
         },
         {
-            "word": "production",
-            "index": 277
+            "word": "voir",
+            "index": 144
         },
         {
-            "word": "agricole",
-            "index": 278
+            "word": "avec",
+            "index": 145
         },
         {
-            "word": "l'extraction",
-            "index": 279
+            "word": "aussi",
+            "index": 150
         },
         {
-            "word": "rejets",
-            "index": 282
+            "word": "imaginez",
+            "index": 153
         },
         {
-            "word": "l'eau",
-            "index": 286
+            "word": "comme",
+            "index": 156
         },
         {
-            "word": "transport",
-            "index": 292
+            "word": "lequel",
+            "index": 161
         },
         {
-            "word": "marchandises",
-            "index": 294
+            "word": "serions",
+            "index": 163
         },
         {
-            "word": "d'autres",
-            "index": 297
+            "word": "en",
+            "index": 165
         },
         {
-            "word": "au",
-            "index": 298
+            "word": "quelque",
+            "index": 166
         },
         {
-            "word": "tonnes",
-            "index": 310
+            "word": "que",
+            "index": 173
         },
         {
-            "word": "qui",
-            "index": 311
+            "word": "puisse",
+            "index": 179
         },
         {
-            "word": "circulent",
-            "index": 312
-        },
-        {
-            "word": "l'alsace",
-            "index": 319
-        },
-        {
-            "word": "mon",
-            "index": 321
-        },
-        {
-            "word": "rendent",
-            "index": 329
-        },
-        {
-            "word": "facile",
-            "index": 334
-        },
-        {
-            "word": "nos",
-            "index": 339
-        },
-        {
-            "word": "d'exploiter",
-            "index": 346
-        },
-        {
-            "word": "cela",
-            "index": 351
-        },
-        {
-            "word": "ordinateur",
-            "index": 353
-        },
-        {
-            "word": "serviteur",
-            "index": 356
-        },
-        {
-            "word": "utile",
-            "index": 358
-        },
-        {
-            "word": "après",
-            "index": 359
-        },
-        {
-            "word": "programme",
-            "index": 371
-        },
-        {
-            "word": "dédié",
-            "index": 372
-        },
-        {
-            "word": "d'informations",
-            "index": 382
-        },
-        {
-            "word": "me",
-            "index": 384
-        },
-        {
-            "word": "permet",
-            "index": 385
-        },
-        {
-            "word": "répondre",
-            "index": 387
-        },
-        {
-            "word": "rejette",
-            "index": 401
-        },
-        {
-            "word": "quantité",
-            "index": 408
-        },
-        {
-            "word": "veut",
-            "index": 414
-        },
-        {
-            "word": "mettre",
-            "index": 415
-        },
-        {
-            "word": "régime",
-            "index": 418
-        },
-        {
-            "word": "questions",
-            "index": 424
-        },
-        {
-            "word": "qu'il",
-            "index": 430
-        },
-        {
-            "word": "faut",
-            "index": 431
-        },
-        {
-            "word": "sont",
-            "index": 436
-        },
-        {
-            "word": "consomment",
-            "index": 441
-        },
-        {
-            "word": "planète",
-            "index": 453
-        },
-        {
-            "word": "travail",
-            "index": 460
-        },
-        {
-            "word": "j'espère",
-            "index": 461
-        },
-        {
-            "word": "permettront",
-            "index": 466
-        },
-        {
-            "word": "métier",
-            "index": 470
-        },
-        {
-            "word": "d'exister",
-            "index": 471
-        },
-        {
-            "word": "adapté",
-            "index": 482
-        },
-        {
-            "word": "notre",
-            "index": 485
+            "word": "fonctionner",
+            "index": 180
         },
         {
             "word": "économie",
-            "index": 486
+            "index": 188
+        },
+        {
+            "word": "nous",
+            "index": 190
+        },
+        {
+            "word": "devons",
+            "index": 191
+        },
+        {
+            "word": "mobiliser",
+            "index": 192
+        },
+        {
+            "word": "ressources",
+            "index": 194
+        },
+        {
+            "word": "bois",
+            "index": 198
+        },
+        {
+            "word": "du",
+            "index": 199
+        },
+        {
+            "word": "pétrole",
+            "index": 200
+        },
+        {
+            "word": "évidemment",
+            "index": 207
+        },
+        {
+            "word": "pas",
+            "index": 208
+        },
+        {
+            "word": "consomme",
+            "index": 225
+        },
+        {
+            "word": "si",
+            "index": 231
+        },
+        {
+            "word": "est",
+            "index": 241
+        },
+        {
+            "word": "difficile",
+            "index": 244
+        },
+        {
+            "word": "il",
+            "index": 245
+        },
+        {
+            "word": "peser",
+            "index": 248
+        },
+        {
+            "word": "ses",
+            "index": 249
+        },
+        {
+            "word": "avant",
+            "index": 251
+        },
+        {
+            "word": "donner",
+            "index": 255
+        },
+        {
+            "word": "espérer",
+            "index": 258
+        },
+        {
+            "word": "mange",
+            "index": 262
+        },
+        {
+            "word": "ou",
+            "index": 274
+        },
+        {
+            "word": "territoire",
+            "index": 277
+        },
+        {
+            "word": "complexe",
+            "index": 283
+        },
+        {
+            "word": "y",
+            "index": 286
+        },
+        {
+            "word": "données",
+            "index": 291
+        },
+        {
+            "word": "rassembler",
+            "index": 293
+        },
+        {
+            "word": "production",
+            "index": 295
+        },
+        {
+            "word": "agricole",
+            "index": 296
+        },
+        {
+            "word": "extraction",
+            "index": 298
+        },
+        {
+            "word": "rejets",
+            "index": 301
+        },
+        {
+            "word": "eau",
+            "index": 307
+        },
+        {
+            "word": "transport",
+            "index": 313
+        },
+        {
+            "word": "marchandises",
+            "index": 315
+        },
+        {
+            "word": "autres",
+            "index": 319
+        },
+        {
+            "word": "au",
+            "index": 320
+        },
+        {
+            "word": "tonnes",
+            "index": 332
+        },
+        {
+            "word": "qui",
+            "index": 333
+        },
+        {
+            "word": "circulent",
+            "index": 334
+        },
+        {
+            "word": "alsace",
+            "index": 342
+        },
+        {
+            "word": "mon",
+            "index": 344
+        },
+        {
+            "word": "rendent",
+            "index": 352
+        },
+        {
+            "word": "facile",
+            "index": 357
+        },
+        {
+            "word": "nos",
+            "index": 363
+        },
+        {
+            "word": "exploiter",
+            "index": 371
+        },
+        {
+            "word": "cela",
+            "index": 376
+        },
+        {
+            "word": "ordinateur",
+            "index": 378
+        },
+        {
+            "word": "serviteur",
+            "index": 381
+        },
+        {
+            "word": "utile",
+            "index": 383
+        },
+        {
+            "word": "après",
+            "index": 384
+        },
+        {
+            "word": "programme",
+            "index": 398
+        },
+        {
+            "word": "dédié",
+            "index": 399
+        },
+        {
+            "word": "informations",
+            "index": 410
+        },
+        {
+            "word": "me",
+            "index": 412
+        },
+        {
+            "word": "permet",
+            "index": 413
+        },
+        {
+            "word": "répondre",
+            "index": 415
+        },
+        {
+            "word": "rejette",
+            "index": 429
+        },
+        {
+            "word": "quantité",
+            "index": 436
+        },
+        {
+            "word": "veut",
+            "index": 442
+        },
+        {
+            "word": "mettre",
+            "index": 443
+        },
+        {
+            "word": "régime",
+            "index": 446
+        },
+        {
+            "word": "questions",
+            "index": 452
+        },
+        {
+            "word": "est",
+            "index": 456
+        },
+        {
+            "word": "il",
+            "index": 460
+        },
+        {
+            "word": "faut",
+            "index": 461
+        },
+        {
+            "word": "sont",
+            "index": 466
+        },
+        {
+            "word": "consomment",
+            "index": 471
+        },
+        {
+            "word": "planète",
+            "index": 483
+        },
+        {
+            "word": "travail",
+            "index": 490
+        },
+        {
+            "word": "espère",
+            "index": 492
+        },
+        {
+            "word": "permettront",
+            "index": 497
+        },
+        {
+            "word": "métier",
+            "index": 501
+        },
+        {
+            "word": "exister",
+            "index": 503
+        },
+        {
+            "word": "adapté",
+            "index": 514
+        },
+        {
+            "word": "notre",
+            "index": 517
         },
         {
             "word": "continuer",
-            "index": 488
+            "index": 520
         }
     ],
     "highrise": [
         {
             "word": "organisme",
-            "index": 33
+            "index": 35
         },
         {
             "word": "contiennent",
-            "index": 41
+            "index": 45
         },
         {
             "word": "processus",
-            "index": 56
+            "index": 60
         },
         {
             "word": "ingérés",
-            "index": 72
+            "index": 77
         },
         {
             "word": "ressort",
-            "index": 85
+            "index": 91
         },
         {
             "word": "fonctionner",
-            "index": 168
+            "index": 180
         },
         {
             "word": "tourne",
-            "index": 175
+            "index": 189
         },
         {
             "word": "donner",
-            "index": 240
+            "index": 255
         },
         {
             "word": "territoire",
-            "index": 259
+            "index": 277
         },
         {
             "word": "brutes",
-            "index": 397
+            "index": 425
         }
     ],
     "highfall": [
         {
             "word": "les",
-            "index": 16
+            "index": 18
         },
         {
             "word": "aussi",
-            "index": 138
+            "index": 150
         },
         {
             "word": "facile",
-            "index": 334
+            "index": 357
         },
         {
             "word": "chiara",
-            "index": 416
+            "index": 444
         }
     ]
 }

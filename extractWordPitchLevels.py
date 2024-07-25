@@ -70,6 +70,8 @@ def find_spacy_token_idx(word, spacy_tokens, last_index):
     Returns:
         int: The index of the matched SpaCy token, or -1 if not found.
     """
+    if "'" in word.text:
+        word.text = word.text.split("'")[-1]
     for i, token in enumerate(spacy_tokens):
         if token.strip() == word.text.strip() and i > last_index:
             return i

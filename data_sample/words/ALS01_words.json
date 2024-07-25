@@ -6,277 +6,273 @@
         },
         {
             "word": "la",
-            "index": 6
-        },
-        {
-            "word": "maison",
             "index": 7
         },
         {
+            "word": "maison",
+            "index": 8
+        },
+        {
             "word": "une",
-            "index": 36
+            "index": 41
         },
         {
             "word": "bouteille",
-            "index": 37
+            "index": 42
         },
         {
             "word": "chirurgie",
-            "index": 51
+            "index": 56
         },
         {
             "word": "arrêter",
-            "index": 83
+            "index": 90
         },
         {
-            "word": "s'accumule",
-            "index": 89
+            "word": "accumule",
+            "index": 97
         },
         {
             "word": "tuyau",
-            "index": 130
+            "index": 141
         },
         {
             "word": "élasticité",
-            "index": 153
+            "index": 166
         },
         {
             "word": "dire",
-            "index": 158
+            "index": 172
         },
         {
             "word": "déformer",
-            "index": 163
+            "index": 177
         },
         {
             "word": "sans",
-            "index": 164
-        },
-        {
-            "word": "tous",
-            "index": 168
-        },
-        {
-            "word": "ces",
-            "index": 169
-        },
-        {
-            "word": "phénomènes",
-            "index": 170
-        },
-        {
-            "word": "remodelage",
-            "index": 174
-        },
-        {
-            "word": "peu",
             "index": 178
         },
         {
+            "word": "tous",
+            "index": 182
+        },
+        {
+            "word": "ces",
+            "index": 183
+        },
+        {
+            "word": "phénomènes",
+            "index": 184
+        },
+        {
+            "word": "remodelage",
+            "index": 189
+        },
+        {
+            "word": "peu",
+            "index": 193
+        },
+        {
             "word": "surtout",
-            "index": 181
-        },
-        {
-            "word": "c'est",
-            "index": 199
-        },
-        {
-            "word": "dans",
-            "index": 201
-        },
-        {
-            "word": "ma",
-            "index": 202
-        },
-        {
-            "word": "baignoire",
-            "index": 203
-        },
-        {
-            "word": "canard",
-            "index": 207
-        },
-        {
-            "word": "déboucheur",
-            "index": 215
-        },
-        {
-            "word": "pour",
-            "index": 220
-        },
-        {
-            "word": "pouvoir",
-            "index": 221
-        },
-        {
-            "word": "maladie",
-            "index": 224
-        },
-        {
-            "word": "projet",
-            "index": 247
-        },
-        {
-            "word": "cette",
-            "index": 254
-        },
-        {
-            "word": "thrombose",
-            "index": 255
-        },
-        {
-            "word": "chez",
-            "index": 257
-        },
-        {
-            "word": "le",
-            "index": 258
-        },
-        {
-            "word": "cochon",
-            "index": 259
-        },
-        {
-            "word": "similaire",
-            "index": 275
-        },
-        {
-            "word": "qui",
-            "index": 278
-        },
-        {
-            "word": "passe",
-            "index": 280
-        },
-        {
-            "word": "comment",
-            "index": 283
-        },
-        {
-            "word": "observer",
-            "index": 289
-        },
-        {
-            "word": "combien",
-            "index": 294
-        },
-        {
-            "word": "ça",
-            "index": 298
-        },
-        {
-            "word": "énormément",
-            "index": 300
-        },
-        {
-            "word": "protocole",
-            "index": 320
+            "index": 196
         },
         {
             "word": "est",
-            "index": 332
+            "index": 215
+        },
+        {
+            "word": "dans",
+            "index": 217
+        },
+        {
+            "word": "ma",
+            "index": 218
+        },
+        {
+            "word": "baignoire",
+            "index": 219
+        },
+        {
+            "word": "canard",
+            "index": 224
+        },
+        {
+            "word": "déboucheur",
+            "index": 233
+        },
+        {
+            "word": "pour",
+            "index": 239
+        },
+        {
+            "word": "pouvoir",
+            "index": 240
+        },
+        {
+            "word": "maladie",
+            "index": 243
+        },
+        {
+            "word": "projet",
+            "index": 269
+        },
+        {
+            "word": "cette",
+            "index": 276
+        },
+        {
+            "word": "thrombose",
+            "index": 277
+        },
+        {
+            "word": "chez",
+            "index": 279
+        },
+        {
+            "word": "le",
+            "index": 280
+        },
+        {
+            "word": "cochon",
+            "index": 281
+        },
+        {
+            "word": "similaire",
+            "index": 298
+        },
+        {
+            "word": "qui",
+            "index": 301
+        },
+        {
+            "word": "passe",
+            "index": 303
+        },
+        {
+            "word": "comment",
+            "index": 307
+        },
+        {
+            "word": "observer",
+            "index": 313
+        },
+        {
+            "word": "combien",
+            "index": 318
+        },
+        {
+            "word": "ça",
+            "index": 322
+        },
+        {
+            "word": "énormément",
+            "index": 325
+        },
+        {
+            "word": "protocole",
+            "index": 349
         },
         {
             "word": "milli",
-            "index": 333
+            "index": 363
         },
         {
             "word": "niveau",
-            "index": 352
+            "index": 384
         },
         {
             "word": "du",
-            "index": 353
+            "index": 385
         },
         {
             "word": "pli",
-            "index": 360
+            "index": 392
         },
         {
             "word": "milieu",
-            "index": 380
-        },
-        {
-            "word": "j'injecte",
-            "index": 381
-        },
-        {
-            "word": "active",
-            "index": 388
-        },
-        {
-            "word": "obtenu",
-            "index": 410
-        },
-        {
-            "word": "complètement",
             "index": 413
         },
         {
+            "word": "injecte",
+            "index": 415
+        },
+        {
+            "word": "active",
+            "index": 422
+        },
+        {
+            "word": "obtenu",
+            "index": 446
+        },
+        {
+            "word": "complètement",
+            "index": 449
+        },
+        {
             "word": "très",
-            "index": 418
+            "index": 455
         },
         {
             "word": "récupérer",
-            "index": 433
+            "index": 471
         },
         {
             "word": "a",
-            "index": 444
+            "index": 483
         },
         {
             "word": "succès",
-            "index": 447
+            "index": 486
         },
         {
             "word": "aussi",
-            "index": 460
+            "index": 499
         },
         {
             "word": "retravailler",
-            "index": 465
+            "index": 504
         },
         {
             "word": "final",
-            "index": 476
+            "index": 516
         },
         {
             "word": "reproductible",
-            "index": 490
+            "index": 531
         },
         {
             "word": "caractéristiques",
-            "index": 500
+            "index": 541
         },
         {
             "word": "similaires",
-            "index": 501
-        },
-        {
-            "word": "résultats",
-            "index": 510
-        },
-        {
-            "word": "d'identifier",
-            "index": 520
-        },
-        {
-            "word": "peut",
             "index": 542
         },
         {
+            "word": "résultats",
+            "index": 553
+        },
+        {
+            "word": "identifier",
+            "index": 566
+        },
+        {
+            "word": "peut",
+            "index": 589
+        },
+        {
             "word": "spécifique",
-            "index": 559
+            "index": 608
         },
         {
             "word": "ainsi",
-            "index": 564
+            "index": 613
         }
     ],
     "low": [
         {
             "word": "le",
-            "index": 21
+            "index": 23
         },
         {
             "word": "gardé",
@@ -284,515 +280,519 @@
         },
         {
             "word": "amie",
-            "index": 11
+            "index": 12
         },
         {
             "word": "pas",
-            "index": 14
-        },
-        {
-            "word": "pu",
-            "index": 15
-        },
-        {
-            "word": "prendre",
             "index": 16
         },
         {
+            "word": "pu",
+            "index": 17
+        },
+        {
+            "word": "prendre",
+            "index": 18
+        },
+        {
             "word": "que",
-            "index": 20
+            "index": 22
         },
         {
             "word": "bouché",
-            "index": 24
+            "index": 26
         },
         {
             "word": "métal",
-            "index": 30
+            "index": 33
         },
         {
-            "word": "j'ai",
-            "index": 31
-        },
-        {
-            "word": "versé",
+            "word": "ai",
             "index": 35
         },
         {
+            "word": "versé",
+            "index": 40
+        },
+        {
             "word": "de",
-            "index": 38
+            "index": 43
         },
         {
             "word": "dans",
-            "index": 44
-        },
-        {
-            "word": "la",
-            "index": 45
-        },
-        {
-            "word": "interne",
             "index": 49
         },
         {
-            "word": "en",
+            "word": "la",
             "index": 50
         },
         {
-            "word": "vasculaire",
-            "index": 52
+            "word": "interne",
+            "index": 54
         },
         {
-            "word": "mon",
-            "index": 53
-        },
-        {
-            "word": "c'est",
+            "word": "en",
             "index": 55
         },
         {
-            "word": "déboucher",
+            "word": "vasculaire",
             "index": 57
         },
         {
-            "word": "du",
-            "index": 60
-        },
-        {
-            "word": "corps",
-            "index": 61
-        },
-        {
-            "word": "humain",
-            "index": 62
-        },
-        {
-            "word": "les",
-            "index": 63
-        },
-        {
-            "word": "caillot",
-            "index": 72
-        },
-        {
-            "word": "on",
-            "index": 75
-        },
-        {
-            "word": "circuler",
-            "index": 87
-        },
-        {
-            "word": "il",
-            "index": 88
-        },
-        {
-            "word": "s'accumule",
-            "index": 89
-        },
-        {
-            "word": "crée",
-            "index": 91
-        },
-        {
-            "word": "cicatrisent",
-            "index": 102
-        },
-        {
-            "word": "des",
-            "index": 105
-        },
-        {
-            "word": "à",
-            "index": 107
-        },
-        {
-            "word": "marche",
-            "index": 109
-        },
-        {
-            "word": "europe",
-            "index": 111
-        },
-        {
-            "word": "année",
-            "index": 113
-        },
-        {
-            "word": "nouvelles",
-            "index": 117
-        },
-        {
-            "word": "personnes",
-            "index": 118
-        },
-        {
-            "word": "vont",
-            "index": 120
-        },
-        {
-            "word": "être",
-            "index": 121
-        },
-        {
-            "word": "atteintes",
-            "index": 122
-        },
-        {
-            "word": "cette",
-            "index": 124
-        },
-        {
-            "word": "maladie",
-            "index": 125
-        },
-        {
-            "word": "tuyau",
-            "index": 130
-        },
-        {
-            "word": "mais",
-            "index": 131
-        },
-        {
-            "word": "qui",
-            "index": 135
-        },
-        {
-            "word": "vivant",
-            "index": 137
-        },
-        {
-            "word": "va",
-            "index": 139
-        },
-        {
-            "word": "quand",
-            "index": 141
+            "word": "mon",
+            "index": 58
         },
         {
             "word": "est",
-            "index": 143
+            "index": 61
         },
         {
-            "word": "son",
-            "index": 152
+            "word": "déboucher",
+            "index": 63
         },
         {
-            "word": "élasticité",
+            "word": "du",
+            "index": 66
+        },
+        {
+            "word": "corps",
+            "index": 67
+        },
+        {
+            "word": "humain",
+            "index": 68
+        },
+        {
+            "word": "les",
+            "index": 69
+        },
+        {
+            "word": "caillot",
+            "index": 78
+        },
+        {
+            "word": "on",
+            "index": 81
+        },
+        {
+            "word": "circuler",
+            "index": 94
+        },
+        {
+            "word": "il",
+            "index": 95
+        },
+        {
+            "word": "accumule",
+            "index": 97
+        },
+        {
+            "word": "crée",
+            "index": 99
+        },
+        {
+            "word": "cicatrisent",
+            "index": 111
+        },
+        {
+            "word": "des",
+            "index": 114
+        },
+        {
+            "word": "à",
+            "index": 116
+        },
+        {
+            "word": "marche",
+            "index": 118
+        },
+        {
+            "word": "europe",
+            "index": 120
+        },
+        {
+            "word": "année",
+            "index": 122
+        },
+        {
+            "word": "est",
+            "index": 124
+        },
+        {
+            "word": "nouvelles",
+            "index": 127
+        },
+        {
+            "word": "personnes",
+            "index": 128
+        },
+        {
+            "word": "vont",
+            "index": 130
+        },
+        {
+            "word": "être",
+            "index": 131
+        },
+        {
+            "word": "atteintes",
+            "index": 132
+        },
+        {
+            "word": "cette",
+            "index": 134
+        },
+        {
+            "word": "maladie",
+            "index": 135
+        },
+        {
+            "word": "tuyau",
+            "index": 141
+        },
+        {
+            "word": "mais",
+            "index": 142
+        },
+        {
+            "word": "qui",
+            "index": 147
+        },
+        {
+            "word": "vivant",
+            "index": 149
+        },
+        {
+            "word": "va",
+            "index": 151
+        },
+        {
+            "word": "quand",
             "index": 153
         },
         {
-            "word": "changer",
-            "index": 155
+            "word": "son",
+            "index": 165
         },
         {
-            "word": "se",
-            "index": 162
-        },
-        {
-            "word": "casser",
+            "word": "élasticité",
             "index": 166
         },
         {
-            "word": "et",
-            "index": 167
+            "word": "changer",
+            "index": 168
         },
         {
-            "word": "phénomènes",
-            "index": 170
-        },
-        {
-            "word": "remodelage",
-            "index": 174
-        },
-        {
-            "word": "veineux",
-            "index": 175
-        },
-        {
-            "word": "sont",
+            "word": "se",
             "index": 176
         },
         {
-            "word": "aujourd'hui",
-            "index": 177
+            "word": "casser",
+            "index": 180
         },
         {
-            "word": "étudiés",
-            "index": 183
+            "word": "et",
+            "index": 181
         },
         {
-            "word": "ne",
-            "index": 187
+            "word": "phénomènes",
+            "index": 184
         },
         {
-            "word": "sait",
-            "index": 188
+            "word": "remodelage",
+            "index": 189
         },
         {
-            "word": "comment",
+            "word": "veineux",
             "index": 190
         },
         {
-            "word": "ça",
+            "word": "sont",
             "index": 191
         },
         {
-            "word": "soigner",
+            "word": "hui",
+            "index": -1
+        },
+        {
+            "word": "étudiés",
             "index": 198
         },
         {
-            "word": "baignoire",
+            "word": "ne",
+            "index": 202
+        },
+        {
+            "word": "sait",
             "index": 203
         },
         {
-            "word": "canard",
-            "index": 207
+            "word": "comment",
+            "index": 205
         },
         {
-            "word": "tombé",
-            "index": 210
+            "word": "ça",
+            "index": 206
         },
         {
-            "word": "n'est",
-            "index": 212
+            "word": "soigner",
+            "index": 213
         },
         {
-            "word": "m'aider",
+            "word": "baignoire",
             "index": 219
         },
         {
-            "word": "l'homme",
-            "index": 232
+            "word": "canard",
+            "index": 224
+        },
+        {
+            "word": "tombé",
+            "index": 227
+        },
+        {
+            "word": "est",
+            "index": 230
+        },
+        {
+            "word": "aider",
+            "index": 238
+        },
+        {
+            "word": "homme",
+            "index": 252
         },
         {
             "word": "modèle",
-            "index": 236
+            "index": 258
         },
         {
             "word": "mécanismes",
-            "index": 244
+            "index": 266
         },
         {
             "word": "similaires",
-            "index": 245
+            "index": 267
         },
         {
             "word": "recherche",
-            "index": 249
+            "index": 271
         },
         {
             "word": "donc",
-            "index": 251
+            "index": 273
         },
         {
             "word": "soit",
-            "index": 274
+            "index": 297
         },
         {
             "word": "similaire",
-            "index": 275
+            "index": 298
         },
         {
             "word": "réagir",
-            "index": 287
+            "index": 311
         },
         {
             "word": "temps",
-            "index": 296
+            "index": 320
         },
         {
             "word": "lu",
-            "index": 301
+            "index": 326
         },
         {
-            "word": "l'étranger",
-            "index": 309
+            "word": "étranger",
+            "index": 337
         },
         {
             "word": "vétérinaires",
-            "index": 314
+            "index": 342
+        },
+        {
+            "word": "ai",
+            "index": 344
         },
         {
             "word": "invasif",
-            "index": 334
-        },
-        {
-            "word": "possible",
-            "index": 343
-        },
-        {
-            "word": "générale",
-            "index": 346
-        },
-        {
-            "word": "une",
-            "index": 349
-        },
-        {
-            "word": "par",
-            "index": 363
-        },
-        {
-            "word": "ces",
             "index": 364
         },
         {
-            "word": "j'avance",
-            "index": 367
+            "word": "possible",
+            "index": 375
+        },
+        {
+            "word": "générale",
+            "index": 378
+        },
+        {
+            "word": "une",
+            "index": 381
+        },
+        {
+            "word": "par",
+            "index": 395
+        },
+        {
+            "word": "ces",
+            "index": 396
+        },
+        {
+            "word": "avance",
+            "index": 400
         },
         {
             "word": "ballon",
-            "index": 369
+            "index": 402
         },
         {
             "word": "au",
-            "index": 379
-        },
-        {
-            "word": "thrombine",
-            "index": 384
-        },
-        {
-            "word": "agent",
-            "index": 386
-        },
-        {
-            "word": "active",
-            "index": 388
-        },
-        {
-            "word": "coagulation",
-            "index": 390
-        },
-        {
-            "word": "marché",
-            "index": 408
-        },
-        {
-            "word": "veine",
             "index": 412
         },
         {
-            "word": "s'est",
-            "index": 417
+            "word": "thrombine",
+            "index": 418
         },
         {
-            "word": "a",
+            "word": "agent",
+            "index": 420
+        },
+        {
+            "word": "active",
             "index": 422
         },
         {
-            "word": "microscope",
-            "index": 441
+            "word": "coagulation",
+            "index": 424
         },
         {
-            "word": "y",
+            "word": "marché",
             "index": 443
         },
         {
-            "word": "succès",
-            "index": 447
+            "word": "veine",
+            "index": 448
         },
         {
-            "word": "eu",
-            "index": 451
+            "word": "est",
+            "index": 454
         },
         {
-            "word": "quelques",
-            "index": 452
-        },
-        {
-            "word": "complications",
-            "index": 453
-        },
-        {
-            "word": "échecs",
+            "word": "a",
             "index": 459
         },
         {
-            "word": "aussi",
-            "index": 460
+            "word": "microscope",
+            "index": 480
         },
         {
-            "word": "retravailler",
-            "index": 465
+            "word": "y",
+            "index": 482
         },
         {
-            "word": "encore",
-            "index": 466
+            "word": "succès",
+            "index": 486
         },
         {
-            "word": "protocole",
-            "index": 470
-        },
-        {
-            "word": "d'anticiper",
-            "index": 472
-        },
-        {
-            "word": "reproductible",
+            "word": "eu",
             "index": 490
         },
         {
-            "word": "aux",
+            "word": "quelques",
+            "index": 491
+        },
+        {
+            "word": "complications",
+            "index": 492
+        },
+        {
+            "word": "échecs",
+            "index": 498
+        },
+        {
+            "word": "aussi",
             "index": 499
         },
         {
-            "word": "qu'on",
+            "word": "retravailler",
             "index": 504
         },
         {
-            "word": "d'identifier",
-            "index": 520
+            "word": "encore",
+            "index": 505
+        },
+        {
+            "word": "protocole",
+            "index": 509
+        },
+        {
+            "word": "anticiper",
+            "index": 512
+        },
+        {
+            "word": "reproductible",
+            "index": 531
+        },
+        {
+            "word": "aux",
+            "index": 540
+        },
+        {
+            "word": "on",
+            "index": 546
+        },
+        {
+            "word": "identifier",
+            "index": 566
         },
         {
             "word": "apparaissent",
-            "index": 526
+            "index": 572
         },
         {
             "word": "disparaissent",
-            "index": 529
+            "index": 575
         },
         {
-            "word": "l'efficacité",
-            "index": 553
+            "word": "efficacité",
+            "index": 602
         },
         {
             "word": "certains",
-            "index": 555
+            "index": 604
         },
         {
             "word": "médicaments",
-            "index": 556
+            "index": 605
         },
         {
             "word": "manière",
-            "index": 558
+            "index": 607
         }
     ],
     "highrise": [
         {
             "word": "vie",
-            "index": 46
+            "index": 51
         },
         {
             "word": "cou",
-            "index": 354
+            "index": 386
         }
     ],
     "highfall": [
         {
             "word": "arrêter",
-            "index": 83
+            "index": 90
         },
         {
             "word": "créer",
-            "index": 253
+            "index": 275
         },
         {
             "word": "eu",
-            "index": 423
+            "index": 460
         }
     ]
 }
