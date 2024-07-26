@@ -32,8 +32,10 @@ def read_words(json_file: str):
     """
     with open(json_file, 'r') as file:
         data = json.load(file)
-    words = list(data.values())
-    return words
+    return [x["word"] for x in data['high']]
+    # words = list(data["word"].values())
+    # print(words)
+    # return words
 
 if __name__ == "__main__":
     # Define paths
