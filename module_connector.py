@@ -32,11 +32,15 @@ def read_words(json_file: str):
     """
     with open(json_file, 'r') as file:
         data = json.load(file)
-    print(data)
     return [x["word"] for x in data['high']]
     # words = list(data["word"].values())
     # print(words)
     # return words
+
+def read_indices(json_file: str):
+    with open(json_file, 'r') as file:
+        data = json.load(file)
+    return [x["index"] for x in data["high"]]
 
 if __name__ == "__main__":
     # Define paths
@@ -50,7 +54,8 @@ if __name__ == "__main__":
     for json_file, transcript in zip(words_json, transcripts):
         print(f"\nCurrently dealing {json_file}")
         words_to_contextualize = read_words(json_file)
-        embeddings = be.get_contextualized_bert_embeddings(transcript, words_to_contextualize)
+        indices_to_contextualize = read_indices(json_file)
+        embeddings = be.get_contextualized_bert_embeddings(transcript, indices_to_contextualize)
 
         # Print embeddings for each word
         for word, embedding in embeddings:

@@ -29,13 +29,13 @@ import torch
 from typing import List, Tuple
 
 # Load spaCy model for tokenization
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("fr_core_news_sm")
 
 # Load pre-trained BERT model and tokenizer
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = BertModel.from_pretrained('bert-base-uncased')
 
-def get_contextualized_bert_embeddings(text: str, words: List[str], max_length: int = 512) -> List[Tuple[str, torch.Tensor]]:
+def get_contextualized_bert_embeddings(text: str, indices: List[int], max_length: int = 512) -> List[Tuple[str, torch.Tensor]]:
     """
     Get contextualized BERT embeddings for specified words in the given text.
 
@@ -87,7 +87,7 @@ def get_contextualized_bert_embeddings(text: str, words: List[str], max_length: 
         
         # Map spaCy tokens to BERT tokens and extract their embeddings
         for token in chunk:
-            if token.text not in words:
+            if token.idx not in indices:
                 continue
             
             # Get the index of the token in the BERT token list
