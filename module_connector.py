@@ -32,6 +32,7 @@ def read_words(json_file: str):
     """
     with open(json_file, 'r') as file:
         data = json.load(file)
+    print(data)
     return [x["word"] for x in data['high']]
     # words = list(data["word"].values())
     # print(words)
@@ -44,12 +45,13 @@ if __name__ == "__main__":
 
     # Read transcripts and words
     transcripts = read_transcripts(transcripts_folder)
-    for json_file in words_json:
+    # for json_file in words_json:
+
+    for json_file, transcript in zip(words_json, transcripts):
+        print(f"\nCurrently dealing {json_file}")
         words_to_contextualize = read_words(json_file)
+        embeddings = be.get_contextualized_bert_embeddings(transcript, words_to_contextualize)
 
-        for transcript in transcripts:
-            embeddings = be.get_contextualized_bert_embeddings(transcript, words_to_contextualize)
-
-            # Print embeddings for each word
-            for word, embedding in embeddings:
-                print(f"Word: {word}, Embedding: {embedding[:5]}...")  # Print first 5 values for brevity
+        # Print embeddings for each word
+        for word, embedding in embeddings:
+            print(f"Word: {word}, Embedding: {embedding[:5]}...")  # Print first 5 values for brevity
